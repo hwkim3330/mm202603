@@ -1,0 +1,75 @@
+{
+  "code": "238090",
+  "name": "앤디포스",
+  "score": 23,
+  "categories": "caution",
+  "reasons": "소수계좌 매수관여 과다 | 투자경고 지정예고",
+  "latest_date": "2026-03-09",
+  "event_count": 3,
+  "events": [
+    {
+      "code": "238090",
+      "name": "앤디포스",
+      "category": "caution",
+      "reason": "소수계좌 매수관여 과다",
+      "act_date": "2026-03-06",
+      "design_date": "2026-03-09",
+      "price": "2,875",
+      "delta": "15",
+      "raw": {
+        "rn": "14",
+        "isu_srt_cd": "238090",
+        "isu_nm": "앤디포스",
+        "gubun": "소수계좌 매수관여 과다",
+        "isu_cur_pr": "2,875",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "15",
+        "act_dd": "2026/03/06",
+        "design_dd": "2026/03/09"
+      }
+    },
+    {
+      "code": "238090",
+      "name": "앤디포스",
+      "category": "caution",
+      "reason": "소수계좌 매수관여 과다",
+      "act_date": "2026-03-04",
+      "design_date": "2026-03-05",
+      "price": "2,875",
+      "delta": "15",
+      "raw": {
+        "rn": "68",
+        "isu_srt_cd": "238090",
+        "isu_nm": "앤디포스",
+        "gubun": "소수계좌 매수관여 과다",
+        "isu_cur_pr": "2,875",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "15",
+        "act_dd": "2026/03/04",
+        "design_dd": "2026/03/05"
+      }
+    },
+    {
+      "code": "238090",
+      "name": "앤디포스",
+      "category": "caution",
+      "reason": "투자경고 지정예고",
+      "act_date": "2026-03-04",
+      "design_date": "2026-03-05",
+      "price": "2,875",
+      "delta": "15",
+      "raw": {
+        "rn": "69",
+        "isu_srt_cd": "238090",
+        "isu_nm": "앤디포스",
+        "gubun": "투자경고 지정예고",
+        "isu_cur_pr": "2,875",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "15",
+        "act_dd": "2026/03/04",
+        "design_dd": "2026/03/05"
+      }
+    }
+  ],
+  "explanation": "caution+2 / 소수계좌 매수관여 과다+5 / recent(2026-03-09)+3 / 소수계좌 매수관여 과다+5 / recent(2026-03-05)+1 / 투자경고 지정예고+4 / recent(2026-03-05)+1 / multi_reason+2"
+}

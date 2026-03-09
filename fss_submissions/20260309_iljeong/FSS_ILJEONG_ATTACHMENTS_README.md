@@ -34,3 +34,6 @@
 - `pipeline_runs/20260309/008500_일정실업/archive/archive_manifest.csv`
 - `pipeline_runs/20260309/008500_일정실업/archive/archive_manifest.json`
 - `pipeline_runs/20260309/008500_일정실업/archive/raw/*.html`
+- `fss_submissions/20260309_iljeong/kiwoom_evidence/SUMMARY.md`
+- `fss_submissions/20260309_iljeong/kiwoom_evidence/collection_manifest.json`
+- `fss_submissions/20260309_iljeong/kiwoom_evidence/raw/*.json`

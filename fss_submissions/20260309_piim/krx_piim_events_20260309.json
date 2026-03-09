@@ -1,0 +1,138 @@
+{
+  "code": "448900",
+  "name": "한국피아이엠",
+  "score": 43,
+  "categories": "caution",
+  "reasons": "소수계좌 매수관여 과다 | 투자경고 지정예고",
+  "latest_date": "2026-03-09",
+  "event_count": 6,
+  "events": [
+    {
+      "code": "448900",
+      "name": "한국피아이엠",
+      "category": "caution",
+      "reason": "투자경고 지정예고",
+      "act_date": "2026-03-06",
+      "design_date": "2026-03-09",
+      "price": "131,400",
+      "delta": "18,600",
+      "raw": {
+        "rn": "2",
+        "isu_srt_cd": "448900",
+        "isu_nm": "한국피아이엠",
+        "gubun": "투자경고 지정예고",
+        "isu_cur_pr": "131,400",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "18,600",
+        "act_dd": "2026/03/06",
+        "design_dd": "2026/03/09"
+      }
+    },
+    {
+      "code": "448900",
+      "name": "한국피아이엠",
+      "category": "caution",
+      "reason": "소수계좌 매수관여 과다",
+      "act_date": "2026-03-06",
+      "design_date": "2026-03-09",
+      "price": "131,400",
+      "delta": "18,600",
+      "raw": {
+        "rn": "3",
+        "isu_srt_cd": "448900",
+        "isu_nm": "한국피아이엠",
+        "gubun": "소수계좌 매수관여 과다",
+        "isu_cur_pr": "131,400",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "18,600",
+        "act_dd": "2026/03/06",
+        "design_dd": "2026/03/09"
+      }
+    },
+    {
+      "code": "448900",
+      "name": "한국피아이엠",
+      "category": "caution",
+      "reason": "소수계좌 매수관여 과다",
+      "act_date": "2026-03-05",
+      "design_date": "2026-03-06",
+      "price": "131,400",
+      "delta": "18,600",
+      "raw": {
+        "rn": "23",
+        "isu_srt_cd": "448900",
+        "isu_nm": "한국피아이엠",
+        "gubun": "소수계좌 매수관여 과다",
+        "isu_cur_pr": "131,400",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "18,600",
+        "act_dd": "2026/03/05",
+        "design_dd": "2026/03/06"
+      }
+    },
+    {
+      "code": "448900",
+      "name": "한국피아이엠",
+      "category": "caution",
+      "reason": "소수계좌 매수관여 과다",
+      "act_date": "2026-03-03",
+      "design_date": "2026-03-04",
+      "price": "131,400",
+      "delta": "18,600",
+      "raw": {
+        "rn": "78",
+        "isu_srt_cd": "448900",
+        "isu_nm": "한국피아이엠",
+        "gubun": "소수계좌 매수관여 과다",
+        "isu_cur_pr": "131,400",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "18,600",
+        "act_dd": "2026/03/03",
+        "design_dd": "2026/03/04"
+      }
+    },
+    {
+      "code": "448900",
+      "name": "한국피아이엠",
+      "category": "caution",
+      "reason": "투자경고 지정예고",
+      "act_date": "2026-02-27",
+      "design_date": "2026-03-03",
+      "price": "131,400",
+      "delta": "18,600",
+      "raw": {
+        "rn": "114",
+        "isu_srt_cd": "448900",
+        "isu_nm": "한국피아이엠",
+        "gubun": "투자경고 지정예고",
+        "isu_cur_pr": "131,400",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "18,600",
+        "act_dd": "2026/02/27",
+        "design_dd": "2026/03/03"
+      }
+    },
+    {
+      "code": "448900",
+      "name": "한국피아이엠",
+      "category": "caution",
+      "reason": "소수계좌 매수관여 과다",
+      "act_date": "2026-02-27",
+      "design_date": "2026-03-03",
+      "price": "131,400",
+      "delta": "18,600",
+      "raw": {
+        "rn": "115",
+        "isu_srt_cd": "448900",
+        "isu_nm": "한국피아이엠",
+        "gubun": "소수계좌 매수관여 과다",
+        "isu_cur_pr": "131,400",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "18,600",
+        "act_dd": "2026/02/27",
+        "design_dd": "2026/03/03"
+      }
+    }
+  ],
+  "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-09)+3 / 소수계좌 매수관여 과다+5 / recent(2026-03-09)+3 / 소수계좌 매수관여 과다+5 / recent(2026-03-06)+2 / 소수계좌 매수관여 과다+5 / recent(2026-03-04)+1 / 투자경고 지정예고+4 / recent(2026-03-03)+1 / 소수계좌 매수관여 과다+5 / recent(2026-03-03)+1 / multi_reason+2"
+}

@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 
 BASE = 'https://finance.naver.com'
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36'
-KEYWORDS = ['유가', '상한가', '상장폐지', '청산', '호르무즈', '전쟁', '200달러', '유조선', '쩜상', '사이드카', '서킷']
+DEFAULT_KEYWORDS = ['유가', '상한가', '상장폐지', '청산', '호르무즈', '전쟁', '200달러', '유조선', '쩜상', '사이드카', '서킷']
 
 
 def parse_args() -> argparse.Namespace:
@@ -21,6 +21,11 @@ def parse_args() -> argparse.Namespace:
     p.add_argument('--code', required=True, help='6-digit stock code')
     p.add_argument('--pages', type=int, default=20)
     p.add_argument('--output-dir', required=True)
+    p.add_argument(
+        '--keywords',
+        default=','.join(DEFAULT_KEYWORDS),
+        help='Comma-separated keyword list used for date counts and representative post selection.',
+    )
     return p.parse_args()
 
 
@@ -57,19 +62,19 @@ def fetch_rows(code: str, pages: int) -> list[dict]:
     return rows
 
 
-def keyword_stats(rows: list[dict]) -> dict[str, Counter]:
+def keyword_stats(rows: list[dict], keywords: list[str]) -> dict[str, Counter]:
     by_date: dict[str, Counter] = defaultdict(Counter)
     for row in rows:
         day = row['date'].split()[0]
-        for keyword in KEYWORDS:
+        for keyword in keywords:
             if keyword in row['title']:
                 by_date[day][keyword] += 1
     return by_date
 
 
-def representative_posts(rows: list[dict]) -> list[dict]:
+def representative_posts(rows: list[dict], keywords: list[str]) -> list[dict]:
     reps = []
-    for keyword in KEYWORDS:
+    for keyword in keywords:
         candidates = [row for row in rows if keyword in row['title']]
         candidates.sort(key=lambda row: (-row['up'], -row['view'], row['date']))
         if candidates:
@@ -130,9 +135,10 @@ def main() -> int:
         'pages_fetched': max((row['page'] for row in rows), default=0),
         'row_count': len(rows),
         'source': f'{BASE}/item/board.naver?code={args.code}',
+        'keywords': [keyword.strip() for keyword in args.keywords.split(',') if keyword.strip()],
     }
-    by_date = keyword_stats(rows)
-    reps = representative_posts(rows)
+    by_date = keyword_stats(rows, meta['keywords'])
+    reps = representative_posts(rows, meta['keywords'])
     write_csv(output_dir / f'naver_board_{args.code}.csv', rows)
     write_json(output_dir / f'naver_board_{args.code}_summary.json', meta, by_date, reps)
     write_markdown(output_dir / f'naver_board_{args.code}_snapshot.md', args.code, meta, by_date, reps)

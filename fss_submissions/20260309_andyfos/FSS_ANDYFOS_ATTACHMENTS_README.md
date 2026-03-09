@@ -31,6 +31,11 @@
 - `archive_manifest.md`
 - `archive_manifest.csv`
 - `archive_manifest.json`
+- `naver_post_targets_20260309.json`
+- `naver_post_evidence/manifest.md`
+- `naver_post_evidence/manifest.json`
+- `naver_post_evidence/raw/*.content.txt`
+- `naver_post_evidence/raw/*.meta.json`
 - `krx_andyfos_events_20260309.md`
 - `krx_andyfos_events_20260309.json`
 - `naver_board_238090.csv`

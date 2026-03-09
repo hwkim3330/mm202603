@@ -1,0 +1,4 @@
+kiwoom_rest.env
+.kiwoom.env
+__pycache__/
+*.pyc

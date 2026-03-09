@@ -1,6 +1,48 @@
 [
   {
     "label": "post_01",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=409919401&page=9",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/008500/discussion/409919401",
+    "title": "상한가 한번 가주면 제발 앞으로 잘살게ᄋᆢㄷ",
+    "written_at": "2026-01-08T13:55:58",
+    "author": "포",
+    "recommend_count": 0,
+    "view_count": 22,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "post_01.content.txt",
+    "meta_filename": "post_01.meta.json"
+  },
+  {
+    "label": "post_02",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=409866625&page=9",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/008500/discussion/409866625",
+    "title": "상장폐지 1호",
+    "written_at": "2026-01-08T03:37:35",
+    "author": "jampa",
+    "recommend_count": 3,
+    "view_count": 52,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "post_02.content.txt",
+    "meta_filename": "post_02.meta.json"
+  },
+  {
+    "label": "post_03",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=409923632&page=8",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/008500/discussion/409923632",
+    "title": "상폐 탈출 테마 1호 작전 일정실업 ",
+    "written_at": "2026-01-08T14:31:55",
+    "author": "원피스",
+    "recommend_count": 2,
+    "view_count": 67,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "post_03.content.txt",
+    "meta_filename": "post_03.meta.json"
+  },
+  {
+    "label": "post_04",
     "source_url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=413514706&page=2",
     "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/008500/discussion/413514706",
     "title": "세력 시나리오 짜드림",
@@ -10,21 +52,21 @@
     "view_count": 368,
     "image_count": 0,
     "ocr_chars": 0,
-    "text_filename": "post_01.content.txt",
-    "meta_filename": "post_01.meta.json"
+    "text_filename": "post_04.content.txt",
+    "meta_filename": "post_04.meta.json"
   },
   {
-    "label": "post_02",
-    "source_url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=412914157&page=2",
-    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/008500/discussion/412914157",
-    "title": "뭐냐? 이건",
-    "written_at": "2026-02-17T07:41:10",
-    "author": "명쾌한주식매수박사",
-    "recommend_count": 6,
-    "view_count": 267,
+    "label": "post_05",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=409942431&page=7",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/008500/discussion/409942431",
+    "title": "시외에서 ",
+    "written_at": "2026-01-08T18:32:58",
+    "author": "꼭지마스터",
+    "recommend_count": 10,
+    "view_count": 153,
     "image_count": 0,
     "ocr_chars": 0,
-    "text_filename": "post_02.content.txt",
-    "meta_filename": "post_02.meta.json"
+    "text_filename": "post_05.content.txt",
+    "meta_filename": "post_05.meta.json"
   }
 ]

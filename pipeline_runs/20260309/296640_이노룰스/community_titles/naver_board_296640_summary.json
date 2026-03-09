@@ -1,8 +1,8 @@
 {
   "meta": {
     "code": "296640",
-    "pages_fetched": 3,
-    "row_count": 60,
+    "pages_fetched": 12,
+    "row_count": 231,
     "source": "https://finance.naver.com/item/board.naver?code=296640",
     "keywords": [
       "유가",
@@ -20,6 +20,18 @@
     ]
   },
   "keyword_counts_by_date": {
+    "2025.08.05": {
+      "세력": 1
+    },
+    "2025.08.25": {
+      "주포": 1
+    },
+    "2025.10.17": {
+      "상장폐지": 1
+    },
+    "2026.01.22": {
+      "급등": 1
+    },
     "2026.02.09": {
       "주포": 1
     },
@@ -36,25 +48,25 @@
   "representative_posts": [
     {
       "keyword": "상장폐지",
-      "date": "2026.02.13 09:40",
-      "title": "상장폐지가 무섭긴 무서운가보네",
-      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=412799365&page=3",
-      "author": "아뿔사",
-      "view": 195,
-      "up": 3,
+      "date": "2025.10.17 10:14",
+      "title": "상장폐지 [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=405159062&page=8",
+      "author": "쇠력",
+      "view": 347,
+      "up": 6,
       "down": 0,
-      "page": 3
+      "page": 8
     },
     {
       "keyword": "주포",
-      "date": "2026.03.03 14:16",
-      "title": "주포가  신통찮네 ㅋㅋㅋ",
-      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=413907812&page=2",
-      "author": "깨굴님",
-      "view": 67,
-      "up": 2,
-      "down": 2,
-      "page": 2
+      "date": "2025.08.25 14:49",
+      "title": "주포",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=402706796&page=9",
+      "author": "별자리염",
+      "view": 300,
+      "up": 4,
+      "down": 0,
+      "page": 9
     },
     {
       "keyword": "매집",
@@ -66,6 +78,28 @@
       "up": 1,
       "down": 4,
       "page": 3
+    },
+    {
+      "keyword": "세력",
+      "date": "2025.08.05 13:27",
+      "title": "세력이",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=401734781&page=10",
+      "author": "별자리염",
+      "view": 175,
+      "up": 3,
+      "down": 3,
+      "page": 10
+    },
+    {
+      "keyword": "급등",
+      "date": "2026.01.22 10:27",
+      "title": "급등 징조인가 ㅋㅋ",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=410892806&page=4",
+      "author": "쇠력",
+      "view": 86,
+      "up": 2,
+      "down": 3,
+      "page": 4
     }
   ]
 }

@@ -1,4 +1,104 @@
 {
-  "error": "return_code=3: 인증에 실패했습니다[8005:Token이 유효하지 않습니다]",
-  "label": "institutional_trading_trend_ka10045"
+  "orgn_prsm_avg_pric": "2949",
+  "for_prsm_avg_pric": "2861",
+  "stk_orgn_trde_trnsn": [
+    {
+      "dt": "20260309",
+      "close_pric": "-2805",
+      "pre_sig": "5",
+      "pred_pre": "-305",
+      "flu_rt": "-9.81",
+      "trde_qty": "57286",
+      "orgn_dt_acc": "36.000000",
+      "orgn_daly_nettrde_qty": "0",
+      "for_dt_acc": "-32857.000000",
+      "for_daly_nettrde_qty": "0",
+      "limit_exh_rt": "+4.12"
+    },
+    {
+      "dt": "20260306",
+      "close_pric": "-3110",
+      "pre_sig": "5",
+      "pred_pre": "-170",
+      "flu_rt": "-5.18",
+      "trde_qty": "114803",
+      "orgn_dt_acc": "36.000000",
+      "orgn_daly_nettrde_qty": "21",
+      "for_dt_acc": "-32857.000000",
+      "for_daly_nettrde_qty": "-1272",
+      "limit_exh_rt": "+4.12"
+    },
+    {
+      "dt": "20260305",
+      "close_pric": "+3280",
+      "pre_sig": "2",
+      "pred_pre": "+565",
+      "flu_rt": "+20.81",
+      "trde_qty": "107205",
+      "orgn_dt_acc": "15.000000",
+      "orgn_daly_nettrde_qty": "0",
+      "for_dt_acc": "-31585.000000",
+      "for_daly_nettrde_qty": "4576",
+      "limit_exh_rt": "+4.14"
+    },
+    {
+      "dt": "20260304",
+      "close_pric": "-2715",
+      "pre_sig": "5",
+      "pred_pre": "-235",
+      "flu_rt": "-7.97",
+      "trde_qty": "80084",
+      "orgn_dt_acc": "15.000000",
+      "orgn_daly_nettrde_qty": "-8",
+      "for_dt_acc": "-36161.000000",
+      "for_daly_nettrde_qty": "271",
+      "limit_exh_rt": "+4.07"
+    },
+    {
+      "dt": "20260303",
+      "close_pric": "+2950",
+      "pre_sig": "2",
+      "pred_pre": "+165",
+      "flu_rt": "+5.92",
+      "trde_qty": "192320",
+      "orgn_dt_acc": "23.000000",
+      "orgn_daly_nettrde_qty": "2",
+      "for_dt_acc": "-36432.000000",
+      "for_daly_nettrde_qty": "-19174",
+      "limit_exh_rt": "+4.06"
+    },
+    {
+      "dt": "20260227",
+      "close_pric": "-2785",
+      "pre_sig": "5",
+      "pred_pre": "-65",
+      "flu_rt": "-2.28",
+      "trde_qty": "62642",
+      "orgn_dt_acc": "21.000000",
+      "orgn_daly_nettrde_qty": "16",
+      "for_dt_acc": "-17258.000000",
+      "for_daly_nettrde_qty": "-7444",
+      "limit_exh_rt": "+4.38"
+    },
+    {
+      "dt": "20260226",
+      "close_pric": "-2850",
+      "pre_sig": "5",
+      "pred_pre": "-150",
+      "flu_rt": "-5.00",
+      "trde_qty": "94422",
+      "orgn_dt_acc": "5.000000",
+      "orgn_daly_nettrde_qty": "5",
+      "for_dt_acc": "-9814.000000",
+      "for_daly_nettrde_qty": "-9814",
+      "limit_exh_rt": "+4.51"
+    }
+  ],
+  "return_code": 0,
+  "return_msg": "정상적으로 처리되었습니다",
+  "api-id": "ka10045",
+  "cont-yn": "N",
+  "next-key": "",
+  "resp-cnt": "7",
+  "user-data": ""
 }

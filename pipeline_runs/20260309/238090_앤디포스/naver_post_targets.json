@@ -6,5 +6,17 @@
   {
     "label": "post_02",
     "url": "https://finance.naver.com/item/board_read.naver?code=238090&nid=414316272&page=1"
+  },
+  {
+    "label": "post_03",
+    "url": "https://finance.naver.com/item/board_read.naver?code=238090&nid=411107539&page=11"
+  },
+  {
+    "label": "post_04",
+    "url": "https://finance.naver.com/item/board_read.naver?code=238090&nid=414167824&page=3"
+  },
+  {
+    "label": "post_05",
+    "url": "https://finance.naver.com/item/board_read.naver?code=238090&nid=414141575&page=3"
   }
 ]

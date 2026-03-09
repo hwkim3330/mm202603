@@ -1,8 +1,8 @@
 {
   "meta": {
     "code": "238090",
-    "pages_fetched": 3,
-    "row_count": 60,
+    "pages_fetched": 12,
+    "row_count": 236,
     "source": "https://finance.naver.com/item/board.naver?code=238090",
     "keywords": [
       "유가",
@@ -20,6 +20,38 @@
     ]
   },
   "keyword_counts_by_date": {
+    "2026.01.25": {
+      "상장폐지": 1
+    },
+    "2026.02.01": {
+      "상장폐지": 1
+    },
+    "2026.02.04": {
+      "세력": 1
+    },
+    "2026.02.09": {
+      "작전": 1,
+      "급등": 1
+    },
+    "2026.02.12": {
+      "상장폐지": 1
+    },
+    "2026.02.20": {
+      "세력": 1
+    },
+    "2026.02.23": {
+      "상한가": 1
+    },
+    "2026.02.24": {
+      "상한가": 1
+    },
+    "2026.02.26": {
+      "상한가": 1,
+      "세력": 1
+    },
+    "2026.03.04": {
+      "상한가": 5
+    },
     "2026.03.05": {
       "작전": 1,
       "유가": 1,
@@ -57,6 +89,17 @@
       "page": 1
     },
     {
+      "keyword": "상장폐지",
+      "date": "2026.01.25 16:26",
+      "title": "[대유 주권 정리매매(상장폐지) 피해자 모집] [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=238090&nid=411107539&page=11",
+      "author": "황금별1",
+      "view": 126,
+      "up": 4,
+      "down": 0,
+      "page": 11
+    },
+    {
       "keyword": "전쟁",
       "date": "2026.03.05 09:30",
       "title": "이거 전쟁관련주였어?",
@@ -88,6 +131,28 @@
       "up": 4,
       "down": 0,
       "page": 2
+    },
+    {
+      "keyword": "세력",
+      "date": "2026.02.04 09:40",
+      "title": "주식 팔고 떨어뜨리는 세력 [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=238090&nid=411976543&page=9",
+      "author": "to1804",
+      "view": 121,
+      "up": 5,
+      "down": 0,
+      "page": 9
+    },
+    {
+      "keyword": "급등",
+      "date": "2026.02.09 14:25",
+      "title": "꼴랑 3%지만 차트보면 급등한거 같다?",
+      "href": "https://finance.naver.com/item/board_read.naver?code=238090&nid=412408830&page=9",
+      "author": "따뜻한시장흐름계획가",
+      "view": 77,
+      "up": 2,
+      "down": 0,
+      "page": 9
     }
   ]
 }

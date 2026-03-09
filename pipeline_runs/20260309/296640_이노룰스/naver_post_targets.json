@@ -1,10 +1,22 @@
 [
   {
     "label": "post_01",
-    "url": "https://finance.naver.com/item/board_read.naver?code=296640&nid=412799365&page=3"
+    "url": "https://finance.naver.com/item/board_read.naver?code=296640&nid=405159062&page=8"
   },
   {
     "label": "post_02",
-    "url": "https://finance.naver.com/item/board_read.naver?code=296640&nid=413907812&page=2"
+    "url": "https://finance.naver.com/item/board_read.naver?code=296640&nid=402706796&page=9"
+  },
+  {
+    "label": "post_03",
+    "url": "https://finance.naver.com/item/board_read.naver?code=296640&nid=412479677&page=3"
+  },
+  {
+    "label": "post_04",
+    "url": "https://finance.naver.com/item/board_read.naver?code=296640&nid=401734781&page=10"
+  },
+  {
+    "label": "post_05",
+    "url": "https://finance.naver.com/item/board_read.naver?code=296640&nid=410892806&page=4"
   }
 ]

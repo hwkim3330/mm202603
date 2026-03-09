@@ -1,0 +1,52 @@
+{
+  "orgn_prsm_avg_pric": "3110",
+  "for_prsm_avg_pric": "2950",
+  "stk_orgn_trde_trnsn": [
+    {
+      "dt": "20260309",
+      "close_pric": "-2805",
+      "pre_sig": "5",
+      "pred_pre": "-305",
+      "flu_rt": "-9.81",
+      "trde_qty": "57286",
+      "orgn_dt_acc": "21.000000",
+      "orgn_daly_nettrde_qty": "0",
+      "for_dt_acc": "3304.000000",
+      "for_daly_nettrde_qty": "0",
+      "limit_exh_rt": "+4.12"
+    },
+    {
+      "dt": "20260306",
+      "close_pric": "-3110",
+      "pre_sig": "5",
+      "pred_pre": "-170",
+      "flu_rt": "-5.18",
+      "trde_qty": "114803",
+      "orgn_dt_acc": "21.000000",
+      "orgn_daly_nettrde_qty": "21",
+      "for_dt_acc": "3304.000000",
+      "for_daly_nettrde_qty": "-1272",
+      "limit_exh_rt": "+4.12"
+    },
+    {
+      "dt": "20260305",
+      "close_pric": "+3280",
+      "pre_sig": "2",
+      "pred_pre": "+565",
+      "flu_rt": "+20.81",
+      "trde_qty": "107205",
+      "orgn_dt_acc": "0.000000",
+      "orgn_daly_nettrde_qty": "0",
+      "for_dt_acc": "4576.000000",
+      "for_daly_nettrde_qty": "4576",
+      "limit_exh_rt": "+4.14"
+    }
+  ],
+  "return_code": 0,
+  "return_msg": "정상적으로 처리되었습니다",
+  "api-id": "ka10045",
+  "cont-yn": "N",
+  "next-key": "",
+  "resp-cnt": "3",
+  "user-data": ""
+}

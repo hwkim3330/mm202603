@@ -20,11 +20,11 @@
 | step | status | output | note |
 | --- | --- | --- | --- |
 | candidate_json | OK | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/candidate.json` | ranked candidate snapshot saved |
-| naver_board_collect | OK | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/community_titles` | rows=60, representative_posts=3 |
-| post_targets | OK | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/naver_post_targets.json` | 2 posts selected |
-| naver_board_evidence | OK | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/naver_post_evidence` | count=2 |
-| public_archive | OK | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/archive` | count=3 |
-| kiwoom_evidence | ERR | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/kiwoom_evidence` | {"output_dir": "/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/kiwoom_evidence", "artifact_count": 12, "error_count": 12} |
+| naver_board_collect | OK | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/community_titles` | rows=231, representative_posts=5 |
+| post_targets | OK | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/naver_post_targets.json` | 5 posts selected |
+| naver_board_evidence | OK | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/naver_post_evidence` | count=5 |
+| public_archive | OK | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/archive` | count=6 |
+| kiwoom_evidence | OK | `/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/kiwoom_evidence` | {"output_dir": "/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/kiwoom_evidence", "artifact_count": 12, "error_count": 0} |
 
 ## Next
 

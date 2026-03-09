@@ -1,0 +1,81 @@
+{
+  "code": "296640",
+  "name": "이노룰스",
+  "start_date": "20260303",
+  "end_date": "20260309",
+  "generated_at_kst": "2026-03-09 15:01:30 UTC+09:00",
+  "artifacts": [
+    {
+      "label": "basic_stock_information_ka10001",
+      "filename": "basic_stock_information_ka10001.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "orderbook_ka10004",
+      "filename": "orderbook_ka10004.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "minute_chart_ka10080",
+      "filename": "minute_chart_ka10080.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "tick_chart_ka10079",
+      "filename": "tick_chart_ka10079.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "daily_transaction_details_ka10015",
+      "filename": "daily_transaction_details_ka10015.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "execution_strength_by_day_ka10047",
+      "filename": "execution_strength_by_day_ka10047.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "stock_trading_agent_ka10002",
+      "filename": "stock_trading_agent_ka10002.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "investor_institution_by_stock_ka10059",
+      "filename": "investor_institution_by_stock_ka10059.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "investor_institution_chart_ka10060",
+      "filename": "investor_institution_chart_ka10060.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "institutional_trading_trend_ka10045",
+      "filename": "institutional_trading_trend_ka10045.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "broker_trading_trend_ka10078",
+      "filename": "broker_trading_trend_ka10078.json",
+      "ok": true,
+      "note": "ok"
+    },
+    {
+      "label": "execution_today_vs_previous_ka10084",
+      "filename": "execution_today_vs_previous_ka10084.json",
+      "ok": true,
+      "note": "ok"
+    }
+  ]
+}

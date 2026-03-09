@@ -1,8 +1,8 @@
 {
   "meta": {
     "code": "238090",
-    "pages_fetched": 3,
-    "row_count": 60,
+    "pages_fetched": 12,
+    "row_count": 236,
     "source": "https://finance.naver.com/item/board.naver?code=238090",
     "keywords": [
       "유가",
@@ -43,6 +43,17 @@
       "page": 1
     },
     {
+      "keyword": "상장폐지",
+      "date": "2026.01.25 16:26",
+      "title": "[대유 주권 정리매매(상장폐지) 피해자 모집] [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=238090&nid=411107539&page=11",
+      "author": "황금별1",
+      "view": 126,
+      "up": 4,
+      "down": 0,
+      "page": 11
+    },
+    {
       "keyword": "전쟁",
       "date": "2026.03.05 09:30",
       "title": "이거 전쟁관련주였어?",
@@ -63,17 +74,6 @@
       "up": 2,
       "down": 1,
       "page": 3
-    },
-    {
-      "keyword": "작전",
-      "date": "2026.03.05 18:26",
-      "title": "작전주네요 [ 3 ]",
-      "href": "https://finance.naver.com/item/board_read.naver?code=238090&nid=414244790&page=2",
-      "author": "개돼지햄버거",
-      "view": 731,
-      "up": 4,
-      "down": 0,
-      "page": 2
     }
   ]
 }

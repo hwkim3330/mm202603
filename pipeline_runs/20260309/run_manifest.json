@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-09T05:21:06Z",
+  "generated_at_utc": "2026-03-09T06:01:53Z",
   "screen_json": "/home/kim/mm202603/manipulation_screening/output/20260309/ranked_candidates.json",
   "run_root": "/home/kim/mm202603/pipeline_runs/20260309",
   "selected_codes": [
@@ -24,31 +24,31 @@
           "name": "naver_board_collect",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/community_titles",
-          "note": "rows=60, representative_posts=5"
+          "note": "rows=236, representative_posts=5"
         },
         {
           "name": "post_targets",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/naver_post_targets.json",
-          "note": "2 posts selected"
+          "note": "5 posts selected"
         },
         {
           "name": "naver_board_evidence",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/naver_post_evidence",
-          "note": "count=2"
+          "note": "count=5"
         },
         {
           "name": "public_archive",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/archive",
-          "note": "count=3"
+          "note": "count=6"
         },
         {
           "name": "kiwoom_evidence",
-          "ok": false,
+          "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/kiwoom_evidence",
-          "note": "{\"output_dir\": \"/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/kiwoom_evidence\", \"artifact_count\": 12, \"error_count\": 12}"
+          "note": "{\"output_dir\": \"/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/kiwoom_evidence\", \"artifact_count\": 12, \"error_count\": 0}"
         }
       ]
     },
@@ -68,31 +68,31 @@
           "name": "naver_board_collect",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/community_titles",
-          "note": "rows=60, representative_posts=3"
+          "note": "rows=231, representative_posts=5"
         },
         {
           "name": "post_targets",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/naver_post_targets.json",
-          "note": "2 posts selected"
+          "note": "5 posts selected"
         },
         {
           "name": "naver_board_evidence",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/naver_post_evidence",
-          "note": "count=2"
+          "note": "count=5"
         },
         {
           "name": "public_archive",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/archive",
-          "note": "count=3"
+          "note": "count=6"
         },
         {
           "name": "kiwoom_evidence",
-          "ok": false,
+          "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/kiwoom_evidence",
-          "note": "{\"output_dir\": \"/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/kiwoom_evidence\", \"artifact_count\": 12, \"error_count\": 12}"
+          "note": "{\"output_dir\": \"/home/kim/mm202603/pipeline_runs/20260309/296640_이노룰스/kiwoom_evidence\", \"artifact_count\": 12, \"error_count\": 0}"
         }
       ]
     },
@@ -112,31 +112,31 @@
           "name": "naver_board_collect",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/008500_일정실업/community_titles",
-          "note": "rows=60, representative_posts=1"
+          "note": "rows=239, representative_posts=4"
         },
         {
           "name": "post_targets",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/008500_일정실업/naver_post_targets.json",
-          "note": "2 posts selected"
+          "note": "5 posts selected"
         },
         {
           "name": "naver_board_evidence",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/008500_일정실업/naver_post_evidence",
-          "note": "count=2"
+          "note": "count=5"
         },
         {
           "name": "public_archive",
           "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/008500_일정실업/archive",
-          "note": "count=3"
+          "note": "count=6"
         },
         {
           "name": "kiwoom_evidence",
-          "ok": false,
+          "ok": true,
           "output": "/home/kim/mm202603/pipeline_runs/20260309/008500_일정실업/kiwoom_evidence",
-          "note": "{\"output_dir\": \"/home/kim/mm202603/pipeline_runs/20260309/008500_일정실업/kiwoom_evidence\", \"artifact_count\": 12, \"error_count\": 12}"
+          "note": "{\"output_dir\": \"/home/kim/mm202603/pipeline_runs/20260309/008500_일정실업/kiwoom_evidence\", \"artifact_count\": 12, \"error_count\": 0}"
         }
       ]
     }

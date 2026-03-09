@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "code": "296640",
+    "pages_fetched": 40,
+    "row_count": 736,
+    "source": "https://finance.naver.com/item/board.naver?code=296640",
+    "keywords": [
+      "세력",
+      "상한가",
+      "종가",
+      "주포",
+      "매집",
+      "급등",
+      "수급",
+      "개미",
+      "신고가"
+    ]
+  },
+  "keyword_counts_by_date": {
+    "2024.05.17": {
+      "주포": 1,
+      "종가": 2
+    },
+    "2024.06.05": {
+      "주포": 1
+    },
+    "2024.07.18": {
+      "세력": 2,
+      "매집": 2,
+      "상한가": 4,
+      "개미": 1,
+      "주포": 1
+    },
+    "2024.07.19": {
+      "매집": 2,
+      "종가": 1,
+      "주포": 1
+    },
+    "2024.08.06": {
+      "상한가": 1
+    },
+    "2024.10.10": {
+      "주포": 1,
+      "개미": 1
+    },
+    "2024.10.14": {
+      "세력": 1
+    },
+    "2024.12.09": {
+      "개미": 1,
+      "상한가": 1
+    },
+    "2024.12.10": {
+      "상한가": 3
+    },
+    "2024.12.11": {
+      "상한가": 1
+    },
+    "2024.12.20": {
+      "개미": 1
+    },
+    "2025.02.18": {
+      "수급": 1
+    },
+    "2025.03.18": {
+      "종가": 2,
+      "주포": 1
+    },
+    "2025.04.08": {
+      "상한가": 1
+    },
+    "2025.04.09": {
+      "수급": 1
+    },
+    "2025.04.10": {
+      "종가": 1,
+      "상한가": 1
+    },
+    "2025.04.19": {
+      "개미": 1
+    },
+    "2025.08.05": {
+      "세력": 1
+    },
+    "2025.08.25": {
+      "주포": 1
+    },
+    "2025.09.23": {
+      "개미": 1
+    },
+    "2025.10.21": {
+      "개미": 1
+    },
+    "2026.01.22": {
+      "급등": 1
+    },
+    "2026.02.09": {
+      "주포": 1
+    },
+    "2026.02.10": {
+      "매집": 1
+    },
+    "2026.03.03": {
+      "주포": 1
+    }
+  },
+  "representative_posts": [
+    {
+      "keyword": "세력",
+      "date": "2024.10.14 15:02",
+      "title": "여기웃긴게.  세력도  양아같고 [ 3 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=289770448&page=27",
+      "author": "zlzl****",
+      "view": 1087,
+      "up": 7,
+      "down": 1,
+      "page": 27
+    },
+    {
+      "keyword": "상한가",
+      "date": "2024.12.09 14:35",
+      "title": "대단하네. 상한가 터지면 쭉 밀리는데.",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=293690098&page=25",
+      "author": "zlzl****",
+      "view": 203,
+      "up": 2,
+      "down": 0,
+      "page": 25
+    },
+    {
+      "keyword": "종가",
+      "date": "2025.04.10 14:16",
+      "title": "종가 5810 [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=300587596&page=16",
+      "author": "chle****",
+      "view": 189,
+      "up": 4,
+      "down": 3,
+      "page": 16
+    },
+    {
+      "keyword": "주포",
+      "date": "2024.06.05 12:44",
+      "title": "차트는 완성되었어도 주포는 갈마음이없다 [ 2 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=281123933&page=37",
+      "author": "wi******",
+      "view": 4430,
+      "up": 6,
+      "down": 3,
+      "page": 37
+    },
+    {
+      "keyword": "매집",
+      "date": "2024.07.19 18:55",
+      "title": "단일가에 야곰야곰 매집했어요 [ 6 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=284662008&page=30",
+      "author": "salg****",
+      "view": 1447,
+      "up": 2,
+      "down": 7,
+      "page": 30
+    },
+    {
+      "keyword": "급등",
+      "date": "2026.01.22 10:27",
+      "title": "급등 징조인가 ㅋㅋ",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=410892806&page=4",
+      "author": "쇠력",
+      "view": 85,
+      "up": 2,
+      "down": 3,
+      "page": 4
+    },
+    {
+      "keyword": "수급",
+      "date": "2025.02.18 11:19",
+      "title": "수급은 모든 재료에 우선한다",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=297357413&page=20",
+      "author": "ac******",
+      "view": 1619,
+      "up": 4,
+      "down": 0,
+      "page": 20
+    },
+    {
+      "keyword": "개미",
+      "date": "2025.04.19 13:34",
+      "title": "개미 물림",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=301128063&page=14",
+      "author": "ac******",
+      "view": 659,
+      "up": 5,
+      "down": 1,
+      "page": 14
+    }
+  ]
+}

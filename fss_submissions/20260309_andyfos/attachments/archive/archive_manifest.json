@@ -1,0 +1,62 @@
+[
+  {
+    "label": "andyfos_rights_issue_article_20260213",
+    "url": "https://news.nate.com/view/20260213n31654",
+    "status_code": 200,
+    "content_type": "text/html; charset=euc-kr",
+    "fetched_at_utc": "20260309T043739Z",
+    "bytes": 180038,
+    "sha256": "a1367db0a8493ac1065e89f8745d896ac686ab017df018d1fa2b4c4e18ae05e5",
+    "filename": "20260309T043739Z_andyfos_rights_issue_article_20260213.html"
+  },
+  {
+    "label": "andyfos_profit_turnaround_article_20260224",
+    "url": "https://news.nate.com/view/20260224n34995",
+    "status_code": 200,
+    "content_type": "text/html; charset=euc-kr",
+    "fetched_at_utc": "20260309T043739Z",
+    "bytes": 174626,
+    "sha256": "dded3179ec88e061e2b6be3d6d3c0955d448820ed4e32654c83a51e802be081c",
+    "filename": "20260309T043739Z_andyfos_profit_turnaround_article_20260224.html"
+  },
+  {
+    "label": "naver_board_profit_post_20260226",
+    "url": "https://finance.naver.com/item/board_read.naver?code=238090&nid=413529211&page=6",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T043739Z",
+    "bytes": 140213,
+    "sha256": "8b0e3b174a1b850edcbf448ff7c395856bdc9f20329a22544b8428d60c747f13",
+    "filename": "20260309T043739Z_naver_board_profit_post_20260226.html"
+  },
+  {
+    "label": "naver_board_upper_limit_post_20260306",
+    "url": "https://finance.naver.com/item/board_read.naver?code=238090&nid=414316272&page=1",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T043739Z",
+    "bytes": 139671,
+    "sha256": "c60968c3f8d91052598dea0f804190169af40cc6a08f6fab6cb4ded16787d58a",
+    "filename": "20260309T043739Z_naver_board_upper_limit_post_20260306.html"
+  },
+  {
+    "label": "naver_board_3000_target_post_20260306",
+    "url": "https://finance.naver.com/item/board_read.naver?code=238090&nid=414311059&page=1",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T043739Z",
+    "bytes": 139603,
+    "sha256": "1e453441b1cf62c12c166032d3042e6cc7eab2813bbc7e76826453abc9f99224",
+    "filename": "20260309T043739Z_naver_board_3000_target_post_20260306.html"
+  },
+  {
+    "label": "naver_board_recent_page1",
+    "url": "https://finance.naver.com/item/board.naver?code=238090&page=1",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T043739Z",
+    "bytes": 152688,
+    "sha256": "32773bf90ae7bfa090633583aa427cf888e0f46b2483ee44cf000764ae6ded52",
+    "filename": "20260309T043739Z_naver_board_recent_page1.html"
+  }
+]

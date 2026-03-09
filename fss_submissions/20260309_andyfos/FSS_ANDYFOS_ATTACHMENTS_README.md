@@ -9,7 +9,8 @@
 5. 체크 항목 참고: `FSS_ANDYFOS_FORM_GUIDE.md`
 6. 최종 점검표: `FSS_ANDYFOS_FINAL_CHECKLIST.md`
 7. 과거 이력 참고 메모(선택 첨부): `FSS_ANDYFOS_LEGACY_REFERENCE_NOTE.md`
-8. 첨부 압축본: `fss_andyfos_bundle_20260309.zip`
+8. 포상금 공백 메모: `REWARD_GAP_ANDYFOS_20260309.md`
+9. 첨부 압축본: `fss_andyfos_bundle_20260309.zip`
 
 압축본 포함 자료:
 
@@ -21,10 +22,15 @@
 - `FSS_ANDYFOS_FORM_GUIDE.md`
 - `FSS_ANDYFOS_FINAL_CHECKLIST.md`
 - `FSS_ANDYFOS_LEGACY_REFERENCE_NOTE.md`
+- `REWARD_GAP_ANDYFOS_20260309.md`
 - `EVIDENCE_MATRIX_ANDYFOS_20260309.md`
 - `RECENT_TIMELINE_ANDYFOS_20260309.md`
 - `COMMUNITY_EVIDENCE_ANDYFOS_20260309.md`
 - `SOURCE_LINKS_ANDYFOS_20260309.md`
+- `archive_targets_andyfos_20260309.json`
+- `archive_manifest.md`
+- `archive_manifest.csv`
+- `archive_manifest.json`
 - `krx_andyfos_events_20260309.md`
 - `krx_andyfos_events_20260309.json`
 - `naver_board_238090.csv`
@@ -39,3 +45,4 @@
 - `ranked_candidates.csv`
 - `ranked_candidates.json`
 - `raw_payloads.json`
+- `archive/raw/*.html`

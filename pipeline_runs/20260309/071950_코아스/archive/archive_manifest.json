@@ -1,0 +1,62 @@
+[
+  {
+    "label": "코아스_naver_board_main",
+    "url": "https://finance.naver.com/item/board.naver?code=071950",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T074908Z",
+    "bytes": 154319,
+    "sha256": "f0b1c51774782d65504e94023088e06b1b704063670ddf268702e341af201123",
+    "filename": "20260309T074908Z_naver_board_main.html"
+  },
+  {
+    "label": "코아스_post_01",
+    "url": "https://finance.naver.com/item/board_read.naver?code=071950&nid=408256286&page=12",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T074908Z",
+    "bytes": 141587,
+    "sha256": "ce4f49144fbabc6b80d65833bb6179f3ac2e165a31d571c6021dbe4c218def2a",
+    "filename": "20260309T074908Z_post_01.html"
+  },
+  {
+    "label": "코아스_post_02",
+    "url": "https://finance.naver.com/item/board_read.naver?code=071950&nid=409580301&page=10",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T074909Z",
+    "bytes": 141613,
+    "sha256": "2fc64b50ba2fadc57e1208e663f4477f7f809c4fba36638d4ef8100b34460dee",
+    "filename": "20260309T074909Z_post_02.html"
+  },
+  {
+    "label": "코아스_post_03",
+    "url": "https://finance.naver.com/item/board_read.naver?code=071950&nid=409581391&page=10",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T074909Z",
+    "bytes": 141831,
+    "sha256": "7433a83315d37cb4bc7e713c63c2ec57ad71d23cd26494d695a950093f328581",
+    "filename": "20260309T074909Z_post_03.html"
+  },
+  {
+    "label": "코아스_post_04",
+    "url": "https://finance.naver.com/item/board_read.naver?code=071950&nid=409255559&page=11",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T074910Z",
+    "bytes": 141741,
+    "sha256": "dfe37d609c44865bbfad76d9ecd9de63ed6eaa65ad0a640bd92f932d9d672b77",
+    "filename": "20260309T074910Z_post_04.html"
+  },
+  {
+    "label": "코아스_post_05",
+    "url": "https://finance.naver.com/item/board_read.naver?code=071950&nid=409241169&page=11",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T074910Z",
+    "bytes": 141634,
+    "sha256": "e4b49e2346350662599a79db01b44a66a6743801df332567ea936debc99976fa",
+    "filename": "20260309T074910Z_post_05.html"
+  }
+]

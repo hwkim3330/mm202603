@@ -1,0 +1,7 @@
+label,url,status_code,content_type,fetched_at_utc,bytes,sha256,filename
+코아스_naver_board_main,https://finance.naver.com/item/board.naver?code=071950,200,text/html;charset=UTF-8,20260309T074908Z,154319,f0b1c51774782d65504e94023088e06b1b704063670ddf268702e341af201123,20260309T074908Z_naver_board_main.html
+코아스_post_01,https://finance.naver.com/item/board_read.naver?code=071950&nid=408256286&page=12,200,text/html;charset=UTF-8,20260309T074908Z,141587,ce4f49144fbabc6b80d65833bb6179f3ac2e165a31d571c6021dbe4c218def2a,20260309T074908Z_post_01.html
+코아스_post_02,https://finance.naver.com/item/board_read.naver?code=071950&nid=409580301&page=10,200,text/html;charset=UTF-8,20260309T074909Z,141613,2fc64b50ba2fadc57e1208e663f4477f7f809c4fba36638d4ef8100b34460dee,20260309T074909Z_post_02.html
+코아스_post_03,https://finance.naver.com/item/board_read.naver?code=071950&nid=409581391&page=10,200,text/html;charset=UTF-8,20260309T074909Z,141831,7433a83315d37cb4bc7e713c63c2ec57ad71d23cd26494d695a950093f328581,20260309T074909Z_post_03.html
+코아스_post_04,https://finance.naver.com/item/board_read.naver?code=071950&nid=409255559&page=11,200,text/html;charset=UTF-8,20260309T074910Z,141741,dfe37d609c44865bbfad76d9ecd9de63ed6eaa65ad0a640bd92f932d9d672b77,20260309T074910Z_post_04.html
+코아스_post_05,https://finance.naver.com/item/board_read.naver?code=071950&nid=409241169&page=11,200,text/html;charset=UTF-8,20260309T074910Z,141634,e4b49e2346350662599a79db01b44a66a6743801df332567ea936debc99976fa,20260309T074910Z_post_05.html

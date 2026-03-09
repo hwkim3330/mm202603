@@ -1,0 +1,4 @@
+{"count": 5, "output_dir": "/home/kim/mm202603/pipeline_runs/20260309/071950_코아스/naver_post_evidence"}
+
+/usr/local/lib/python3.12/dist-packages/pandas/core/arrays/masked.py:61: UserWarning: Pandas requires version '1.3.6' or newer of 'bottleneck' (version '1.3.5' currently installed).
+  from pandas.core import (

@@ -1,20 +1,6 @@
 [
   {
     "label": "post_01",
-    "source_url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=410959578&page=4",
-    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/008500/discussion/410959578",
-    "title": "상장폐지",
-    "written_at": "2026-01-22T20:11:41",
-    "author": "Dolce",
-    "recommend_count": 1,
-    "view_count": 195,
-    "image_count": 0,
-    "ocr_chars": 0,
-    "text_filename": "post_01.content.txt",
-    "meta_filename": "post_01.meta.json"
-  },
-  {
-    "label": "post_02",
     "source_url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=413514706&page=2",
     "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/008500/discussion/413514706",
     "title": "세력 시나리오 짜드림",
@@ -24,11 +10,11 @@
     "view_count": 368,
     "image_count": 0,
     "ocr_chars": 0,
-    "text_filename": "post_02.content.txt",
-    "meta_filename": "post_02.meta.json"
+    "text_filename": "post_01.content.txt",
+    "meta_filename": "post_01.meta.json"
   },
   {
-    "label": "post_03",
+    "label": "post_02",
     "source_url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=412914157&page=2",
     "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/008500/discussion/412914157",
     "title": "뭐냐? 이건",
@@ -38,21 +24,7 @@
     "view_count": 267,
     "image_count": 0,
     "ocr_chars": 0,
-    "text_filename": "post_03.content.txt",
-    "meta_filename": "post_03.meta.json"
-  },
-  {
-    "label": "post_04",
-    "source_url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=410670599&page=4",
-    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/008500/discussion/410670599",
-    "title": "대표적인 현대차부품 관련주인데...",
-    "written_at": "2026-01-20T10:55:48",
-    "author": "utoito",
-    "recommend_count": 5,
-    "view_count": 164,
-    "image_count": 0,
-    "ocr_chars": 0,
-    "text_filename": "post_04.content.txt",
-    "meta_filename": "post_04.meta.json"
+    "text_filename": "post_02.content.txt",
+    "meta_filename": "post_02.meta.json"
   }
 ]

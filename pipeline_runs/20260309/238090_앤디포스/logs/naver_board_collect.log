@@ -1,8 +1,8 @@
 {
   "meta": {
     "code": "238090",
-    "pages_fetched": 2,
-    "row_count": 40,
+    "pages_fetched": 3,
+    "row_count": 60,
     "source": "https://finance.naver.com/item/board.naver?code=238090",
     "keywords": [
       "유가",
@@ -21,6 +21,17 @@
   },
   "representative_posts": [
     {
+      "keyword": "유가",
+      "date": "2026.03.05 09:59",
+      "title": "대유가 우회상장할려하나.",
+      "href": "https://finance.naver.com/item/board_read.naver?code=238090&nid=414175460&page=3",
+      "author": "윤무당",
+      "view": 89,
+      "up": 0,
+      "down": 2,
+      "page": 3
+    },
+    {
       "keyword": "상한가",
       "date": "2026.03.06 12:07",
       "title": "다음주에는  상한가 한두번 가야 하는데",
@@ -30,6 +41,28 @@
       "up": 11,
       "down": 2,
       "page": 1
+    },
+    {
+      "keyword": "전쟁",
+      "date": "2026.03.05 09:30",
+      "title": "이거 전쟁관련주였어?",
+      "href": "https://finance.naver.com/item/board_read.naver?code=238090&nid=414167824&page=3",
+      "author": "멀리던져",
+      "view": 50,
+      "up": 2,
+      "down": 0,
+      "page": 3
+    },
+    {
+      "keyword": "쩜상",
+      "date": "2026.03.05 04:14",
+      "title": "쩜상속보트럼프장기화조짐무기증산논의",
+      "href": "https://finance.naver.com/item/board_read.naver?code=238090&nid=414141575&page=3",
+      "author": "성가신공략캥거루",
+      "view": 98,
+      "up": 2,
+      "down": 1,
+      "page": 3
     },
     {
       "keyword": "작전",

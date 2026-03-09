@@ -5,18 +5,10 @@
   },
   {
     "label": "일정실업_post_01",
-    "url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=410959578&page=4"
-  },
-  {
-    "label": "일정실업_post_02",
     "url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=413514706&page=2"
   },
   {
-    "label": "일정실업_post_03",
+    "label": "일정실업_post_02",
     "url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=412914157&page=2"
-  },
-  {
-    "label": "일정실업_post_04",
-    "url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=410670599&page=4"
   }
 ]

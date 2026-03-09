@@ -26,19 +26,5 @@
     "ocr_chars": 0,
     "text_filename": "post_02.content.txt",
     "meta_filename": "post_02.meta.json"
-  },
-  {
-    "label": "post_03",
-    "source_url": "https://finance.naver.com/item/board_read.naver?code=296640&nid=412479677&page=3",
-    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/296640/discussion/412479677",
-    "title": "3년간  매집중인 주주님들",
-    "written_at": "2026-02-10T10:42:11",
-    "author": "깨굴님",
-    "recommend_count": 1,
-    "view_count": 114,
-    "image_count": 0,
-    "ocr_chars": 0,
-    "text_filename": "post_03.content.txt",
-    "meta_filename": "post_03.meta.json"
   }
 ]

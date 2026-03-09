@@ -19,11 +19,11 @@
 | step | status | output | note |
 | --- | --- | --- | --- |
 | candidate_json | OK | `/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/candidate.json` | ranked candidate snapshot saved |
-| naver_board_collect | OK | `/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/community_titles` | rows=40, representative_posts=2 |
+| naver_board_collect | OK | `/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/community_titles` | rows=60, representative_posts=5 |
 | post_targets | OK | `/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/naver_post_targets.json` | 2 posts selected |
 | naver_board_evidence | OK | `/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/naver_post_evidence` | count=2 |
 | public_archive | OK | `/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/archive` | count=3 |
-| kiwoom_evidence | ERR | `/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/kiwoom_evidence` | no --kiwoom-dotenv provided |
+| kiwoom_evidence | ERR | `/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/kiwoom_evidence` | {"output_dir": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/kiwoom_evidence", "artifact_count": 12, "error_count": 12} |
 
 ## Next
 

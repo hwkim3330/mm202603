@@ -61,10 +61,22 @@ def save_json(path: Path, payload: Any) -> None:
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
 
 
+def validate_payload(payload: Any) -> None:
+    if not isinstance(payload, dict):
+        return
+    if 'error' in payload:
+        raise RuntimeError(str(payload['error']))
+    return_code = payload.get('return_code')
+    if return_code not in (None, 0, '0'):
+        msg = payload.get('return_msg') or 'unknown Kiwoom API error'
+        raise RuntimeError(f'return_code={return_code}: {msg}')
+
+
 def safe_call(label: str, fn: Callable[[], Any], out_dir: Path, artifacts: list[SavedArtifact]) -> None:
     filename = f'{label}.json'
     try:
         payload = fn()
+        validate_payload(payload)
         save_json(out_dir / filename, payload)
         note = 'ok'
         ok = True
@@ -140,8 +152,9 @@ def main() -> int:
         'artifacts': [artifact.__dict__ for artifact in artifacts],
     })
     build_summary(base / 'SUMMARY.md', args.code, args.name, start_date, end_date, artifacts)
-    print(json.dumps({'output_dir': str(base), 'artifact_count': len(artifacts)}, ensure_ascii=False))
-    return 0
+    error_count = sum(1 for artifact in artifacts if not artifact.ok)
+    print(json.dumps({'output_dir': str(base), 'artifact_count': len(artifacts), 'error_count': error_count}, ensure_ascii=False))
+    return 1 if error_count else 0
 
 
 if __name__ == '__main__':

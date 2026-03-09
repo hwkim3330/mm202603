@@ -4,49 +4,29 @@
     "url": "https://finance.naver.com/item/board.naver?code=008500",
     "status_code": 200,
     "content_type": "text/html;charset=UTF-8",
-    "fetched_at_utc": "20260309T051627Z",
-    "bytes": 154329,
-    "sha256": "4a92baf8e8f69de0e2f2bd5c3b352685234d6ac2308958977a8a064ca0c08d8d",
-    "filename": "20260309T051627Z_naver_board_main.html"
+    "fetched_at_utc": "20260309T052103Z",
+    "bytes": 154325,
+    "sha256": "701812b00c88b2592cc5db7358ee96ce79f9a94642ec163d18ac8c686a46fe49",
+    "filename": "20260309T052103Z_naver_board_main.html"
   },
   {
     "label": "일정실업_post_01",
-    "url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=410959578&page=4",
-    "status_code": 200,
-    "content_type": "text/html;charset=UTF-8",
-    "fetched_at_utc": "20260309T051627Z",
-    "bytes": 141251,
-    "sha256": "428f1e00382ecb85829b05021e7770f5fd9d3ada8d6a049c42e52c3bae371874",
-    "filename": "20260309T051627Z_post_01.html"
-  },
-  {
-    "label": "일정실업_post_02",
     "url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=413514706&page=2",
     "status_code": 200,
     "content_type": "text/html;charset=UTF-8",
-    "fetched_at_utc": "20260309T051627Z",
-    "bytes": 141044,
-    "sha256": "85b8c2c717ee5fa59882cd8f00cbc4012a26c0c643ba31fac4e49a2ee9c52edd",
-    "filename": "20260309T051627Z_post_02.html"
+    "fetched_at_utc": "20260309T052103Z",
+    "bytes": 141038,
+    "sha256": "c96656e75f4146775d3880c41a66dcd3e2ca5062eba4be9960bb842224589e9a",
+    "filename": "20260309T052103Z_post_01.html"
   },
   {
-    "label": "일정실업_post_03",
+    "label": "일정실업_post_02",
     "url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=412914157&page=2",
     "status_code": 200,
     "content_type": "text/html;charset=UTF-8",
-    "fetched_at_utc": "20260309T051627Z",
-    "bytes": 140884,
-    "sha256": "fa54ba05cb56b95db2393e24f9f92f1a3f1f3ef65e63c47fd77731fb9db18482",
-    "filename": "20260309T051627Z_post_03.html"
-  },
-  {
-    "label": "일정실업_post_04",
-    "url": "https://finance.naver.com/item/board_read.naver?code=008500&nid=410670599&page=4",
-    "status_code": 200,
-    "content_type": "text/html;charset=UTF-8",
-    "fetched_at_utc": "20260309T051627Z",
-    "bytes": 140402,
-    "sha256": "595ed7d952f91f5477a939fe8a253b63ac2d104d4a654c13ed5aa61dd36d312b",
-    "filename": "20260309T051627Z_post_04.html"
+    "fetched_at_utc": "20260309T052103Z",
+    "bytes": 140878,
+    "sha256": "66553f9ab56ae205d19347687dae06b8d4fa2942c8db1bf300613c803c8ecb2a",
+    "filename": "20260309T052103Z_post_02.html"
   }
 ]

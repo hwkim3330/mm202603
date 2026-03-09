@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "code": "296640",
+    "pages_fetched": 3,
+    "row_count": 60,
+    "source": "https://finance.naver.com/item/board.naver?code=296640",
+    "keywords": [
+      "유가",
+      "상한가",
+      "상장폐지",
+      "청산",
+      "호르무즈",
+      "전쟁",
+      "쩜상",
+      "주포",
+      "매집",
+      "작전",
+      "세력",
+      "급등"
+    ]
+  },
+  "keyword_counts_by_date": {
+    "2026.02.09": {
+      "주포": 1
+    },
+    "2026.02.10": {
+      "매집": 1
+    },
+    "2026.02.13": {
+      "상장폐지": 1
+    },
+    "2026.03.03": {
+      "주포": 1
+    }
+  },
+  "representative_posts": [
+    {
+      "keyword": "상장폐지",
+      "date": "2026.02.13 09:40",
+      "title": "상장폐지가 무섭긴 무서운가보네",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=412799365&page=3",
+      "author": "아뿔사",
+      "view": 195,
+      "up": 3,
+      "down": 0,
+      "page": 3
+    },
+    {
+      "keyword": "주포",
+      "date": "2026.03.03 14:16",
+      "title": "주포가  신통찮네 ㅋㅋㅋ",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=413907812&page=2",
+      "author": "깨굴님",
+      "view": 67,
+      "up": 2,
+      "down": 2,
+      "page": 2
+    },
+    {
+      "keyword": "매집",
+      "date": "2026.02.10 10:42",
+      "title": "3년간  매집중인 주주님들 [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=296640&nid=412479677&page=3",
+      "author": "깨굴님",
+      "view": 114,
+      "up": 1,
+      "down": 4,
+      "page": 3
+    }
+  ]
+}

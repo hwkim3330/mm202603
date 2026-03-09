@@ -1,0 +1,5 @@
+label,url,status_code,content_type,fetched_at_utc,bytes,sha256,filename
+이노룰스_naver_board_main,https://finance.naver.com/item/board.naver?code=296640,200,text/html;charset=UTF-8,20260309T051418Z,153687,9db40fa1a30fd748a45243e506fd47941fb7456f8c6da0ea25944acaca35a63a,20260309T051418Z_naver_board_main.html
+이노룰스_post_01,https://finance.naver.com/item/board_read.naver?code=296640&nid=412799365&page=3,200,text/html;charset=UTF-8,20260309T051419Z,140333,a85200cb467caf0feca62dd22394bb9a84620f1d7cb8c6512102e287f8844ac0,20260309T051419Z_post_01.html
+이노룰스_post_02,https://finance.naver.com/item/board_read.naver?code=296640&nid=413907812&page=2,200,text/html;charset=UTF-8,20260309T051420Z,140169,b21589d16aa04f7793b0dbb9c8d1549abc9f61a72724a33ce0be5bb26d5b1ad7,20260309T051420Z_post_02.html
+이노룰스_post_03,https://finance.naver.com/item/board_read.naver?code=296640&nid=412479677&page=3,200,text/html;charset=UTF-8,20260309T051420Z,140196,454544da538cd22ed638c128a3ec3368afd37b4f3b6d297a45bbc92d5696c163,20260309T051420Z_post_03.html

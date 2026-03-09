@@ -1,0 +1,54 @@
+{
+  "generated_at_utc": "2026-03-09T05:14:47Z",
+  "screen_json": "/home/kim/mm202603/manipulation_screening/output/20260309/ranked_candidates.json",
+  "run_root": "/home/kim/mm202603/pipeline_runs/20260309",
+  "selected_codes": [
+    "238090"
+  ],
+  "results": [
+    {
+      "code": "238090",
+      "name": "앤디포스",
+      "score": 23,
+      "output_dir": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스",
+      "steps": [
+        {
+          "name": "candidate_json",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/candidate.json",
+          "note": "ranked candidate snapshot saved"
+        },
+        {
+          "name": "naver_board_collect",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/community_titles",
+          "note": "rows=40, representative_posts=2"
+        },
+        {
+          "name": "post_targets",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/naver_post_targets.json",
+          "note": "2 posts selected"
+        },
+        {
+          "name": "naver_board_evidence",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/naver_post_evidence",
+          "note": "count=2"
+        },
+        {
+          "name": "public_archive",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/archive",
+          "note": "count=3"
+        },
+        {
+          "name": "kiwoom_evidence",
+          "ok": false,
+          "output": "/home/kim/mm202603/pipeline_runs/20260309/238090_앤디포스/kiwoom_evidence",
+          "note": "no --kiwoom-dotenv provided"
+        }
+      ]
+    }
+  ]
+}

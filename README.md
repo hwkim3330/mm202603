@@ -14,3 +14,8 @@ Investigation materials for a suspected financial regulator impersonation / inve
 ## Scope
 This repository only contains passive evidence collected from public web pages and public registry / DNS / TLS metadata.
 No active exploitation, credential testing, or login attempts were performed.
+
+## Pipeline
+
+- `FSS_PIPELINE_README.md`: KRX 경보 -> 네이버 게시판 -> 원문 보존 -> 키움 원시데이터까지 묶는 자동 발굴 파이프라인 설명
+- `scripts/fss_candidate_pipeline.py`: 후보 선별과 증거 수집 오케스트레이터

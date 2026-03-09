@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "code": "024060",
+    "pages_fetched": 5,
+    "row_count": 100,
+    "source": "https://finance.naver.com/item/board.naver?code=024060",
+    "keywords": [
+      "유가",
+      "상한가",
+      "상장폐지",
+      "청산",
+      "호르무즈",
+      "전쟁",
+      "쩜상",
+      "주포",
+      "매집",
+      "작전",
+      "세력",
+      "급등"
+    ]
+  },
+  "representative_posts": [
+    {
+      "keyword": "유가",
+      "date": "2026.03.09 13:03",
+      "title": "국제 유가 오르는것도 뭐라 함해봐라 리짜이밍",
+      "href": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414489017&page=5",
+      "author": "코코아굳",
+      "view": 23,
+      "up": 6,
+      "down": 1,
+      "page": 5
+    },
+    {
+      "keyword": "상한가",
+      "date": "2026.03.09 14:02",
+      "title": "이야 중앙 상한가 가네",
+      "href": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414497691&page=1",
+      "author": "skitada",
+      "view": 15,
+      "up": 0,
+      "down": 1,
+      "page": 1
+    },
+    {
+      "keyword": "전쟁",
+      "date": "2026.03.09 14:05",
+      "title": "전쟁끝나몀 [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414498189&page=1",
+      "author": "아틀라스현대",
+      "view": 110,
+      "up": 0,
+      "down": 0,
+      "page": 1
+    },
+    {
+      "keyword": "쩜상",
+      "date": "2026.03.09 13:48",
+      "title": "쩜상속보유가폭등 대체에너지 천연가스9%폭등",
+      "href": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414495452&page=2",
+      "author": "겸손한주가계산꼼꼼이",
+      "view": 36,
+      "up": 0,
+      "down": 1,
+      "page": 2
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "code": "024060",
+  "name": "흥구석유",
+  "score": 23,
+  "categories": "caution, warning",
+  "reasons": "투자경고 | 투자경고 지정예고",
+  "latest_date": "2026-03-06",
+  "event_count": 2,
+  "events": [
+    {
+      "code": "024060",
+      "name": "흥구석유",
+      "category": "caution",
+      "reason": "투자경고 지정예고",
+      "act_date": "2026-03-04",
+      "design_date": "2026-03-05",
+      "price": "31,100",
+      "delta": "3,500",
+      "raw": {
+        "rn": "51",
+        "isu_srt_cd": "024060",
+        "isu_nm": "흥구석유",
+        "gubun": "투자경고 지정예고",
+        "isu_cur_pr": "31,100",
+        "fluc_tp": "1",
+        "prv_dd_cmpr": "3,500",
+        "act_dd": "2026/03/04",
+        "design_dd": "2026/03/05"
+      }
+    },
+    {
+      "code": "024060",
+      "name": "흥구석유",
+      "category": "warning",
+      "reason": "투자경고",
+      "act_date": "2026-03-05",
+      "design_date": "2026-03-06",
+      "price": "31,200",
+      "delta": "3,600",
+      "raw": {
+        "rn": "25",
+        "isu_cd": "024060",
+        "kor_isu_nm": "흥구석유",
+        "isu_std_pr": "31,200",
+        "fluc_tp": "1",
+        "prv_dd_cmpr": "3,600",
+        "act_dd": "2026/03/05",
+        "design_dd": "2026/03/06",
+        "free_dt": "-"
+      }
+    }
+  ],
+  "explanation": "caution+2 / warning+8 / 투자경고 지정예고+4 / recent(2026-03-05)+1 / recent(2026-03-06)+2 / multi_category+4 / multi_reason+2"
+}

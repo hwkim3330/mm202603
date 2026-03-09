@@ -1,0 +1,75 @@
+{
+  "code": "008500",
+  "name": "일정실업",
+  "score": 20,
+  "categories": "caution",
+  "reasons": "소수지점/계좌 | 종가급변 | 특정계좌(군) 매매관여 과다",
+  "latest_date": "2026-03-06",
+  "event_count": 3,
+  "events": [
+    {
+      "code": "008500",
+      "name": "일정실업",
+      "category": "caution",
+      "reason": "특정계좌(군) 매매관여 과다",
+      "act_date": "2026-03-05",
+      "design_date": "2026-03-06",
+      "price": "2,945",
+      "delta": "165",
+      "raw": {
+        "rn": "33",
+        "isu_srt_cd": "008500",
+        "isu_nm": "일정실업",
+        "gubun": "매매관여과다종목",
+        "isu_cur_pr": "2,945",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "165",
+        "act_dd": "2026/03/05",
+        "design_dd": "2026/03/06"
+      }
+    },
+    {
+      "code": "008500",
+      "name": "일정실업",
+      "category": "caution",
+      "reason": "종가급변",
+      "act_date": "2026-03-05",
+      "design_date": "2026-03-06",
+      "price": "2,945",
+      "delta": "165",
+      "raw": {
+        "rn": "34",
+        "isu_srt_cd": "008500",
+        "isu_nm": "일정실업",
+        "gubun": "종가급변",
+        "isu_cur_pr": "2,945",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "165",
+        "act_dd": "2026/03/05",
+        "design_dd": "2026/03/06"
+      }
+    },
+    {
+      "code": "008500",
+      "name": "일정실업",
+      "category": "caution",
+      "reason": "소수지점/계좌",
+      "act_date": "2026-03-05",
+      "design_date": "2026-03-06",
+      "price": "2,945",
+      "delta": "165",
+      "raw": {
+        "rn": "35",
+        "isu_srt_cd": "008500",
+        "isu_nm": "일정실업",
+        "gubun": "소수지점/계좌",
+        "isu_cur_pr": "2,945",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "165",
+        "act_dd": "2026/03/05",
+        "design_dd": "2026/03/06"
+      }
+    }
+  ],
+  "explanation": "caution+2 / 특정계좌(군) 매매관여 과다+6 / recent(2026-03-06)+2 / 종가급변+1 / recent(2026-03-06)+2 / 소수지점/계좌+3 / recent(2026-03-06)+2 / multi_reason+2"
+}

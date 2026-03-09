@@ -1,0 +1,52 @@
+[
+  {
+    "label": "흥구석유_naver_board_main",
+    "url": "https://finance.naver.com/item/board.naver?code=024060",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T051623Z",
+    "bytes": 155030,
+    "sha256": "4f1f354ad68bf70d0c511b706048ad72eb1340540430dec5b9c0abadd3398e4b",
+    "filename": "20260309T051623Z_naver_board_main.html"
+  },
+  {
+    "label": "흥구석유_post_01",
+    "url": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414489017&page=5",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T051623Z",
+    "bytes": 142059,
+    "sha256": "d6be1f84481fa24ec8ee5f5ffd7ab52a0bafe8dc200e31db8ac0fb8fa78e65ea",
+    "filename": "20260309T051623Z_post_01.html"
+  },
+  {
+    "label": "흥구석유_post_02",
+    "url": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414497691&page=1",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T051623Z",
+    "bytes": 142016,
+    "sha256": "73dd759b1ee8afa0ee8a96a24e040899c2ed809bb755485910994dcedbc1e4da",
+    "filename": "20260309T051623Z_post_02.html"
+  },
+  {
+    "label": "흥구석유_post_03",
+    "url": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414498189&page=1",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T051623Z",
+    "bytes": 142236,
+    "sha256": "0bfa9ea65a4be930697f9de33fa993530f3d52ba5d226f9d160e0f25a328f33a",
+    "filename": "20260309T051623Z_post_03.html"
+  },
+  {
+    "label": "흥구석유_post_04",
+    "url": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414495452&page=2",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260309T051623Z",
+    "bytes": 142077,
+    "sha256": "78d3bb2c0f0f9dc9d0f858e79136e8b1c6db26551022bff70ea2f642137341cc",
+    "filename": "20260309T051623Z_post_04.html"
+  }
+]

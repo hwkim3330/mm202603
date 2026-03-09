@@ -1,0 +1,58 @@
+[
+  {
+    "label": "post_01",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414489017&page=5",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/024060/discussion/414489017",
+    "title": "국제 유가 오르는것도 뭐라 함해봐라 리짜이밍 ",
+    "written_at": "2026-03-09T13:03:51",
+    "author": "코코아굳",
+    "recommend_count": 6,
+    "view_count": 23,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "post_01.content.txt",
+    "meta_filename": "post_01.meta.json"
+  },
+  {
+    "label": "post_02",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414497691&page=1",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/024060/discussion/414497691",
+    "title": "이야 중앙 상한가 가네",
+    "written_at": "2026-03-09T14:02:55",
+    "author": "skitada",
+    "recommend_count": 0,
+    "view_count": 15,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "post_02.content.txt",
+    "meta_filename": "post_02.meta.json"
+  },
+  {
+    "label": "post_03",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414498189&page=1",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/024060/discussion/414498189",
+    "title": "전쟁끝나몀",
+    "written_at": "2026-03-09T14:05:49",
+    "author": "아틀라스현대",
+    "recommend_count": 0,
+    "view_count": 110,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "post_03.content.txt",
+    "meta_filename": "post_03.meta.json"
+  },
+  {
+    "label": "post_04",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=024060&nid=414495452&page=2",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/024060/discussion/414495452",
+    "title": "쩜상속보유가폭등 대체에너지 천연가스9%폭등",
+    "written_at": "2026-03-09T13:48:09",
+    "author": "겸손한주가계산꼼꼼이",
+    "recommend_count": 0,
+    "view_count": 36,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "post_04.content.txt",
+    "meta_filename": "post_04.meta.json"
+  }
+]

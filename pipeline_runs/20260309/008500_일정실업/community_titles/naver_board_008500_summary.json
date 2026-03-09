@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "code": "008500",
+    "pages_fetched": 5,
+    "row_count": 100,
+    "source": "https://finance.naver.com/item/board.naver?code=008500",
+    "keywords": [
+      "유가",
+      "상한가",
+      "상장폐지",
+      "청산",
+      "호르무즈",
+      "전쟁",
+      "쩜상",
+      "주포",
+      "매집",
+      "작전",
+      "세력",
+      "급등"
+    ]
+  },
+  "keyword_counts_by_date": {
+    "2026.01.14": {
+      "세력": 1
+    },
+    "2026.01.16": {
+      "세력": 1
+    },
+    "2026.01.22": {
+      "상장폐지": 1
+    },
+    "2026.02.26": {
+      "세력": 1
+    }
+  },
+  "representative_posts": [
+    {
+      "keyword": "상장폐지",
+      "date": "2026.01.22 20:11",
+      "title": "상장폐지 [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=008500&nid=410959578&page=4",
+      "author": "Dolce",
+      "view": 194,
+      "up": 1,
+      "down": 0,
+      "page": 4
+    },
+    {
+      "keyword": "세력",
+      "date": "2026.02.26 11:00",
+      "title": "세력 시나리오 짜드림 [ 3 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=008500&nid=413514706&page=2",
+      "author": "내성적인타이밍호랑이",
+      "view": 367,
+      "up": 3,
+      "down": 1,
+      "page": 2
+    }
+  ]
+}

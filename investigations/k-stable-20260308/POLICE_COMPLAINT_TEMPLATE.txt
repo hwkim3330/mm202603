@@ -1,0 +1,30 @@
+제목: k-stable.org 금융감독원 등 기관 사칭 및 투자유인 의심 사이트 신고
+
+1. 신고 대상 사이트
+- URL: https://k-stable.org/
+
+2. 신고 취지
+- 금융감독원, 은행연합회, 한국인공지능협회가 공식 참여하는 프로젝트인 것처럼 표시하며 투자/예치/상품가입을 유도하는 것으로 보여 신고합니다.
+
+3. 확인한 사실
+- 메인 페이지에 금융감독원 직접 감독, 정부 직접 설계 등 문구 존재
+- 회원가입 시 전화번호, 은행, 계좌번호 수집
+- 투자 상품, 내 투자 현황, 예치, 상품가입 구조 존재
+- 후기 페이지에 투자금 및 수익금 지급 사례 게시
+- 로그인 API: /api/login.php
+- 회원가입 API: /api/register.php
+- 상품가입 API: /api/join_product.php
+
+4. 기술 정보
+- 도메인: k-stable.org
+- A 레코드: 172.67.159.82, 104.21.9.85
+- NS: gigi.ns.cloudflare.com, wesley.ns.cloudflare.com
+- 호스팅/프록시 헤더: cloudflare, hostinger, hpanel, PHP/8.2.29
+- 등록일: 2025-08-08
+- Registrar: NameCheap, Inc.
+
+5. 첨부자료
+- 홈페이지 및 하위페이지 HTML 원본
+- 캡처 이미지/녹화
+- 채팅/유도 메시지
+- 송금내역(있는 경우)

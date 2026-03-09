@@ -1,0 +1,17 @@
+[기술증거]
+- raw/homepage.html
+- raw/service.html
+- raw/reviews.html
+- raw/register.html
+- raw/support.html
+- raw/products.html
+- raw/account.html
+- raw/robots.txt
+- raw/sitemap.xml
+
+[핵심 포인트]
+- 기관 사칭 문구
+- 투자/예치/상품가입 유도 구조
+- 은행/계좌번호 수집
+- 후기형 수익 홍보 문구
+- 비정상 약관/개인정보처리방침 링크

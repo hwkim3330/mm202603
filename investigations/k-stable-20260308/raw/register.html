@@ -1,0 +1,232 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <title>K-Stable</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="author" content="ThemeZaa">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <!-- favicon icon -->
+        <link rel="shortcut icon" href="/favicon.png">
+        <link rel="apple-touch-icon" href="/favicon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/favicon.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/favicon.png">
+        <!-- google fonts preconnect -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <!-- style sheets and font icons  -->
+        <link rel="stylesheet" href="css/vendors.min.css"/>
+        <link rel="stylesheet" href="css/icon.min.css"/>
+        <link rel="stylesheet" href="css/style.css"/>
+        <link rel="stylesheet" href="css/responsive.css"/>
+        <link rel="stylesheet" href="demos/accounting/accounting.css" />
+    </head>
+    <body data-mobile-nav-style="classic" class="custom-cursor">
+        <!-- start cursor -->
+        <div class="cursor-page-inner">
+            <div class="circle-cursor circle-cursor-inner"></div>
+            <div class="circle-cursor circle-cursor-outer"></div>
+        </div>
+        <!-- end cursor -->
+        <!-- start header --> 
+        <header class="header-with-topbar">
+            <!-- start navigation -->
+            <nav class="navbar navbar-expand-lg header-light bg-white responsive-sticky">
+                <div class="container-fluid">
+                    <div class="col-auto col-lg-2 me-lg-0 me-auto">
+                        <a class="navbar-brand" href="/">
+                            <img src="images/demo-accounting-logo-black.png" data-at2x="images/demo-accounting-logo-black@2x.png" alt="" class="default-logo">
+                            <img src="images/demo-accounting-logo-black.png" data-at2x="images/demo-accounting-logo-black@2x.png" alt="" class="alt-logo">
+                            <img src="images/demo-accounting-logo-black.png" data-at2x="images/demo-accounting-logo-black@2x.png" alt="" class="mobile-logo"> 
+                        </a>
+                    </div>
+                    <div class="col-auto menu-order position-static">
+                        <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav"> 
+                            <ul class="navbar-nav fw-600">
+                                <li class="nav-item"><a href="/" class="nav-link">홈</a></li>
+                                <li class="nav-item"><a href="/products" class="nav-link">투자 상품</a></li>
+                                <li class="nav-item"><a href="/service" class="nav-link">서비스 소개</a></li>
+                                <li class="nav-item"><a href="/reviews" class="nav-link">가입 후기</a></li>
+                                <li class="nav-item"><a href="/support" class="nav-link">고객센터</a></li>
+                                <li class="nav-item"><a class="nav-link" style="font-size: 12px;">｜</a></li>
+                                <li class="nav-item"><a href="/#login" class="nav-link">로그인</a></li>
+                                <li class="nav-item"><a href="/register" class="nav-link">회원가입</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-auto col-lg-2 text-end d-none d-sm-flex">
+                        <div class="header-icon"> 
+                            <div class="header-button">
+                                <a href="/account" class="btn btn-small btn-round-edge btn-base-color btn-box-shadow">내 투자 현황</a>
+                            </div>
+                        </div>  
+                    </div>
+                </div>
+            </nav>
+            <!-- end navigation -->
+        </header>
+        <!-- end header -->
+        <!-- start page title -->
+        <section class="top-space-margin page-title-big-typography cover-background magic-cursor round-cursor" style="background-image: url('/images/register.jpg');">
+            <div class="container">
+                <div class="row extra-very-small-screen align-items-center">
+                    <div class="col-lg-12 col-sm-12 text-center position-relative page-title-extra-small">
+                        <h2 class="text-white text-shadow-medium fw-500 ls-minus-2px mb-0" style="line-height: 1.25;">회원가입</h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end page title -->  
+        <!-- start section --> 
+        <section> 
+            <div class="container">  
+                <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center">
+                    <!-- start features box item -->
+                   <div class="col-xl-10">
+                        <div class="bg-white p-8 border-radius-6px box-shadow-double-large">
+                            
+                            <form id="registerForm" method="post" class="row contact-form-style-02">
+                                <div class="col-md-12 mb-30px">
+                                    <label style="color: black; margin-bottom: 0px;">이름 *</label>
+                                    <p style="font-size: 16px; margin-bottom: 8px;">원활한 서비스 이용을 위해 실명을 입력해주세요.</p>
+                                    <input class="form-control required" type="text" name="name" placeholder="이름을 입력해주세요.">
+                                </div>
+                                <div class="col-md-12 mb-30px">
+                                    <label style="color: black; margin-bottom: 8px;">전화번호 *</label>
+                                    <input class="form-control required" type="text" name="phone" placeholder="전화번호를 입력해주세요.">
+                                </div>
+                                <div class="col-md-12 mb-30px">
+                                    <label style="color: black; margin-bottom: 8px;">아이디 *</label>
+                                    <input class="form-control required" type="text" name="username" placeholder="아이디를 입력해주세요.">
+                                </div>
+                                <div class="col-md-12 mb-30px">
+                                    <label style="color: black; margin-bottom: 8px;">비밀번호 *</label>
+                                    <input class="form-control required" type="password" name="password" placeholder="비밀번호를 입력해주세요.">
+                                </div>
+                                <div class="col-md-12 mb-30px">
+                                    <label style="color: black; margin-bottom: 8px;">은행명 *</label>
+                                    <input class="form-control required" type="text" name="bank" placeholder="사용하시는 은행을 입력해주세요.">
+                                </div>
+                                <div class="col-md-12 mb-60px">
+                                    <label style="color: black; margin-bottom: 8px;">계좌번호 *</label>
+                                    <input class="form-control required" type="text" name="account" placeholder="계좌번호를 입력해주세요.">
+                                </div>
+                                <div class="col-md-12 text-center text-md-end sm-mt-20px">
+                                    <input type="hidden" name="redirect" value="">
+                                    <button class="btn btn-base-color btn-medium btn-rounded btn-box-shadow submit" type="submit">회원가입</button>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-results mt-20px d-none"></div>
+                                </div>
+                            </form>
+                            <!-- end contact form -->
+                        </div>
+                    </div>
+                    <!-- end features box item --> 
+                </div>
+            </div>
+        </section>
+        <!-- end section --> 
+        <!-- start section --> 
+        <!-- end section --> 
+        <!-- start footer -->
+        <footer class="footer-dark bg-dark-gray pt-0 pb-2 lg-pb-35px">
+            <div class="container">
+                <div class="row align-items-center fs-16 fw-300 pt-4">
+                    <!-- start copyright -->
+                    <div class="col-md-4 last-paragraph-no-margin order-2 order-md-1 text-center text-md-start"><p>&COPY; 2024 K-Stable</p></div>
+                    <!-- end copyright -->
+                    <!-- start footer menu -->
+                    <div class="col-md-8 text-md-end order-1 order-md-2 text-center text-md-end sm-mb-10px">
+                        <ul class="footer-navbar sm-lh-normal"> 
+                            <li><a href="#" class="nav-link">이용약관</a></li>
+                            <li><a href="#" class="nav-link">개인정보처리방침</a></li>
+                        </ul>
+                    </div>
+                    <!-- end footer menu -->
+                </div>
+            </div> 
+        </footer>
+        <!-- end footer -->
+         <!-- start scroll progress -->
+        <div class="scroll-progress d-none d-xxl-block">
+          <a href="#" class="scroll-top" aria-label="scroll">
+            <span class="scroll-text">Scroll</span><span class="scroll-line"><span class="scroll-point"></span></span>
+          </a>
+        </div>
+        <!-- end scroll progress -->
+        <!-- javascript libraries -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                const form = document.getElementById('registerForm');
+            
+                form.addEventListener('submit', function (e) {
+                    e.preventDefault();
+            
+                    const formData = new FormData(form);
+            
+                    // 필수 필드 목록
+                    const requiredFields = ["name", "phone", "username", "password", "bank", "account"];
+            
+                    for (const field of requiredFields) {
+                        const value = String(formData.get(field) || "").trim();
+                        if (!value) {
+                            alert("모든 필수 항목을 입력해주세요.");
+                            return;
+                        }
+                    }
+            
+                    // 전화번호 형식 검사 (010xxxxxxxx)
+                    const phone = String(formData.get("phone")).trim();
+                    const phoneRegex = /^010\d{8}$/;
+                    if (!phoneRegex.test(phone)) {
+                        alert("전화번호는 010으로 시작하고 11자리여야 합니다. 예: 01012345678");
+                        return;
+                    }
+            
+                    // 계좌번호 숫자만 허용
+                    const account = String(formData.get("account")).trim();
+                    const accountRegex = /^\d+$/;
+                    if (!accountRegex.test(account)) {
+                        alert("계좌번호는 숫자만 입력해주세요.");
+                        return;
+                    }
+            
+                    const xhr = new XMLHttpRequest();
+                    xhr.open('POST', '/api/register.php', true);
+            
+                    xhr.onreadystatechange = function () {
+                        if (xhr.readyState === XMLHttpRequest.DONE) {
+                            try {
+                                const res = JSON.parse(xhr.responseText);
+                                if (xhr.status === 200 && res.ok) {
+                                    alert("회원가입이 완료되었습니다. 관리자 승인 후 로그인이 가능합니다.");
+                                    window.location.href = '/#login';
+                                } else {
+                                    alert(res.error || "회원가입에 실패했습니다.");
+                                }
+                            } catch (err) {
+                                alert("서버 응답이 올바르지 않습니다.");
+                            }
+                        }
+                    };
+            
+                    xhr.onerror = function () {
+                        alert("네트워크 오류가 발생했습니다.");
+                    };
+            
+                    xhr.send(formData);
+                });
+            });
+        </script>
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/vendors.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>

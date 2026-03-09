@@ -1,0 +1,3793 @@
+{
+  "meta": {
+    "generated_at_kst": "2026-03-09T10:24:13.309484+09:00",
+    "start_date": "20260303",
+    "end_date": "20260309",
+    "source_pages": {
+      "caution": "https://open.krx.co.kr/contents/MKD/10/1002/10020405/MKD10020405.jsp",
+      "warning": "https://open.krx.co.kr/contents/MKD/10/1002/10020406/MKD10020406.jsp",
+      "risk": "https://open.krx.co.kr/contents/MKD/10/1002/10020407/MKD10020407.jsp"
+    },
+    "row_count": 129,
+    "candidate_count": 89
+  },
+  "candidates": [
+    {
+      "code": "448900",
+      "name": "한국피아이엠",
+      "score": 43,
+      "categories": "caution",
+      "reasons": "소수계좌 매수관여 과다 | 투자경고 지정예고",
+      "latest_date": "2026-03-09",
+      "event_count": 6,
+      "events": [
+        {
+          "code": "448900",
+          "name": "한국피아이엠",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "131,400",
+          "delta": "18,600",
+          "raw": {
+            "rn": "2",
+            "isu_srt_cd": "448900",
+            "isu_nm": "한국피아이엠",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "131,400",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "18,600",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        },
+        {
+          "code": "448900",
+          "name": "한국피아이엠",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "131,400",
+          "delta": "18,600",
+          "raw": {
+            "rn": "3",
+            "isu_srt_cd": "448900",
+            "isu_nm": "한국피아이엠",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "131,400",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "18,600",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        },
+        {
+          "code": "448900",
+          "name": "한국피아이엠",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "131,400",
+          "delta": "18,600",
+          "raw": {
+            "rn": "23",
+            "isu_srt_cd": "448900",
+            "isu_nm": "한국피아이엠",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "131,400",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "18,600",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "448900",
+          "name": "한국피아이엠",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "131,400",
+          "delta": "18,600",
+          "raw": {
+            "rn": "78",
+            "isu_srt_cd": "448900",
+            "isu_nm": "한국피아이엠",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "131,400",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "18,600",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        },
+        {
+          "code": "448900",
+          "name": "한국피아이엠",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "131,400",
+          "delta": "18,600",
+          "raw": {
+            "rn": "114",
+            "isu_srt_cd": "448900",
+            "isu_nm": "한국피아이엠",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "131,400",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "18,600",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        },
+        {
+          "code": "448900",
+          "name": "한국피아이엠",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "131,400",
+          "delta": "18,600",
+          "raw": {
+            "rn": "115",
+            "isu_srt_cd": "448900",
+            "isu_nm": "한국피아이엠",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "131,400",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "18,600",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-09)+3 / 소수계좌 매수관여 과다+5 / recent(2026-03-09)+3 / 소수계좌 매수관여 과다+5 / recent(2026-03-06)+2 / 소수계좌 매수관여 과다+5 / recent(2026-03-04)+1 / 투자경고 지정예고+4 / recent(2026-03-03)+1 / 소수계좌 매수관여 과다+5 / recent(2026-03-03)+1 / multi_reason+2"
+    },
+    {
+      "code": "152550",
+      "name": "한국ANKOR유전",
+      "score": 36,
+      "categories": "caution, warning",
+      "reasons": "단일계좌 거래량 상위 | 소수계좌 매수관여 과다 | 투자경고 | 투자경고 지정예고",
+      "latest_date": "2026-03-09",
+      "event_count": 4,
+      "events": [
+        {
+          "code": "152550",
+          "name": "한국ANKOR유전",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "566",
+          "delta": "76",
+          "raw": {
+            "rn": "30",
+            "isu_srt_cd": "152550",
+            "isu_nm": "한국ANKOR유전",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "566",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "76",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "152550",
+          "name": "한국ANKOR유전",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "566",
+          "delta": "76",
+          "raw": {
+            "rn": "59",
+            "isu_srt_cd": "152550",
+            "isu_nm": "한국ANKOR유전",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "566",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "76",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "152550",
+          "name": "한국ANKOR유전",
+          "category": "caution",
+          "reason": "단일계좌 거래량 상위",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "566",
+          "delta": "76",
+          "raw": {
+            "rn": "90",
+            "isu_srt_cd": "152550",
+            "isu_nm": "한국ANKOR유전",
+            "gubun": "단일계좌거래량",
+            "isu_cur_pr": "566",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "76",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        },
+        {
+          "code": "152550",
+          "name": "한국ANKOR유전",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "566",
+          "delta": "76",
+          "raw": {
+            "rn": "27",
+            "isu_cd": "152550",
+            "kor_isu_nm": "한국ANKOR유전",
+            "isu_std_pr": "566",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "76",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / 투자경고 지정예고+4 / recent(2026-03-06)+2 / 소수계좌 매수관여 과다+5 / recent(2026-03-05)+1 / 단일계좌 거래량 상위+4 / recent(2026-03-04)+1 / recent(2026-03-09)+3 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "296640",
+      "name": "이노룰스",
+      "score": 27,
+      "categories": "caution",
+      "reasons": "단일계좌 거래량 상위 | 소수지점/계좌 | 특정계좌(군) 매매관여 과다",
+      "latest_date": "2026-03-09",
+      "event_count": 4,
+      "events": [
+        {
+          "code": "296640",
+          "name": "이노룰스",
+          "category": "caution",
+          "reason": "특정계좌(군) 매매관여 과다",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "7,250",
+          "delta": "190",
+          "raw": {
+            "rn": "12",
+            "isu_srt_cd": "296640",
+            "isu_nm": "이노룰스",
+            "gubun": "매매관여과다종목",
+            "isu_cur_pr": "7,250",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "190",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        },
+        {
+          "code": "296640",
+          "name": "이노룰스",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "7,250",
+          "delta": "190",
+          "raw": {
+            "rn": "37",
+            "isu_srt_cd": "296640",
+            "isu_nm": "이노룰스",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "7,250",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "190",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "296640",
+          "name": "이노룰스",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "7,250",
+          "delta": "190",
+          "raw": {
+            "rn": "94",
+            "isu_srt_cd": "296640",
+            "isu_nm": "이노룰스",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "7,250",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "190",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        },
+        {
+          "code": "296640",
+          "name": "이노룰스",
+          "category": "caution",
+          "reason": "단일계좌 거래량 상위",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "7,250",
+          "delta": "190",
+          "raw": {
+            "rn": "95",
+            "isu_srt_cd": "296640",
+            "isu_nm": "이노룰스",
+            "gubun": "단일계좌거래량",
+            "isu_cur_pr": "7,250",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "190",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 특정계좌(군) 매매관여 과다+6 / recent(2026-03-09)+3 / 소수지점/계좌+3 / recent(2026-03-06)+2 / 소수지점/계좌+3 / recent(2026-03-04)+1 / 단일계좌 거래량 상위+4 / recent(2026-03-04)+1 / multi_reason+2"
+    },
+    {
+      "code": "238090",
+      "name": "앤디포스",
+      "score": 23,
+      "categories": "caution",
+      "reasons": "소수계좌 매수관여 과다 | 투자경고 지정예고",
+      "latest_date": "2026-03-09",
+      "event_count": 3,
+      "events": [
+        {
+          "code": "238090",
+          "name": "앤디포스",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "2,875",
+          "delta": "15",
+          "raw": {
+            "rn": "14",
+            "isu_srt_cd": "238090",
+            "isu_nm": "앤디포스",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "2,875",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "15",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        },
+        {
+          "code": "238090",
+          "name": "앤디포스",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "2,875",
+          "delta": "15",
+          "raw": {
+            "rn": "68",
+            "isu_srt_cd": "238090",
+            "isu_nm": "앤디포스",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "2,875",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "15",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "238090",
+          "name": "앤디포스",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "2,875",
+          "delta": "15",
+          "raw": {
+            "rn": "69",
+            "isu_srt_cd": "238090",
+            "isu_nm": "앤디포스",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "2,875",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "15",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수계좌 매수관여 과다+5 / recent(2026-03-09)+3 / 소수계좌 매수관여 과다+5 / recent(2026-03-05)+1 / 투자경고 지정예고+4 / recent(2026-03-05)+1 / multi_reason+2"
+    },
+    {
+      "code": "024060",
+      "name": "흥구석유",
+      "score": 23,
+      "categories": "caution, warning",
+      "reasons": "투자경고 | 투자경고 지정예고",
+      "latest_date": "2026-03-06",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "024060",
+          "name": "흥구석유",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "31,100",
+          "delta": "3,500",
+          "raw": {
+            "rn": "51",
+            "isu_srt_cd": "024060",
+            "isu_nm": "흥구석유",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "31,100",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "3,500",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "024060",
+          "name": "흥구석유",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "31,200",
+          "delta": "3,600",
+          "raw": {
+            "rn": "25",
+            "isu_cd": "024060",
+            "kor_isu_nm": "흥구석유",
+            "isu_std_pr": "31,200",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "3,600",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / 투자경고 지정예고+4 / recent(2026-03-05)+1 / recent(2026-03-06)+2 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "048530",
+      "name": "인트론바이오",
+      "score": 23,
+      "categories": "caution, warning",
+      "reasons": "투자경고 | 투자경고 지정예고",
+      "latest_date": "2026-03-06",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "048530",
+          "name": "인트론바이오",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "5,970",
+          "delta": "480",
+          "raw": {
+            "rn": "65",
+            "isu_srt_cd": "048530",
+            "isu_nm": "인트론바이오",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "5,970",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "480",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "048530",
+          "name": "인트론바이오",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "5,970",
+          "delta": "480",
+          "raw": {
+            "rn": "26",
+            "isu_cd": "048530",
+            "kor_isu_nm": "인트론바이오",
+            "isu_std_pr": "5,970",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "480",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / 투자경고 지정예고+4 / recent(2026-03-05)+1 / recent(2026-03-06)+2 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "008500",
+      "name": "일정실업",
+      "score": 20,
+      "categories": "caution",
+      "reasons": "소수지점/계좌 | 종가급변 | 특정계좌(군) 매매관여 과다",
+      "latest_date": "2026-03-06",
+      "event_count": 3,
+      "events": [
+        {
+          "code": "008500",
+          "name": "일정실업",
+          "category": "caution",
+          "reason": "특정계좌(군) 매매관여 과다",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "2,945",
+          "delta": "165",
+          "raw": {
+            "rn": "33",
+            "isu_srt_cd": "008500",
+            "isu_nm": "일정실업",
+            "gubun": "매매관여과다종목",
+            "isu_cur_pr": "2,945",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "165",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "008500",
+          "name": "일정실업",
+          "category": "caution",
+          "reason": "종가급변",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "2,945",
+          "delta": "165",
+          "raw": {
+            "rn": "34",
+            "isu_srt_cd": "008500",
+            "isu_nm": "일정실업",
+            "gubun": "종가급변",
+            "isu_cur_pr": "2,945",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "165",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "008500",
+          "name": "일정실업",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "2,945",
+          "delta": "165",
+          "raw": {
+            "rn": "35",
+            "isu_srt_cd": "008500",
+            "isu_nm": "일정실업",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "2,945",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "165",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 특정계좌(군) 매매관여 과다+6 / recent(2026-03-06)+2 / 종가급변+1 / recent(2026-03-06)+2 / 소수지점/계좌+3 / recent(2026-03-06)+2 / multi_reason+2"
+    },
+    {
+      "code": "071950",
+      "name": "코아스",
+      "score": 19,
+      "categories": "caution",
+      "reasons": "단일계좌 거래량 상위 | 소수지점/계좌",
+      "latest_date": "2026-03-09",
+      "event_count": 3,
+      "events": [
+        {
+          "code": "071950",
+          "name": "코아스",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "1,918",
+          "delta": "147",
+          "raw": {
+            "rn": "10",
+            "isu_srt_cd": "071950",
+            "isu_nm": "코아스",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "1,918",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "147",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        },
+        {
+          "code": "071950",
+          "name": "코아스",
+          "category": "caution",
+          "reason": "단일계좌 거래량 상위",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "1,918",
+          "delta": "147",
+          "raw": {
+            "rn": "63",
+            "isu_srt_cd": "071950",
+            "isu_nm": "코아스",
+            "gubun": "단일계좌거래량",
+            "isu_cur_pr": "1,918",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "147",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "071950",
+          "name": "코아스",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "1,918",
+          "delta": "147",
+          "raw": {
+            "rn": "93",
+            "isu_srt_cd": "071950",
+            "isu_nm": "코아스",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "1,918",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "147",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-09)+3 / 단일계좌 거래량 상위+4 / recent(2026-03-05)+1 / 소수지점/계좌+3 / recent(2026-03-04)+1 / multi_reason+2"
+    },
+    {
+      "code": "033240",
+      "name": "자화전자",
+      "score": 19,
+      "categories": "caution, warning",
+      "reasons": "투자경고 | 투자경고 지정해제",
+      "latest_date": "2026-03-09",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "033240",
+          "name": "자화전자",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "37,650",
+          "delta": "2,300",
+          "raw": {
+            "rn": "11",
+            "isu_srt_cd": "033240",
+            "isu_nm": "자화전자",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "37,650",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "2,300",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        },
+        {
+          "code": "033240",
+          "name": "자화전자",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-19",
+          "design_date": "2026-02-20",
+          "price": "37,650",
+          "delta": "2,300",
+          "raw": {
+            "rn": "7",
+            "isu_cd": "033240",
+            "kor_isu_nm": "자화전자",
+            "isu_std_pr": "37,650",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "2,300",
+            "act_dd": "2026/02/19",
+            "design_dd": "2026/02/20",
+            "free_dt": "2026/03/09"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / recent(2026-03-09)+3 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "040160",
+      "name": "누리플렉스",
+      "score": 19,
+      "categories": "caution, warning",
+      "reasons": "투자경고 | 투자경고 지정해제",
+      "latest_date": "2026-03-09",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "040160",
+          "name": "누리플렉스",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "8,940",
+          "delta": "310",
+          "raw": {
+            "rn": "18",
+            "isu_srt_cd": "040160",
+            "isu_nm": "누리플렉스",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "8,940",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "310",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        },
+        {
+          "code": "040160",
+          "name": "누리플렉스",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-19",
+          "design_date": "2026-02-20",
+          "price": "8,940",
+          "delta": "310",
+          "raw": {
+            "rn": "8",
+            "isu_cd": "040160",
+            "kor_isu_nm": "누리플렉스",
+            "isu_std_pr": "8,940",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "310",
+            "act_dd": "2026/02/19",
+            "design_dd": "2026/02/20",
+            "free_dt": "2026/03/09"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / recent(2026-03-09)+3 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "127120",
+      "name": "제이에스링크",
+      "score": 18,
+      "categories": "caution, warning",
+      "reasons": "투자경고 | 투자경고 지정해제",
+      "latest_date": "2026-03-06",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "127120",
+          "name": "제이에스링크",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "36,150",
+          "delta": "3,500",
+          "raw": {
+            "rn": "32",
+            "isu_srt_cd": "127120",
+            "isu_nm": "제이에스링크",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "36,150",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "3,500",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "127120",
+          "name": "제이에스링크",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-13",
+          "design_date": "2026-02-19",
+          "price": "36,150",
+          "delta": "3,500",
+          "raw": {
+            "rn": "5",
+            "isu_cd": "127120",
+            "kor_isu_nm": "제이에스링크",
+            "isu_std_pr": "36,150",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "3,500",
+            "act_dd": "2026/02/13",
+            "design_dd": "2026/02/19",
+            "free_dt": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / recent(2026-03-06)+2 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "294630",
+      "name": "서남",
+      "score": 18,
+      "categories": "caution, warning",
+      "reasons": "투자경고 | 투자경고 지정해제",
+      "latest_date": "2026-03-06",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "294630",
+          "name": "서남",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "3,825",
+          "delta": "325",
+          "raw": {
+            "rn": "43",
+            "isu_srt_cd": "294630",
+            "isu_nm": "서남",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "3,825",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "325",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "294630",
+          "name": "서남",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-13",
+          "design_date": "2026-02-19",
+          "price": "3,815",
+          "delta": "335",
+          "raw": {
+            "rn": "6",
+            "isu_cd": "294630",
+            "kor_isu_nm": "서남",
+            "isu_std_pr": "3,815",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "335",
+            "act_dd": "2026/02/13",
+            "design_dd": "2026/02/19",
+            "free_dt": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / recent(2026-03-06)+2 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "369370",
+      "name": "블리츠웨이엔터테인먼트",
+      "score": 17,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-09",
+      "event_count": 3,
+      "events": [
+        {
+          "code": "369370",
+          "name": "블리츠웨이엔터테인먼트",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "1,031",
+          "delta": "7",
+          "raw": {
+            "rn": "16",
+            "isu_srt_cd": "369370",
+            "isu_nm": "블리츠웨이엔터테인먼트",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "1,031",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "7",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        },
+        {
+          "code": "369370",
+          "name": "블리츠웨이엔터테인먼트",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "1,031",
+          "delta": "7",
+          "raw": {
+            "rn": "45",
+            "isu_srt_cd": "369370",
+            "isu_nm": "블리츠웨이엔터테인먼트",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "1,031",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "7",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "369370",
+          "name": "블리츠웨이엔터테인먼트",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "1,031",
+          "delta": "7",
+          "raw": {
+            "rn": "100",
+            "isu_srt_cd": "369370",
+            "isu_nm": "블리츠웨이엔터테인먼트",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "1,031",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "7",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-09)+3 / 소수지점/계좌+3 / recent(2026-03-06)+2 / 소수지점/계좌+3 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "440110",
+      "name": "파두",
+      "score": 17,
+      "categories": "caution, warning",
+      "reasons": "투자경고 | 투자경고 지정해제",
+      "latest_date": "2026-03-04",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "440110",
+          "name": "파두",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "61,600",
+          "delta": "9,400",
+          "raw": {
+            "rn": "91",
+            "isu_srt_cd": "440110",
+            "isu_nm": "파두",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "61,600",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "9,400",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        },
+        {
+          "code": "440110",
+          "name": "파두",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-06",
+          "design_date": "2026-02-09",
+          "price": "61,600",
+          "delta": "9,400",
+          "raw": {
+            "rn": "1",
+            "isu_cd": "440110",
+            "kor_isu_nm": "파두",
+            "isu_std_pr": "61,600",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "9,400",
+            "act_dd": "2026/02/06",
+            "design_dd": "2026/02/09",
+            "free_dt": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / recent(2026-03-04)+1 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "032820",
+      "name": "우리기술",
+      "score": 17,
+      "categories": "caution, warning",
+      "reasons": "투자경고 | 투자경고 지정해제",
+      "latest_date": "2026-03-05",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "032820",
+          "name": "우리기술",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "17,720",
+          "delta": "490",
+          "raw": {
+            "rn": "66",
+            "isu_srt_cd": "032820",
+            "isu_nm": "우리기술",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "17,720",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "490",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "032820",
+          "name": "우리기술",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-12",
+          "design_date": "2026-02-13",
+          "price": "17,710",
+          "delta": "480",
+          "raw": {
+            "rn": "2",
+            "isu_cd": "032820",
+            "kor_isu_nm": "우리기술",
+            "isu_std_pr": "17,710",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "480",
+            "act_dd": "2026/02/12",
+            "design_dd": "2026/02/13",
+            "free_dt": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / recent(2026-03-05)+1 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "347700",
+      "name": "스피어",
+      "score": 17,
+      "categories": "caution, warning",
+      "reasons": "투자경고 | 투자경고 지정해제",
+      "latest_date": "2026-03-05",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "347700",
+          "name": "스피어",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "44,000",
+          "delta": "2,300",
+          "raw": {
+            "rn": "73",
+            "isu_srt_cd": "347700",
+            "isu_nm": "스피어",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "44,000",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "2,300",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "347700",
+          "name": "스피어",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-12",
+          "design_date": "2026-02-13",
+          "price": "43,900",
+          "delta": "2,400",
+          "raw": {
+            "rn": "3",
+            "isu_cd": "347700",
+            "kor_isu_nm": "스피어",
+            "isu_std_pr": "43,900",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "2,400",
+            "act_dd": "2026/02/12",
+            "design_dd": "2026/02/13",
+            "free_dt": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / recent(2026-03-05)+1 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "412350",
+      "name": "레이저쎌",
+      "score": 17,
+      "categories": "caution, warning",
+      "reasons": "투자경고 | 투자경고 지정해제",
+      "latest_date": "2026-03-05",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "412350",
+          "name": "레이저쎌",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "4,095",
+          "delta": "145",
+          "raw": {
+            "rn": "74",
+            "isu_srt_cd": "412350",
+            "isu_nm": "레이저쎌",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "4,095",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "145",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "412350",
+          "name": "레이저쎌",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-12",
+          "design_date": "2026-02-13",
+          "price": "4,080",
+          "delta": "160",
+          "raw": {
+            "rn": "4",
+            "isu_cd": "412350",
+            "kor_isu_nm": "레이저쎌",
+            "isu_std_pr": "4,080",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "160",
+            "act_dd": "2026/02/12",
+            "design_dd": "2026/02/13",
+            "free_dt": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / warning+8 / recent(2026-03-05)+1 / multi_category+4 / multi_reason+2"
+    },
+    {
+      "code": "123010",
+      "name": "알엔티엑스",
+      "score": 15,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 3,
+      "events": [
+        {
+          "code": "123010",
+          "name": "알엔티엑스",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "702",
+          "delta": "89",
+          "raw": {
+            "rn": "42",
+            "isu_srt_cd": "123010",
+            "isu_nm": "알엔티엑스",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "702",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "89",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "123010",
+          "name": "알엔티엑스",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "702",
+          "delta": "89",
+          "raw": {
+            "rn": "70",
+            "isu_srt_cd": "123010",
+            "isu_nm": "알엔티엑스",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "702",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "89",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "123010",
+          "name": "알엔티엑스",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "702",
+          "delta": "89",
+          "raw": {
+            "rn": "97",
+            "isu_srt_cd": "123010",
+            "isu_nm": "알엔티엑스",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "702",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "89",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2 / 소수지점/계좌+3 / recent(2026-03-05)+1 / 소수지점/계좌+3 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "341170",
+      "name": "퓨쳐메디신",
+      "score": 15,
+      "categories": "caution",
+      "reasons": "소수지점/계좌 | 특정계좌(군) 매매관여 과다",
+      "latest_date": "2026-03-05",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "341170",
+          "name": "퓨쳐메디신",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "1,700",
+          "delta": "17",
+          "raw": {
+            "rn": "61",
+            "isu_srt_cd": "341170",
+            "isu_nm": "퓨쳐메디신",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "1,700",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "17",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "341170",
+          "name": "퓨쳐메디신",
+          "category": "caution",
+          "reason": "특정계좌(군) 매매관여 과다",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "1,700",
+          "delta": "17",
+          "raw": {
+            "rn": "62",
+            "isu_srt_cd": "341170",
+            "isu_nm": "퓨쳐메디신",
+            "gubun": "매매관여과다종목",
+            "isu_cur_pr": "1,700",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "17",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-05)+1 / 특정계좌(군) 매매관여 과다+6 / recent(2026-03-05)+1 / multi_reason+2"
+    },
+    {
+      "code": "031860",
+      "name": "디에이치엑스컴퍼니",
+      "score": 14,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-05",
+      "event_count": 3,
+      "events": [
+        {
+          "code": "031860",
+          "name": "디에이치엑스컴퍼니",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "475",
+          "delta": "109",
+          "raw": {
+            "rn": "75",
+            "isu_srt_cd": "031860",
+            "isu_nm": "디에이치엑스컴퍼니",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "475",
+            "fluc_tp": "4",
+            "prv_dd_cmpr": "109",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "031860",
+          "name": "디에이치엑스컴퍼니",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "475",
+          "delta": "109",
+          "raw": {
+            "rn": "106",
+            "isu_srt_cd": "031860",
+            "isu_nm": "디에이치엑스컴퍼니",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "475",
+            "fluc_tp": "4",
+            "prv_dd_cmpr": "109",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        },
+        {
+          "code": "031860",
+          "name": "디에이치엑스컴퍼니",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "475",
+          "delta": "109",
+          "raw": {
+            "rn": "138",
+            "isu_srt_cd": "031860",
+            "isu_nm": "디에이치엑스컴퍼니",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "475",
+            "fluc_tp": "4",
+            "prv_dd_cmpr": "109",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-05)+1 / 소수지점/계좌+3 / recent(2026-03-04)+1 / 소수지점/계좌+3 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "187660",
+      "name": "현대ADM",
+      "score": 14,
+      "categories": "risk",
+      "reasons": "투자위험",
+      "latest_date": "2026-02-25",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "187660",
+          "name": "현대ADM",
+          "category": "risk",
+          "reason": "투자위험",
+          "act_date": "2026-02-24",
+          "design_date": "2026-02-25",
+          "price": "15,010",
+          "delta": "530",
+          "raw": {
+            "rn": "1",
+            "isu_cd": "187660",
+            "kor_isu_nm": "현대ADM",
+            "isu_std_pr": "15,010",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "530",
+            "act_dd": "2026/02/24",
+            "design_dd": "2026/02/25",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "risk+14"
+    },
+    {
+      "code": "221800",
+      "name": "유투바이오",
+      "score": 14,
+      "categories": "risk",
+      "reasons": "투자위험",
+      "latest_date": "2026-02-27",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "221800",
+          "name": "유투바이오",
+          "category": "risk",
+          "reason": "투자위험",
+          "act_date": "2026-02-26",
+          "design_date": "2026-02-27",
+          "price": "21,100",
+          "delta": "800",
+          "raw": {
+            "rn": "2",
+            "isu_cd": "221800",
+            "kor_isu_nm": "유투바이오",
+            "isu_std_pr": "21,100",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "800",
+            "act_dd": "2026/02/26",
+            "design_dd": "2026/02/27",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "risk+14"
+    },
+    {
+      "code": "307870",
+      "name": "비투엔",
+      "score": 11,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "307870",
+          "name": "비투엔",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "648",
+          "delta": "102",
+          "raw": {
+            "rn": "44",
+            "isu_srt_cd": "307870",
+            "isu_nm": "비투엔",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "648",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "102",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "307870",
+          "name": "비투엔",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "648",
+          "delta": "102",
+          "raw": {
+            "rn": "135",
+            "isu_srt_cd": "307870",
+            "isu_nm": "비투엔",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "648",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "102",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2 / 소수지점/계좌+3 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "351320",
+      "name": "넥사다이내믹스",
+      "score": 11,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "351320",
+          "name": "넥사다이내믹스",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "1,040",
+          "delta": "85",
+          "raw": {
+            "rn": "48",
+            "isu_srt_cd": "351320",
+            "isu_nm": "넥사다이내믹스",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "1,040",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "85",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        },
+        {
+          "code": "351320",
+          "name": "넥사다이내믹스",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "1,040",
+          "delta": "85",
+          "raw": {
+            "rn": "110",
+            "isu_srt_cd": "351320",
+            "isu_nm": "넥사다이내믹스",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "1,040",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "85",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2 / 소수지점/계좌+3 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "033200",
+      "name": "모아텍",
+      "score": 10,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-04",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "033200",
+          "name": "모아텍",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "3,380",
+          "delta": "280",
+          "raw": {
+            "rn": "104",
+            "isu_srt_cd": "033200",
+            "isu_nm": "모아텍",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "3,380",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "280",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        },
+        {
+          "code": "033200",
+          "name": "모아텍",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "3,380",
+          "delta": "280",
+          "raw": {
+            "rn": "137",
+            "isu_srt_cd": "033200",
+            "isu_nm": "모아텍",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "3,380",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "280",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-04)+1 / 소수지점/계좌+3 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "123840",
+      "name": "뉴온",
+      "score": 10,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-04",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "123840",
+          "name": "뉴온",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "685",
+          "delta": "14",
+          "raw": {
+            "rn": "109",
+            "isu_srt_cd": "123840",
+            "isu_nm": "뉴온",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "685",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "14",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        },
+        {
+          "code": "123840",
+          "name": "뉴온",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "685",
+          "delta": "14",
+          "raw": {
+            "rn": "142",
+            "isu_srt_cd": "123840",
+            "isu_nm": "뉴온",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "685",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "14",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-04)+1 / 소수지점/계좌+3 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "219130",
+      "name": "타이거일렉",
+      "score": 10,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-04",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "219130",
+          "name": "타이거일렉",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "27,300",
+          "delta": "1,550",
+          "raw": {
+            "rn": "92",
+            "isu_srt_cd": "219130",
+            "isu_nm": "타이거일렉",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "27,300",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "1,550",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        },
+        {
+          "code": "219130",
+          "name": "타이거일렉",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "27,300",
+          "delta": "1,550",
+          "raw": {
+            "rn": "129",
+            "isu_srt_cd": "219130",
+            "isu_nm": "타이거일렉",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "27,300",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "1,550",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-04)+1 / 소수지점/계좌+3 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "368600",
+      "name": "아이씨에이치",
+      "score": 10,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-05",
+      "event_count": 2,
+      "events": [
+        {
+          "code": "368600",
+          "name": "아이씨에이치",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "645",
+          "delta": "64",
+          "raw": {
+            "rn": "72",
+            "isu_srt_cd": "368600",
+            "isu_nm": "아이씨에이치",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "645",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "64",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        },
+        {
+          "code": "368600",
+          "name": "아이씨에이치",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "645",
+          "delta": "64",
+          "raw": {
+            "rn": "98",
+            "isu_srt_cd": "368600",
+            "isu_nm": "아이씨에이치",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "645",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "64",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-05)+1 / 소수지점/계좌+3 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "001290",
+      "name": "상상인증권",
+      "score": 10,
+      "categories": "caution",
+      "reasons": "소수계좌 매수관여 과다",
+      "latest_date": "2026-03-09",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "001290",
+          "name": "상상인증권",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "1,175",
+          "delta": "155",
+          "raw": {
+            "rn": "15",
+            "isu_srt_cd": "001290",
+            "isu_nm": "상상인증권",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "1,175",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "155",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수계좌 매수관여 과다+5 / recent(2026-03-09)+3"
+    },
+    {
+      "code": "000150",
+      "name": "두산",
+      "score": 9,
+      "categories": "caution",
+      "reasons": "특정계좌(군) 매매관여 과다",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "000150",
+          "name": "두산",
+          "category": "caution",
+          "reason": "특정계좌(군) 매매관여 과다",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "961,000",
+          "delta": "89,000",
+          "raw": {
+            "rn": "139",
+            "isu_srt_cd": "000150",
+            "isu_nm": "두산",
+            "gubun": "매매관여과다종목",
+            "isu_cur_pr": "961,000",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "89,000",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 특정계좌(군) 매매관여 과다+6 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "051910",
+      "name": "LG화학",
+      "score": 9,
+      "categories": "caution",
+      "reasons": "특정계좌(군) 매매관여 과다",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "051910",
+          "name": "LG화학",
+          "category": "caution",
+          "reason": "특정계좌(군) 매매관여 과다",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "303,000",
+          "delta": "23,500",
+          "raw": {
+            "rn": "144",
+            "isu_srt_cd": "051910",
+            "isu_nm": "LG화학",
+            "gubun": "매매관여과다종목",
+            "isu_cur_pr": "303,000",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "23,500",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 특정계좌(군) 매매관여 과다+6 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "092220",
+      "name": "KEC",
+      "score": 9,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "092220",
+          "name": "KEC",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "1,401",
+          "delta": "3",
+          "raw": {
+            "rn": "23",
+            "isu_cd": "092220",
+            "kor_isu_nm": "KEC",
+            "isu_std_pr": "1,401",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "3",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "223220",
+      "name": "로지스몬",
+      "score": 9,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "223220",
+          "name": "로지스몬",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "2,460",
+          "delta": "45",
+          "raw": {
+            "rn": "24",
+            "isu_cd": "223220",
+            "kor_isu_nm": "로지스몬",
+            "isu_std_pr": "2,460",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "45",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "307180",
+      "name": "아이엘",
+      "score": 9,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "307180",
+          "name": "아이엘",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "4,055",
+          "delta": "1,235",
+          "raw": {
+            "rn": "22",
+            "isu_cd": "307180",
+            "kor_isu_nm": "아이엘",
+            "isu_std_pr": "4,055",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "1,235",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "042520",
+      "name": "한스바이오메드",
+      "score": 9,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-09",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "042520",
+          "name": "한스바이오메드",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "46,050",
+          "delta": "4,650",
+          "raw": {
+            "rn": "1",
+            "isu_srt_cd": "042520",
+            "isu_nm": "한스바이오메드",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "46,050",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "4,650",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-09)+3"
+    },
+    {
+      "code": "079550",
+      "name": "LIG넥스원",
+      "score": 9,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-09",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "079550",
+          "name": "LIG넥스원",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "834,000",
+          "delta": "0",
+          "raw": {
+            "rn": "19",
+            "isu_srt_cd": "079550",
+            "isu_nm": "LIG넥스원",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "834,000",
+            "fluc_tp": "3",
+            "prv_dd_cmpr": "0",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-09)+3"
+    },
+    {
+      "code": "319660",
+      "name": "피에스케이",
+      "score": 9,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-09",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "319660",
+          "name": "피에스케이",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "61,900",
+          "delta": "9,500",
+          "raw": {
+            "rn": "8",
+            "isu_srt_cd": "319660",
+            "isu_nm": "피에스케이",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "61,900",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "9,500",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-09)+3"
+    },
+    {
+      "code": "322000",
+      "name": "HD현대에너지솔루션",
+      "score": 9,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-09",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "322000",
+          "name": "HD현대에너지솔루션",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "112,400",
+          "delta": "4,700",
+          "raw": {
+            "rn": "21",
+            "isu_srt_cd": "322000",
+            "isu_nm": "HD현대에너지솔루션",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "112,400",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "4,700",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-09)+3"
+    },
+    {
+      "code": "496320",
+      "name": "본시스템즈",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-20",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "496320",
+          "name": "본시스템즈",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-19",
+          "design_date": "2026-02-20",
+          "price": "583,000",
+          "delta": "0",
+          "raw": {
+            "rn": "9",
+            "isu_cd": "496320",
+            "kor_isu_nm": "본시스템즈",
+            "isu_std_pr": "583,000",
+            "fluc_tp": "0",
+            "prv_dd_cmpr": "0",
+            "act_dd": "2026/02/19",
+            "design_dd": "2026/02/20",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "005090",
+      "name": "SGC에너지",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-23",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "005090",
+          "name": "SGC에너지",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-20",
+          "design_date": "2026-02-23",
+          "price": "50,500",
+          "delta": "1,250",
+          "raw": {
+            "rn": "11",
+            "isu_cd": "005090",
+            "kor_isu_nm": "SGC에너지",
+            "isu_std_pr": "50,500",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "1,250",
+            "act_dd": "2026/02/20",
+            "design_dd": "2026/02/23",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "323350",
+      "name": "다원넥스뷰",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-23",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "323350",
+          "name": "다원넥스뷰",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-20",
+          "design_date": "2026-02-23",
+          "price": "11,470",
+          "delta": "1,730",
+          "raw": {
+            "rn": "10",
+            "isu_cd": "323350",
+            "kor_isu_nm": "다원넥스뷰",
+            "isu_std_pr": "11,470",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "1,730",
+            "act_dd": "2026/02/20",
+            "design_dd": "2026/02/23",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "009290",
+      "name": "광동제약",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-24",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "009290",
+          "name": "광동제약",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-23",
+          "design_date": "2026-02-24",
+          "price": "8,710",
+          "delta": "110",
+          "raw": {
+            "rn": "12",
+            "isu_cd": "009290",
+            "kor_isu_nm": "광동제약",
+            "isu_std_pr": "8,710",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "110",
+            "act_dd": "2026/02/23",
+            "design_dd": "2026/02/24",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "048410",
+      "name": "현대바이오",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-25",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "048410",
+          "name": "현대바이오",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-24",
+          "design_date": "2026-02-25",
+          "price": "14,400",
+          "delta": "850",
+          "raw": {
+            "rn": "13",
+            "isu_cd": "048410",
+            "kor_isu_nm": "현대바이오",
+            "isu_std_pr": "14,400",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "850",
+            "act_dd": "2026/02/24",
+            "design_dd": "2026/02/25",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "241520",
+      "name": "DSC인베스트먼트",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-25",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "241520",
+          "name": "DSC인베스트먼트",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-24",
+          "design_date": "2026-02-25",
+          "price": "14,900",
+          "delta": "1,600",
+          "raw": {
+            "rn": "14",
+            "isu_cd": "241520",
+            "kor_isu_nm": "DSC인베스트먼트",
+            "isu_std_pr": "14,900",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "1,600",
+            "act_dd": "2026/02/24",
+            "design_dd": "2026/02/25",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "217320",
+      "name": "썬테크",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-26",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "217320",
+          "name": "썬테크",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-25",
+          "design_date": "2026-02-26",
+          "price": "3,500",
+          "delta": "0",
+          "raw": {
+            "rn": "16",
+            "isu_cd": "217320",
+            "kor_isu_nm": "썬테크",
+            "isu_std_pr": "3,500",
+            "fluc_tp": "3",
+            "prv_dd_cmpr": "0",
+            "act_dd": "2026/02/25",
+            "design_dd": "2026/02/26",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "389470",
+      "name": "인벤티지랩",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-26",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "389470",
+          "name": "인벤티지랩",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-25",
+          "design_date": "2026-02-26",
+          "price": "92,000",
+          "delta": "3,500",
+          "raw": {
+            "rn": "15",
+            "isu_cd": "389470",
+            "kor_isu_nm": "인벤티지랩",
+            "isu_std_pr": "92,000",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "3,500",
+            "act_dd": "2026/02/25",
+            "design_dd": "2026/02/26",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "046890",
+      "name": "서울반도체",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-27",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "046890",
+          "name": "서울반도체",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-26",
+          "design_date": "2026-02-27",
+          "price": "9,240",
+          "delta": "980",
+          "raw": {
+            "rn": "18",
+            "isu_cd": "046890",
+            "kor_isu_nm": "서울반도체",
+            "isu_std_pr": "9,240",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "980",
+            "act_dd": "2026/02/26",
+            "design_dd": "2026/02/27",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "065170",
+      "name": "비엘팜텍",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-27",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "065170",
+          "name": "비엘팜텍",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-26",
+          "design_date": "2026-02-27",
+          "price": "3,105",
+          "delta": "120",
+          "raw": {
+            "rn": "19",
+            "isu_cd": "065170",
+            "kor_isu_nm": "비엘팜텍",
+            "isu_std_pr": "3,105",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "120",
+            "act_dd": "2026/02/26",
+            "design_dd": "2026/02/27",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "084870",
+      "name": "TBH글로벌",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-27",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "084870",
+          "name": "TBH글로벌",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-26",
+          "design_date": "2026-02-27",
+          "price": "1,963",
+          "delta": "67",
+          "raw": {
+            "rn": "21",
+            "isu_cd": "084870",
+            "kor_isu_nm": "TBH글로벌",
+            "isu_std_pr": "1,963",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "67",
+            "act_dd": "2026/02/26",
+            "design_dd": "2026/02/27",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "229000",
+      "name": "젠큐릭스",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-27",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "229000",
+          "name": "젠큐릭스",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-26",
+          "design_date": "2026-02-27",
+          "price": "3,460",
+          "delta": "450",
+          "raw": {
+            "rn": "17",
+            "isu_cd": "229000",
+            "kor_isu_nm": "젠큐릭스",
+            "isu_std_pr": "3,460",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "450",
+            "act_dd": "2026/02/26",
+            "design_dd": "2026/02/27",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "242040",
+      "name": "나무기술",
+      "score": 8,
+      "categories": "warning",
+      "reasons": "투자경고",
+      "latest_date": "2026-02-27",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "242040",
+          "name": "나무기술",
+          "category": "warning",
+          "reason": "투자경고",
+          "act_date": "2026-02-26",
+          "design_date": "2026-02-27",
+          "price": "4,530",
+          "delta": "355",
+          "raw": {
+            "rn": "20",
+            "isu_cd": "242040",
+            "kor_isu_nm": "나무기술",
+            "isu_std_pr": "4,530",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "355",
+            "act_dd": "2026/02/26",
+            "design_dd": "2026/02/27",
+            "free_dt": "-"
+          }
+        }
+      ],
+      "explanation": "warning+8"
+    },
+    {
+      "code": "047040",
+      "name": "대우건설",
+      "score": 8,
+      "categories": "caution",
+      "reasons": "소수계좌 매수관여 과다",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "047040",
+          "name": "대우건설",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "8,110",
+          "delta": "660",
+          "raw": {
+            "rn": "141",
+            "isu_srt_cd": "047040",
+            "isu_nm": "대우건설",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "8,110",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "660",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수계좌 매수관여 과다+5 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "171090",
+      "name": "선익시스템",
+      "score": 8,
+      "categories": "caution",
+      "reasons": "소수계좌 매수관여 과다",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "171090",
+          "name": "선익시스템",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "116,900",
+          "delta": "10,200",
+          "raw": {
+            "rn": "134",
+            "isu_srt_cd": "171090",
+            "isu_nm": "선익시스템",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "116,900",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "10,200",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수계좌 매수관여 과다+5 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "001510",
+      "name": "SK증권",
+      "score": 8,
+      "categories": "caution",
+      "reasons": "소수계좌 매수관여 과다",
+      "latest_date": "2026-03-04",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "001510",
+          "name": "SK증권",
+          "category": "caution",
+          "reason": "소수계좌 매수관여 과다",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "1,744",
+          "delta": "187",
+          "raw": {
+            "rn": "111",
+            "isu_srt_cd": "001510",
+            "isu_nm": "SK증권",
+            "gubun": "소수계좌 매수관여 과다",
+            "isu_cur_pr": "1,744",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "187",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수계좌 매수관여 과다+5 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "004090",
+      "name": "한국석유",
+      "score": 8,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-06",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "004090",
+          "name": "한국석유",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "26,050",
+          "delta": "2,800",
+          "raw": {
+            "rn": "24",
+            "isu_srt_cd": "004090",
+            "isu_nm": "한국석유",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "26,050",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "2,800",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-06)+2"
+    },
+    {
+      "code": "069920",
+      "name": "엑시온그룹",
+      "score": 8,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-09",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "069920",
+          "name": "엑시온그룹",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "547",
+          "delta": "63",
+          "raw": {
+            "rn": "13",
+            "isu_srt_cd": "069920",
+            "isu_nm": "엑시온그룹",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "547",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "63",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-09)+3"
+    },
+    {
+      "code": "277070",
+      "name": "린드먼아시아",
+      "score": 8,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-09",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "277070",
+          "name": "린드먼아시아",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "3,945",
+          "delta": "145",
+          "raw": {
+            "rn": "17",
+            "isu_srt_cd": "277070",
+            "isu_nm": "린드먼아시아",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "3,945",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "145",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-09)+3"
+    },
+    {
+      "code": "348080",
+      "name": "큐라티스",
+      "score": 8,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-09",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "348080",
+          "name": "큐라티스",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-06",
+          "design_date": "2026-03-09",
+          "price": "1,296",
+          "delta": "29",
+          "raw": {
+            "rn": "9",
+            "isu_srt_cd": "348080",
+            "isu_nm": "큐라티스",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "1,296",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "29",
+            "act_dd": "2026/03/06",
+            "design_dd": "2026/03/09"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-09)+3"
+    },
+    {
+      "code": "006340",
+      "name": "대원전선",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "006340",
+          "name": "대원전선",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "5,160",
+          "delta": "360",
+          "raw": {
+            "rn": "140",
+            "isu_srt_cd": "006340",
+            "isu_nm": "대원전선",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "5,160",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "360",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "009310",
+      "name": "참엔지니어링",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "009310",
+          "name": "참엔지니어링",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "1,020",
+          "delta": "120",
+          "raw": {
+            "rn": "130",
+            "isu_srt_cd": "009310",
+            "isu_nm": "참엔지니어링",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "1,020",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "120",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "042700",
+      "name": "한미반도체",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "042700",
+          "name": "한미반도체",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "300,500",
+          "delta": "33,000",
+          "raw": {
+            "rn": "113",
+            "isu_srt_cd": "042700",
+            "isu_nm": "한미반도체",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "300,500",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "33,000",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "006920",
+      "name": "모헨즈",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-04",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "006920",
+          "name": "모헨즈",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "5,250",
+          "delta": "370",
+          "raw": {
+            "rn": "103",
+            "isu_srt_cd": "006920",
+            "isu_nm": "모헨즈",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "5,250",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "370",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "037350",
+      "name": "성도이엔지",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-04",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "037350",
+          "name": "성도이엔지",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "10,360",
+          "delta": "1,040",
+          "raw": {
+            "rn": "99",
+            "isu_srt_cd": "037350",
+            "isu_nm": "성도이엔지",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "10,360",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "1,040",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "054620",
+      "name": "APS",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-04",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "054620",
+          "name": "APS",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "6,450",
+          "delta": "600",
+          "raw": {
+            "rn": "112",
+            "isu_srt_cd": "054620",
+            "isu_nm": "APS",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "6,450",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "600",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "266170",
+      "name": "레드우즈",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-04",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "266170",
+          "name": "레드우즈",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "2,300",
+          "delta": "345",
+          "raw": {
+            "rn": "105",
+            "isu_srt_cd": "266170",
+            "isu_nm": "레드우즈",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "2,300",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "345",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "389260",
+      "name": "대명에너지",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "단일계좌 거래량 상위",
+      "latest_date": "2026-03-04",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "389260",
+          "name": "대명에너지",
+          "category": "caution",
+          "reason": "단일계좌 거래량 상위",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "19,510",
+          "delta": "2,010",
+          "raw": {
+            "rn": "108",
+            "isu_srt_cd": "389260",
+            "isu_nm": "대명에너지",
+            "gubun": "단일계좌거래량",
+            "isu_cur_pr": "19,510",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "2,010",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 단일계좌 거래량 상위+4 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "000440",
+      "name": "중앙에너비스",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-05",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "000440",
+          "name": "중앙에너비스",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "34,500",
+          "delta": "5,350",
+          "raw": {
+            "rn": "64",
+            "isu_srt_cd": "000440",
+            "isu_nm": "중앙에너비스",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "34,500",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "5,350",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-05)+1"
+    },
+    {
+      "code": "014530",
+      "name": "극동유화",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "투자경고 지정예고",
+      "latest_date": "2026-03-05",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "014530",
+          "name": "극동유화",
+          "category": "caution",
+          "reason": "투자경고 지정예고",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "4,980",
+          "delta": "695",
+          "raw": {
+            "rn": "76",
+            "isu_srt_cd": "014530",
+            "isu_nm": "극동유화",
+            "gubun": "투자경고 지정예고",
+            "isu_cur_pr": "4,980",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "695",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 투자경고 지정예고+4 / recent(2026-03-05)+1"
+    },
+    {
+      "code": "052770",
+      "name": "아이톡시",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "단일계좌 거래량 상위",
+      "latest_date": "2026-03-05",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "052770",
+          "name": "아이톡시",
+          "category": "caution",
+          "reason": "단일계좌 거래량 상위",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "462",
+          "delta": "36",
+          "raw": {
+            "rn": "71",
+            "isu_srt_cd": "052770",
+            "isu_nm": "아이톡시",
+            "gubun": "단일계좌거래량",
+            "isu_cur_pr": "462",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "36",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 단일계좌 거래량 상위+4 / recent(2026-03-05)+1"
+    },
+    {
+      "code": "016100",
+      "name": "리더스코스메틱",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "016100",
+          "name": "리더스코스메틱",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "1,563",
+          "delta": "101",
+          "raw": {
+            "rn": "46",
+            "isu_srt_cd": "016100",
+            "isu_nm": "리더스코스메틱",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "1,563",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "101",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2"
+    },
+    {
+      "code": "053350",
+      "name": "이니텍",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "053350",
+          "name": "이니텍",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "2,840",
+          "delta": "125",
+          "raw": {
+            "rn": "36",
+            "isu_srt_cd": "053350",
+            "isu_nm": "이니텍",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "2,840",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "125",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2"
+    },
+    {
+      "code": "065370",
+      "name": "위세아이텍",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "065370",
+          "name": "위세아이텍",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "4,390",
+          "delta": "405",
+          "raw": {
+            "rn": "38",
+            "isu_srt_cd": "065370",
+            "isu_nm": "위세아이텍",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "4,390",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "405",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2"
+    },
+    {
+      "code": "079000",
+      "name": "와토스코리아",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "079000",
+          "name": "와토스코리아",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "8,990",
+          "delta": "110",
+          "raw": {
+            "rn": "39",
+            "isu_srt_cd": "079000",
+            "isu_nm": "와토스코리아",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "8,990",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "110",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2"
+    },
+    {
+      "code": "083550",
+      "name": "케이엠",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "083550",
+          "name": "케이엠",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "3,400",
+          "delta": "80",
+          "raw": {
+            "rn": "31",
+            "isu_srt_cd": "083550",
+            "isu_nm": "케이엠",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "3,400",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "80",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2"
+    },
+    {
+      "code": "123750",
+      "name": "알톤",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "123750",
+          "name": "알톤",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "2,285",
+          "delta": "185",
+          "raw": {
+            "rn": "41",
+            "isu_srt_cd": "123750",
+            "isu_nm": "알톤",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "2,285",
+            "fluc_tp": "1",
+            "prv_dd_cmpr": "185",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2"
+    },
+    {
+      "code": "224060",
+      "name": "더코디",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "224060",
+          "name": "더코디",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "2,830",
+          "delta": "245",
+          "raw": {
+            "rn": "47",
+            "isu_srt_cd": "224060",
+            "isu_nm": "더코디",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "2,830",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "245",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2"
+    },
+    {
+      "code": "275630",
+      "name": "에스에스알",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "275630",
+          "name": "에스에스알",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "2,275",
+          "delta": "40",
+          "raw": {
+            "rn": "40",
+            "isu_srt_cd": "275630",
+            "isu_nm": "에스에스알",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "2,275",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "40",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2"
+    },
+    {
+      "code": "276730",
+      "name": "한울앤제주",
+      "score": 7,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-06",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "276730",
+          "name": "한울앤제주",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-05",
+          "design_date": "2026-03-06",
+          "price": "731",
+          "delta": "61",
+          "raw": {
+            "rn": "22",
+            "isu_srt_cd": "276730",
+            "isu_nm": "한울앤제주",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "731",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "61",
+            "act_dd": "2026/03/05",
+            "design_dd": "2026/03/06"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-06)+2"
+    },
+    {
+      "code": "051915",
+      "name": "LG화학우",
+      "score": 6,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "051915",
+          "name": "LG화학우",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "149,200",
+          "delta": "10,800",
+          "raw": {
+            "rn": "143",
+            "isu_srt_cd": "051915",
+            "isu_nm": "LG화학우",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "149,200",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "10,800",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "060900",
+      "name": "에이전트AI",
+      "score": 6,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "060900",
+          "name": "에이전트AI",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "256",
+          "delta": "29",
+          "raw": {
+            "rn": "133",
+            "isu_srt_cd": "060900",
+            "isu_nm": "에이전트AI",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "256",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "29",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "001070",
+      "name": "대한방직",
+      "score": 6,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-04",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "001070",
+          "name": "대한방직",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "6,530",
+          "delta": "170",
+          "raw": {
+            "rn": "107",
+            "isu_srt_cd": "001070",
+            "isu_nm": "대한방직",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "6,530",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "170",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "039830",
+      "name": "오로라",
+      "score": 6,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-04",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "039830",
+          "name": "오로라",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-03",
+          "design_date": "2026-03-04",
+          "price": "11,360",
+          "delta": "1,010",
+          "raw": {
+            "rn": "96",
+            "isu_srt_cd": "039830",
+            "isu_nm": "오로라",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "11,360",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "1,010",
+            "act_dd": "2026/03/03",
+            "design_dd": "2026/03/04"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-04)+1"
+    },
+    {
+      "code": "000240",
+      "name": "한국앤컴퍼니",
+      "score": 6,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-05",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "000240",
+          "name": "한국앤컴퍼니",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "24,150",
+          "delta": "1,850",
+          "raw": {
+            "rn": "52",
+            "isu_srt_cd": "000240",
+            "isu_nm": "한국앤컴퍼니",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "24,150",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "1,850",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-05)+1"
+    },
+    {
+      "code": "476080",
+      "name": "M83",
+      "score": 6,
+      "categories": "caution",
+      "reasons": "소수지점/계좌",
+      "latest_date": "2026-03-05",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "476080",
+          "name": "M83",
+          "category": "caution",
+          "reason": "소수지점/계좌",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "6,140",
+          "delta": "520",
+          "raw": {
+            "rn": "77",
+            "isu_srt_cd": "476080",
+            "isu_nm": "M83",
+            "gubun": "소수지점/계좌",
+            "isu_cur_pr": "6,140",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "520",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-05)+1"
+    },
+    {
+      "code": "032580",
+      "name": "피델릭스",
+      "score": 4,
+      "categories": "caution",
+      "reasons": "종가급변",
+      "latest_date": "2026-03-05",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "032580",
+          "name": "피델릭스",
+          "category": "caution",
+          "reason": "종가급변",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "950",
+          "delta": "68",
+          "raw": {
+            "rn": "60",
+            "isu_srt_cd": "032580",
+            "isu_nm": "피델릭스",
+            "gubun": "종가급변",
+            "isu_cur_pr": "950",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "68",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 종가급변+1 / recent(2026-03-05)+1"
+    },
+    {
+      "code": "250930",
+      "name": "예선테크",
+      "score": 4,
+      "categories": "caution",
+      "reasons": "종가급변",
+      "latest_date": "2026-03-05",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "250930",
+          "name": "예선테크",
+          "category": "caution",
+          "reason": "종가급변",
+          "act_date": "2026-03-04",
+          "design_date": "2026-03-05",
+          "price": "319",
+          "delta": "11",
+          "raw": {
+            "rn": "67",
+            "isu_srt_cd": "250930",
+            "isu_nm": "예선테크",
+            "gubun": "종가급변",
+            "isu_cur_pr": "319",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "11",
+            "act_dd": "2026/03/04",
+            "design_dd": "2026/03/05"
+          }
+        }
+      ],
+      "explanation": "caution+2 / 종가급변+1 / recent(2026-03-05)+1"
+    },
+    {
+      "code": "019570",
+      "name": "플루토스",
+      "score": 3,
+      "categories": "caution",
+      "reasons": "투자경고 지정해제",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "019570",
+          "name": "플루토스",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "341",
+          "delta": "10",
+          "raw": {
+            "rn": "128",
+            "isu_srt_cd": "019570",
+            "isu_nm": "플루토스",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "341",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "10",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "043590",
+      "name": "웰킵스하이텍",
+      "score": 3,
+      "categories": "caution",
+      "reasons": "투자경고 지정해제",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "043590",
+          "name": "웰킵스하이텍",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "603",
+          "delta": "9",
+          "raw": {
+            "rn": "132",
+            "isu_srt_cd": "043590",
+            "isu_nm": "웰킵스하이텍",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "603",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "9",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / recent(2026-03-03)+1"
+    },
+    {
+      "code": "056080",
+      "name": "유진로봇",
+      "score": 3,
+      "categories": "caution",
+      "reasons": "투자경고 지정해제",
+      "latest_date": "2026-03-03",
+      "event_count": 1,
+      "events": [
+        {
+          "code": "056080",
+          "name": "유진로봇",
+          "category": "caution",
+          "reason": "투자경고 지정해제",
+          "act_date": "2026-02-27",
+          "design_date": "2026-03-03",
+          "price": "29,300",
+          "delta": "2,800",
+          "raw": {
+            "rn": "131",
+            "isu_srt_cd": "056080",
+            "isu_nm": "유진로봇",
+            "gubun": "투자경고 지정해제",
+            "isu_cur_pr": "29,300",
+            "fluc_tp": "2",
+            "prv_dd_cmpr": "2,800",
+            "act_dd": "2026/02/27",
+            "design_dd": "2026/03/03"
+          }
+        }
+      ],
+      "explanation": "caution+2 / recent(2026-03-03)+1"
+    }
+  ]
+}

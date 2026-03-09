@@ -1,5 +1,7 @@
 # FSS ANKOR Attachments
 
+이번 제출본은 `최근 자료 중심(recent-only)`으로 구성한다.
+
 권장 사용 순서:
 
 1. 온라인 입력칸 본문: `FSS_ANKOR_ONLINE_PASTE_20260309.txt`
@@ -25,3 +27,8 @@
 - `raw_payloads.json`
 - `krx_investment_warning_notice_20260305_ankor.html`
 - `SOURCE_LINKS_ANKOR_20260309.md`
+
+별도 보관만 하고 이번 메인 제출에서는 제외한 자료:
+
+- `HISTORICAL_PATTERN_NOTE_20260309.md`
+- `ANKOR_VS_HEUNG_20260309.md`

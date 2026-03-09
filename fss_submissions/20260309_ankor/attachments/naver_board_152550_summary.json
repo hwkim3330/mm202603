@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "code": "152550",
+    "pages_fetched": 40,
+    "row_count": 797,
+    "source": "https://finance.naver.com/item/board.naver?code=152550"
+  },
+  "keyword_counts_by_date": {
+    "2026.03.05": {
+      "유가": 4,
+      "상한가": 2,
+      "전쟁": 2,
+      "쩜상": 2,
+      "청산": 1
+    },
+    "2026.03.06": {
+      "유가": 46,
+      "호르무즈": 7,
+      "쩜상": 8,
+      "전쟁": 10,
+      "청산": 1,
+      "상한가": 17,
+      "유조선": 3
+    },
+    "2026.03.07": {
+      "유가": 8,
+      "쩜상": 6,
+      "전쟁": 2,
+      "청산": 1
+    },
+    "2026.03.08": {
+      "전쟁": 2,
+      "쩜상": 8,
+      "유가": 5,
+      "청산": 5,
+      "상장폐지": 8,
+      "상한가": 2,
+      "유조선": 1
+    },
+    "2026.03.09": {
+      "서킷": 3,
+      "상한가": 5,
+      "사이드카": 2,
+      "유가": 13,
+      "200달러": 1,
+      "상장폐지": 8,
+      "전쟁": 4,
+      "호르무즈": 2,
+      "유조선": 1,
+      "쩜상": 5,
+      "청산": 2
+    }
+  },
+  "representative_posts": [
+    {
+      "keyword": "유가",
+      "date": "2026.03.07 12:12",
+      "title": "유가 상승으로 월요일부터 쩜 상상상상상상상 ... [ 5 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414387088&page=15",
+      "author": "솔직한리밸런싱사마귀",
+      "view": 384,
+      "up": 22,
+      "down": 5,
+      "page": 15
+    },
+    {
+      "keyword": "상한가",
+      "date": "2026.03.08 16:50",
+      "title": "월욜도 상한가",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414410859&page=10",
+      "author": "b1201",
+      "view": 40,
+      "up": 13,
+      "down": 4,
+      "page": 10
+    },
+    {
+      "keyword": "상장폐지",
+      "date": "2026.03.09 06:36",
+      "title": "폐쇄형 뮤추얼 펀드 상장폐지 전 주가 상승 사... [ 2 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414421913&page=8",
+      "author": "감각있는상승챌린저",
+      "view": 127,
+      "up": 9,
+      "down": 4,
+      "page": 8
+    },
+    {
+      "keyword": "청산",
+      "date": "2026.03.07 08:42",
+      "title": "(((주의)))4월30일 청산이다 (((주의)... [ 15 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414382058&page=16",
+      "author": "산요",
+      "view": 1075,
+      "up": 23,
+      "down": 18,
+      "page": 16
+    },
+    {
+      "keyword": "호르무즈",
+      "date": "2026.03.06 21:59",
+      "title": "카타르 호르무즈 봉쇄 시, 유가 150달러",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414367773&page=17",
+      "author": "느긋한자료초보",
+      "view": 87,
+      "up": 8,
+      "down": 1,
+      "page": 17
+    },
+    {
+      "keyword": "전쟁",
+      "date": "2026.03.09 07:56",
+      "title": "전쟁격화 호르무즈폐쇄계속",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414424840&page=7",
+      "author": "bbak2199",
+      "view": 42,
+      "up": 8,
+      "down": 1,
+      "page": 7
+    },
+    {
+      "keyword": "200달러",
+      "date": "2026.03.09 10:32",
+      "title": "이란 군사령부 오피셜 유가 200달러까지 항복...",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414461053&page=1",
+      "author": "감각있는상승챌린저",
+      "view": 46,
+      "up": 2,
+      "down": 1,
+      "page": 1
+    },
+    {
+      "keyword": "유조선",
+      "date": "2026.03.06 02:26",
+      "title": "국제유가, 중동 유조선 공격 소식에 상승폭 확...",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414263428&page=37",
+      "author": "현명한시장정보기사",
+      "view": 39,
+      "up": 8,
+      "down": 0,
+      "page": 37
+    },
+    {
+      "keyword": "쩜상",
+      "date": "2026.03.08 22:26",
+      "title": "내일도 쩜상이네..손절했는데ㅠ [ 3 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414417937&page=9",
+      "author": "dmsqlcgidrl",
+      "view": 425,
+      "up": 18,
+      "down": 6,
+      "page": 9
+    },
+    {
+      "keyword": "사이드카",
+      "date": "2026.03.09 09:39",
+      "title": "매도 사이드카 떴네 오르건 말건 쉬자",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414448402&page=4",
+      "author": "불기둥가즈아",
+      "view": 21,
+      "up": 2,
+      "down": 2,
+      "page": 4
+    },
+    {
+      "keyword": "서킷",
+      "date": "2026.03.09 10:37",
+      "title": "서킷브레이커 발동중 [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=152550&nid=414462410&page=1",
+      "author": "영리한초과수익파이터",
+      "view": 115,
+      "up": 3,
+      "down": 0,
+      "page": 1
+    }
+  ]
+}

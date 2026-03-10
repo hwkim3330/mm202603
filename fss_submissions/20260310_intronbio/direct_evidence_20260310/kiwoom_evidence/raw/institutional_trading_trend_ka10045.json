@@ -1,0 +1,78 @@
+{
+  "orgn_prsm_avg_pric": "5254",
+  "for_prsm_avg_pric": "5662",
+  "stk_orgn_trde_trnsn": [
+    {
+      "dt": "20260310",
+      "close_pric": "-4880",
+      "pre_sig": "5",
+      "pred_pre": "-600",
+      "flu_rt": "-10.95",
+      "trde_qty": "5639455",
+      "orgn_dt_acc": "125837.000000",
+      "orgn_daly_nettrde_qty": "3013",
+      "for_dt_acc": "109065.000000",
+      "for_daly_nettrde_qty": "0",
+      "limit_exh_rt": "+2.21"
+    },
+    {
+      "dt": "20260309",
+      "close_pric": "-5480",
+      "pre_sig": "5",
+      "pred_pre": "-970",
+      "flu_rt": "-15.04",
+      "trde_qty": "1288131",
+      "orgn_dt_acc": "122824.000000",
+      "orgn_daly_nettrde_qty": "1000",
+      "for_dt_acc": "109065.000000",
+      "for_daly_nettrde_qty": "-16583",
+      "limit_exh_rt": "+2.21"
+    },
+    {
+      "dt": "20260306",
+      "close_pric": "-6450",
+      "pre_sig": "5",
+      "pred_pre": "-200",
+      "flu_rt": "-3.01",
+      "trde_qty": "1003506",
+      "orgn_dt_acc": "121824.000000",
+      "orgn_daly_nettrde_qty": "7222",
+      "for_dt_acc": "125648.000000",
+      "for_daly_nettrde_qty": "32224",
+      "limit_exh_rt": "+2.26"
+    },
+    {
+      "dt": "20260305",
+      "close_pric": "+6650",
+      "pre_sig": "2",
+      "pred_pre": "+230",
+      "flu_rt": "+3.58",
+      "trde_qty": "2864063",
+      "orgn_dt_acc": "114602.000000",
+      "orgn_daly_nettrde_qty": "18998",
+      "for_dt_acc": "93424.000000",
+      "for_daly_nettrde_qty": "-1824",
+      "limit_exh_rt": "+2.17"
+    },
+    {
+      "dt": "20260304",
+      "close_pric": "+6420",
+      "pre_sig": "1",
+      "pred_pre": "+1480",
+      "flu_rt": "+29.96",
+      "trde_qty": "17989554",
+      "orgn_dt_acc": "95604.000000",
+      "orgn_daly_nettrde_qty": "95604",
+      "for_dt_acc": "95248.000000",
+      "for_daly_nettrde_qty": "95248",
+      "limit_exh_rt": "+2.17"
+    }
+  ],
+  "return_code": 0,
+  "return_msg": "정상적으로 처리되었습니다",
+  "api-id": "ka10045",
+  "cont-yn": "N",
+  "next-key": "",
+  "resp-cnt": "5",
+  "user-data": ""
+}

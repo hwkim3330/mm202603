@@ -1,0 +1,975 @@
+{
+  "stock_name": "인트론바이오",
+  "stock_code": "048530",
+  "post_count": 40,
+  "repeated_authors": [
+    [
+      "녹색자연",
+      16
+    ],
+    [
+      "강남멋쟁이",
+      3
+    ],
+    [
+      "NB777",
+      3
+    ],
+    [
+      "Doepdi",
+      3
+    ],
+    [
+      "아이스맨2",
+      2
+    ],
+    [
+      "하늘높이",
+      1
+    ],
+    [
+      "꿈꾸는요셉",
+      1
+    ],
+    [
+      "가보자꾸나",
+      1
+    ],
+    [
+      "바이패스",
+      1
+    ],
+    [
+      "텐버거사냥꾼7",
+      1
+    ],
+    [
+      "떨어질때사라",
+      1
+    ],
+    [
+      "분석맨",
+      1
+    ],
+    [
+      "웃는매매정보하마",
+      1
+    ],
+    [
+      "동키호테다",
+      1
+    ],
+    [
+      "황금차트",
+      1
+    ],
+    [
+      "살살올려",
+      1
+    ],
+    [
+      "금빛별",
+      1
+    ],
+    [
+      "억",
+      1
+    ]
+  ],
+  "title_keyword_counts": {
+    "세력": 5,
+    "설거지": 8,
+    "상한가": 11,
+    "시총": 3,
+    "매집": 2,
+    "호재": 1,
+    "주포": 3,
+    "쩜상": 2
+  },
+  "body_keyword_counts": {
+    "설거지": 2,
+    "시총": 2,
+    "상한가": 2,
+    "세력": 4,
+    "매집": 2
+  },
+  "external_links": [],
+  "posts": [
+    {
+      "label": "post_26",
+      "date": "2026-03-09T15:54:19",
+      "author": "바이패스",
+      "title": "설거지도 아니고 매집도 아니다",
+      "title_hits": [
+        "매집",
+        "설거지"
+      ],
+      "body_hits": [
+        "세력",
+        "매집",
+        "설거지"
+      ],
+      "recommend": 4,
+      "view": 188,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-09 15:35:00",
+        "price": 5480,
+        "qty": 21785,
+        "acc_qty": 1158732,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "설거지는",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414513544&page=12"
+    },
+    {
+      "label": "post_34",
+      "date": "2026-03-09T11:46:47",
+      "author": "녹색자연",
+      "title": "세력들 팔기위해서 기사쓰고 설거지",
+      "title_hits": [
+        "세력",
+        "설거지"
+      ],
+      "body_hits": [
+        "설거지"
+      ],
+      "recommend": 6,
+      "view": 51,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-09 11:30:00",
+        "price": 5790,
+        "qty": 73228,
+        "acc_qty": 478275,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "확인. 이정도하락은 설거지맞죠",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414478678&page=15"
+    },
+    {
+      "label": "post_05",
+      "date": "2026-03-10T14:00:51",
+      "author": "동키호테다",
+      "title": "세력들 개미들이 뉴스보고 상한가만들때 다빠졌네요 ㅎㅎ",
+      "title_hits": [
+        "세력",
+        "상한가"
+      ],
+      "body_hits": [
+        "세력"
+      ],
+      "recommend": 3,
+      "view": 44,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 14:00:00",
+        "price": 5270,
+        "qty": 70807,
+        "acc_qty": 3944433,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "세력들은 2배뛰기했으니 좋고 개미들은 죽어나고 ㅎㅎ",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414609077&page=5"
+    },
+    {
+      "label": "post_80",
+      "date": "2026-03-04T15:17:53",
+      "author": "강남멋쟁이",
+      "title": "단일가  전날인데,  상한가 가면",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [
+        "상한가"
+      ],
+      "recommend": 14,
+      "view": 260,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 15:15:00",
+        "price": 6420,
+        "qty": 236315,
+        "acc_qty": 17960327,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "내일  단일가  이고...   지수가  13.5%   개폭락인데.......상한가   간  건",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414091924&page=35"
+    },
+    {
+      "label": "post_79",
+      "date": "2026-03-04T15:25:03",
+      "author": "강남멋쟁이",
+      "title": "시총 2000억 회사가  신약개발 이다",
+      "title_hits": [
+        "시총"
+      ],
+      "body_hits": [
+        "시총"
+      ],
+      "recommend": 9,
+      "view": 491,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 15:15:00",
+        "price": 6420,
+        "qty": 236315,
+        "acc_qty": 17960327,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "기술수출 성공시   시총  1조이상    바로간다......5배  이상  폭등이란거",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414093721&page=35"
+    },
+    {
+      "label": "post_57",
+      "date": "2026-03-06T01:22:09",
+      "author": "텐버거사냥꾼7",
+      "title": "최소 시총1조 위에 종목임",
+      "title_hits": [
+        "시총"
+      ],
+      "body_hits": [
+        "세력"
+      ],
+      "recommend": 8,
+      "view": 269,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 09:00:00",
+        "price": 6120,
+        "qty": 115381,
+        "acc_qty": 115381,
+        "match_type": "next_open"
+      },
+      "snippet": "세력이 얼마나  눌렀어면",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414262229&page=23"
+    },
+    {
+      "label": "post_72",
+      "date": "2026-03-05T04:58:53",
+      "author": "억",
+      "title": "머야 아직 시총 2천억이네 1조 가야지",
+      "title_hits": [
+        "시총"
+      ],
+      "body_hits": [
+        "시총"
+      ],
+      "recommend": 8,
+      "view": 91,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-05 09:00:00",
+        "price": 6500,
+        "qty": 200207,
+        "acc_qty": 200207,
+        "match_type": "next_open"
+      },
+      "snippet": "시총 1조에ㅜ팔겠습니다 수고링",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414142103&page=33"
+    },
+    {
+      "label": "post_58",
+      "date": "2026-03-05T19:46:03",
+      "author": "강남멋쟁이",
+      "title": "개잡주 손절후  테크윙 매수.상한가 대박",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [
+        "상한가"
+      ],
+      "recommend": 4,
+      "view": 244,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-05 15:35:00",
+        "price": 6650,
+        "qty": 30557,
+        "acc_qty": 2776031,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "테크윙  미수 5배 되어  몰방 하니,  상한가  가서  손실 복구 하고도  700만원 수익에",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414248775&page=23"
+    },
+    {
+      "label": "post_91",
+      "date": "2026-03-04T10:47:20",
+      "author": "아이스맨2",
+      "title": "주포가 매집 엄청하는구만. ",
+      "title_hits": [
+        "주포",
+        "매집"
+      ],
+      "body_hits": [],
+      "recommend": 4,
+      "view": 33,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 10:45:00",
+        "price": 6420,
+        "qty": 1657232,
+        "acc_qty": 10359766,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "가즈아 3연상..",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414027924&page=40"
+    },
+    {
+      "label": "post_87",
+      "date": "2026-03-04T11:00:44",
+      "author": "아이스맨2",
+      "title": "주포 물량미달인가보네..",
+      "title_hits": [
+        "주포"
+      ],
+      "body_hits": [
+        "매집"
+      ],
+      "recommend": 0,
+      "view": 35,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 11:00:00",
+        "price": 6330,
+        "qty": 373314,
+        "acc_qty": 11209972,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "엄청 매집하네...",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414030659&page=40"
+    },
+    {
+      "label": "post_45",
+      "date": "2026-03-06T15:26:48",
+      "author": "하늘높이",
+      "title": "월요일 상한가네 딱 봐도",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [],
+      "recommend": 25,
+      "view": 485,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 15:00:00",
+        "price": 6270,
+        "qty": 43658,
+        "acc_qty": 860560,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "눌림에 거래량 없는거 보면 ..하늘 열린듯 상승 무제한",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414344436&page=19"
+    },
+    {
+      "label": "post_46",
+      "date": "2026-03-06T15:19:35",
+      "author": "NB777",
+      "title": "● 주말에 뉴스뜨고 월요일 상한가 출발~~",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [],
+      "recommend": 12,
+      "view": 239,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 15:00:00",
+        "price": 6270,
+        "qty": 43658,
+        "acc_qty": 860560,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "뿌잉뿌잉~~",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414343418&page=19"
+    },
+    {
+      "label": "post_24",
+      "date": "2026-03-09T18:55:59",
+      "author": "웃는매매정보하마",
+      "title": "그리고 상한가 1800만주..",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [],
+      "recommend": 11,
+      "view": 379,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-09 15:35:00",
+        "price": 5480,
+        "qty": 21785,
+        "acc_qty": 1158732,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "오늘 100만주로 15퍼 미는 땡땡이들.. ​ 내손에 물량 있소이다. 자랑하는것도.. ​ 아니고 투경 얼빵하게 들가서 ​ 이제 신용 미수 막고 누를거야 광고하는것도 ​ 아니고..에이 글쓰다 보니 짱나네 ㅋㅋ",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414526241&page=10"
+    },
+    {
+      "label": "post_39",
+      "date": "2026-03-08T11:25:47",
+      "author": "떨어질때사라",
+      "title": "물량은",
+      "title_hits": [],
+      "body_hits": [
+        "세력"
+      ],
+      "recommend": 11,
+      "view": 233,
+      "link_count": 0,
+      "minute_ref": null,
+      "snippet": "이자 세력들이 풀때다",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414405038&page=17"
+    },
+    {
+      "label": "post_22",
+      "date": "2026-03-10T05:09:12",
+      "author": "황금차트",
+      "title": "야간선물 상한가",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [],
+      "recommend": 9,
+      "view": 173,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 09:00:00",
+        "price": 5650,
+        "qty": 365098,
+        "acc_qty": 365098,
+        "match_type": "next_open"
+      },
+      "snippet": "갔네요 최소 10프로 이상에서 출발할듯",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414545802&page=9"
+    },
+    {
+      "label": "post_71",
+      "date": "2026-03-05T08:43:03",
+      "author": "살살올려",
+      "title": "쩜상정도는 괜찮아",
+      "title_hits": [
+        "쩜상"
+      ],
+      "body_hits": [],
+      "recommend": 9,
+      "view": 53,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-05 09:00:00",
+        "price": 6500,
+        "qty": 200207,
+        "acc_qty": 200207,
+        "match_type": "next_open"
+      },
+      "snippet": "역사쓰러가자",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414152944&page=32"
+    },
+    {
+      "label": "post_68",
+      "date": "2026-03-05T11:28:35",
+      "author": "Doepdi",
+      "title": "주포오전에모우고",
+      "title_hits": [
+        "주포"
+      ],
+      "body_hits": [],
+      "recommend": 9,
+      "view": 45,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-05 11:00:00",
+        "price": 6100,
+        "qty": 151089,
+        "acc_qty": 1306647,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "오후에 상가자",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414193494&page=29"
+    },
+    {
+      "label": "post_41",
+      "date": "2026-03-07T12:41:48",
+      "author": "NB777",
+      "title": "● 보통 바이오주는 자사주 매입후 대박호재 나옵니다~~^^",
+      "title_hits": [
+        "호재"
+      ],
+      "body_hits": [],
+      "recommend": 8,
+      "view": 159,
+      "link_count": 0,
+      "minute_ref": null,
+      "snippet": "담주부터 폭등랠리 시작합니다~~ ​",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414387710&page=18"
+    },
+    {
+      "label": "post_43",
+      "date": "2026-03-06T17:06:44",
+      "author": "꿈꾸는요셉",
+      "title": "세력이 물량 많이 가지고 있구나",
+      "title_hits": [
+        "세력"
+      ],
+      "body_hits": [],
+      "recommend": 7,
+      "view": 448,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 15:35:00",
+        "price": 6450,
+        "qty": 8775,
+        "acc_qty": 957393,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "월요일까진 단일가거래이니  화요일 무빙이 어떨지 궁금하네",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414353364&page=19"
+    },
+    {
+      "label": "post_75",
+      "date": "2026-03-04T22:34:57",
+      "author": "Doepdi",
+      "title": "ㄷㄷㄷ낼쩜상이네",
+      "title_hits": [
+        "쩜상"
+      ],
+      "body_hits": [],
+      "recommend": 7,
+      "view": 187,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 15:35:00",
+        "price": 6420,
+        "qty": 960,
+        "acc_qty": 17985697,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "자고일나면기술이전10조떠있나",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414130779&page=33"
+    },
+    {
+      "label": "post_60",
+      "date": "2026-03-05T17:23:08",
+      "author": "NB777",
+      "title": "● 남자답게 상한가 연상으로 가자~~",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [],
+      "recommend": 6,
+      "view": 125,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-05 15:35:00",
+        "price": 6650,
+        "qty": 30557,
+        "acc_qty": 2776031,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "이게 뭐꼬~?? ​ 안챙피하나~??",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414240916&page=24"
+    },
+    {
+      "label": "post_35",
+      "date": "2026-03-09T11:41:24",
+      "author": "녹색자연",
+      "title": "설거지확인 ",
+      "title_hits": [
+        "설거지"
+      ],
+      "body_hits": [],
+      "recommend": 5,
+      "view": 33,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-09 11:30:00",
+        "price": 5790,
+        "qty": 73228,
+        "acc_qty": 478275,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "이 종목때문에 손해가 크네요",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414477732&page=15"
+    },
+    {
+      "label": "post_38",
+      "date": "2026-03-09T08:59:55",
+      "author": "녹색자연",
+      "title": "설거지하나보네요",
+      "title_hits": [
+        "설거지"
+      ],
+      "body_hits": [],
+      "recommend": 4,
+      "view": 74,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-09 09:00:00",
+        "price": 5850,
+        "qty": 77419,
+        "acc_qty": 77419,
+        "match_type": "next_open"
+      },
+      "snippet": "찬티글도 너무많고 기회비용 잘버리고갑니다",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414434422&page=16"
+    },
+    {
+      "label": "post_54",
+      "date": "2026-03-06T08:56:00",
+      "author": "녹색자연",
+      "title": "음.. 여기 세력들 왜이러나요?",
+      "title_hits": [
+        "세력"
+      ],
+      "body_hits": [],
+      "recommend": 3,
+      "view": 49,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 09:00:00",
+        "price": 6120,
+        "qty": 115381,
+        "acc_qty": 115381,
+        "match_type": "next_open"
+      },
+      "snippet": "원래 이래요? 마이너스10%? 방산주나 살걸 에휴",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414278273&page=22"
+    },
+    {
+      "label": "post_98",
+      "date": "2026-03-04T10:27:04",
+      "author": "녹색자연",
+      "title": "설거지였네..",
+      "title_hits": [
+        "설거지"
+      ],
+      "body_hits": [],
+      "recommend": 3,
+      "view": 43,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 10:25:00",
+        "price": 6230,
+        "qty": 407077,
+        "acc_qty": 7772846,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "ㅎㅎ.... 꿈이 깨졌도다",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414022725&page=42"
+    },
+    {
+      "label": "post_03",
+      "date": "2026-03-10T15:52:34",
+      "author": "녹색자연",
+      "title": "아 내돈... 내일 상한가 한번만...",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [],
+      "recommend": 2,
+      "view": 78,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 15:30:00",
+        "price": 4880,
+        "qty": 44677,
+        "acc_qty": 5557566,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "주식 힘들다..",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414621775&page=1"
+    },
+    {
+      "label": "post_31",
+      "date": "2026-03-09T13:08:59",
+      "author": "녹색자연",
+      "title": "설거지할려고 단기로2배넘게.올렸었네요",
+      "title_hits": [
+        "설거지"
+      ],
+      "body_hits": [],
+      "recommend": 2,
+      "view": 32,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-09 13:00:00",
+        "price": 5450,
+        "qty": 83884,
+        "acc_qty": 729681,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "운도없지 참",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414489774&page=14"
+    },
+    {
+      "label": "post_51",
+      "date": "2026-03-06T09:33:31",
+      "author": "녹색자연",
+      "title": "세력들 밑장빼기하는건가요 체결직전에?",
+      "title_hits": [
+        "세력"
+      ],
+      "body_hits": [],
+      "recommend": 1,
+      "view": 46,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 09:30:00",
+        "price": 6530,
+        "qty": 114106,
+        "acc_qty": 229487,
+        "match_type": "prior_or_same"
+      },
+      "snippet": ".........",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414287315&page=21"
+    },
+    {
+      "label": "post_33",
+      "date": "2026-03-09T12:59:47",
+      "author": "녹색자연",
+      "title": "상한가때 팔고 현대샀으면",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [],
+      "recommend": 1,
+      "view": 38,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-09 12:30:00",
+        "price": 5570,
+        "qty": 68402,
+        "acc_qty": 645797,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "수익이 얼마인가 참나...",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414488421&page=14"
+    },
+    {
+      "label": "post_12",
+      "date": "2026-03-10T12:07:58",
+      "author": "녹색자연",
+      "title": "설거지 거의 맞는거같은데",
+      "title_hits": [
+        "설거지"
+      ],
+      "body_hits": [],
+      "recommend": 1,
+      "view": 33,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 12:05:00",
+        "price": 5660,
+        "qty": 148691,
+        "acc_qty": 3042972,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "몇번을 넘기는거지 차트보세요",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414594441&page=5"
+    },
+    {
+      "label": "post_92",
+      "date": "2026-03-04T10:46:42",
+      "author": "녹색자연",
+      "title": "완벽한설거지",
+      "title_hits": [
+        "설거지"
+      ],
+      "body_hits": [],
+      "recommend": 1,
+      "view": 33,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 10:45:00",
+        "price": 6420,
+        "qty": 1657232,
+        "acc_qty": 10359766,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "뽀득뽀득 쓱삭 또 풀릴듯 ​ 상잔량 초라하다",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414027717&page=41"
+    },
+    {
+      "label": "post_93",
+      "date": "2026-03-04T10:45:02",
+      "author": "녹색자연",
+      "title": "또 풀릴듯 팔아먹을려고 상한가간듯",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [],
+      "recommend": 0,
+      "view": 30,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 10:45:00",
+        "price": 6420,
+        "qty": 1657232,
+        "acc_qty": 10359766,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "아까처럼 또 풀릴듯 상잔량이 너무적음",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414027104&page=41"
+    },
+    {
+      "label": "post_78",
+      "date": "2026-03-04T18:11:55",
+      "author": "가보자꾸나",
+      "title": "델릭스홀딩스 현재 폭등 중",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 13,
+      "view": 564,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 15:35:00",
+        "price": 6420,
+        "qty": 960,
+        "acc_qty": 17985697,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "인트론바이오와 엮이니 이런일이 ​ 지금 나스닥에서 거래중인데 폭등 중",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414115153&page=34"
+    },
+    {
+      "label": "post_44",
+      "date": "2026-03-06T16:36:24",
+      "author": "분석맨",
+      "title": "미수 물량나오는 구나..",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 8,
+      "view": 355,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 15:35:00",
+        "price": 6450,
+        "qty": 8775,
+        "acc_qty": 957393,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "월요일 반대매매 줍줍합시다.. 아직은 저점 아닌듯",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414350991&page=19"
+    },
+    {
+      "label": "post_74",
+      "date": "2026-03-04T22:36:01",
+      "author": "금빛별",
+      "title": "기존 안방마님들아ㅋㅋ",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 8,
+      "view": 353,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 15:35:00",
+        "price": 6420,
+        "qty": 960,
+        "acc_qty": 17985697,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "좀 싸게 들왔다구 텃세부리지 말구ㅋㅋ 식구로 받아주라ㅋㅋ 나 있짜냐ㅋㅋ 얘루 트리플텐버거 먹을거양ㅋㅋ",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414130826&page=33"
+    },
+    {
+      "label": "post_23",
+      "date": "2026-03-09T21:42:12",
+      "author": "녹색자연",
+      "title": "내일 물량넘길려고 오늘 글이 많네요",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 7,
+      "view": 282,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-09 15:35:00",
+        "price": 5480,
+        "qty": 21785,
+        "acc_qty": 1158732,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "끄나풀들.....",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414533494&page=9"
+    },
+    {
+      "label": "post_42",
+      "date": "2026-03-06T23:30:14",
+      "author": "Doepdi",
+      "title": "원유개폭등에 나스닥 개처박을거같고",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 4,
+      "view": 188,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 15:35:00",
+        "price": 6450,
+        "qty": 8775,
+        "acc_qty": 957393,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "월요일 인버스급반등해주나",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414371271&page=18"
+    },
+    {
+      "label": "post_19",
+      "date": "2026-03-10T09:22:52",
+      "author": "녹색자연",
+      "title": "물량정리하나보네..",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 2,
+      "view": 50,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 09:20:00",
+        "price": 5330,
+        "qty": 152764,
+        "acc_qty": 904882,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "몇년후에 탈출이라도 가능할까.... 버티면 상폐되거나 돈이 없어지겠지 어제 그많던 찬티들은 어디로간거지..",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414566218&page=8"
+    },
+    {
+      "label": "post_15",
+      "date": "2026-03-10T10:06:02",
+      "author": "녹색자연",
+      "title": "물량 넘기는거같네요",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 2,
+      "view": 50,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 10:05:00",
+        "price": 5410,
+        "qty": 59861,
+        "acc_qty": 2100999,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "아무거나 사도 버는장인데 저포함 님들도 재수가없네요",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414575537&page=7"
+    },
+    {
+      "label": "post_95",
+      "date": "2026-03-04T10:38:52",
+      "author": "녹색자연",
+      "title": "대화방보세요 넘어가면안돼요",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 1,
+      "view": 47,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 10:35:00",
+        "price": 6070,
+        "qty": 172403,
+        "acc_qty": 8161460,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "상 풀린이유가 있겠죠",
+      "url": "https://finance.naver.com/item/board_read.naver?code=048530&nid=414025850&page=41"
+    }
+  ]
+}

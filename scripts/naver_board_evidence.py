@@ -30,8 +30,10 @@ class PostArtifact:
     recommend_count: int
     view_count: int
     image_count: int
+    link_count: int
     ocr_chars: int
     text_filename: str
+    html_filename: str
     meta_filename: str
 
 
@@ -87,6 +89,19 @@ def extract_image_urls(content_html: str) -> list[str]:
     return urls
 
 
+def extract_links(content_html: str) -> list[str]:
+    soup = BeautifulSoup(content_html, 'html.parser')
+    urls = []
+    seen = set()
+    for a in soup.find_all('a'):
+        href = a.get('href')
+        if not href or href in seen:
+            continue
+        seen.add(href)
+        urls.append(href)
+    return urls
+
+
 def save_image_and_ocr(s: requests.Session, url: str, raw_dir: Path, label: str, idx: int) -> tuple[str, str]:
     resp = s.get(url, timeout=30)
     resp.raise_for_status()
@@ -118,12 +133,16 @@ def main() -> int:
         mobile_url = resolve_mobile_url(source_url, source_html)
         mobile_html = fetch_html(s, mobile_url)
         result = extract_post_data(mobile_html)
-        text = html_to_text(result.get('contentHtml', ''))
-        image_urls = extract_image_urls(result.get('contentHtml', ''))
+        content_html = result.get('contentHtml', '')
+        text = html_to_text(content_html)
+        image_urls = extract_image_urls(content_html)
+        extracted_links = extract_links(content_html)
 
         text_filename = f'{label}.content.txt'
+        html_filename = f'{label}.content.html'
         meta_filename = f'{label}.meta.json'
         (raw_dir / text_filename).write_text(text, encoding='utf-8')
+        (raw_dir / html_filename).write_text(content_html, encoding='utf-8')
 
         ocr_chars = 0
         saved_images = []
@@ -146,8 +165,10 @@ def main() -> int:
             'recommend_count': result.get('recommendCount', 0),
             'view_count': result.get('viewCount', 0),
             'image_urls': image_urls,
+            'extracted_links': extracted_links,
             'saved_images': saved_images,
             'text_filename': text_filename,
+            'html_filename': html_filename,
         }
         (raw_dir / meta_filename).write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding='utf-8')
 
@@ -161,15 +182,17 @@ def main() -> int:
             recommend_count=int(result.get('recommendCount', 0) or 0),
             view_count=int(result.get('viewCount', 0) or 0),
             image_count=len(image_urls),
+            link_count=len(extracted_links),
             ocr_chars=ocr_chars,
             text_filename=text_filename,
+            html_filename=html_filename,
             meta_filename=meta_filename,
         ))
 
     (output_dir / 'manifest.json').write_text(json.dumps([asdict(x) for x in manifest], ensure_ascii=False, indent=2), encoding='utf-8')
-    lines = ['# Naver Board Evidence Manifest', '', '| label | title | time | 추천 | 조회 | 이미지수 | OCR chars | text | meta |', '| --- | --- | --- | ---: | ---: | ---: | ---: | --- | --- |']
+    lines = ['# Naver Board Evidence Manifest', '', '| label | title | time | 추천 | 조회 | 이미지수 | 링크수 | OCR chars | text | html | meta |', '| --- | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | --- | --- |']
     for x in manifest:
-        lines.append(f"| {x.label} | {x.title} | {x.written_at} | {x.recommend_count} | {x.view_count} | {x.image_count} | {x.ocr_chars} | `{x.text_filename}` | `{x.meta_filename}` |")
+        lines.append(f"| {x.label} | {x.title} | {x.written_at} | {x.recommend_count} | {x.view_count} | {x.image_count} | {x.link_count} | {x.ocr_chars} | `{x.text_filename}` | `{x.html_filename}` | `{x.meta_filename}` |")
     (output_dir / 'manifest.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
     print(json.dumps({'count': len(manifest), 'output_dir': str(output_dir)}, ensure_ascii=False))
     return 0

@@ -19,6 +19,9 @@
 - `FSS_PIIM_SUBMISSION_DOCTORAL_20260309.txt`
 - `FSS_PIIM_FORM_GUIDE.md`
 - `FSS_PIIM_FINAL_CHECKLIST.md`
+- `EVIDENCE_MATRIX_PIIM_20260310.md`
+- `RECENT_TIMELINE_PIIM_20260310.md`
+- `REWARD_GAP_PIIM_20260310.md`
 - `COMMUNITY_EVIDENCE_PIIM_20260309.md`
 - `SOURCE_LINKS_PIIM_20260309.md`
 - `krx_piim_events_20260309.md`
@@ -34,3 +37,6 @@
 - `raw_payloads.json`
 - `krx_investment_warning_notice_20260303_piim.html`
 - `krx_investment_warning_notice_20260309_piim.html`
+- `kiwoom_evidence/SUMMARY.md`
+- `kiwoom_evidence/collection_manifest.json`
+- `kiwoom_evidence/raw/*.json`

@@ -1,0 +1,54 @@
+{
+  "code": "341170",
+  "name": "퓨쳐메디신",
+  "score": 15,
+  "categories": "caution",
+  "reasons": "소수지점/계좌 | 특정계좌(군) 매매관여 과다",
+  "latest_date": "2026-03-05",
+  "event_count": 2,
+  "events": [
+    {
+      "code": "341170",
+      "name": "퓨쳐메디신",
+      "category": "caution",
+      "reason": "소수지점/계좌",
+      "act_date": "2026-03-04",
+      "design_date": "2026-03-05",
+      "price": "1,700",
+      "delta": "17",
+      "raw": {
+        "rn": "61",
+        "isu_srt_cd": "341170",
+        "isu_nm": "퓨쳐메디신",
+        "gubun": "소수지점/계좌",
+        "isu_cur_pr": "1,700",
+        "fluc_tp": "1",
+        "prv_dd_cmpr": "17",
+        "act_dd": "2026/03/04",
+        "design_dd": "2026/03/05"
+      }
+    },
+    {
+      "code": "341170",
+      "name": "퓨쳐메디신",
+      "category": "caution",
+      "reason": "특정계좌(군) 매매관여 과다",
+      "act_date": "2026-03-04",
+      "design_date": "2026-03-05",
+      "price": "1,700",
+      "delta": "17",
+      "raw": {
+        "rn": "62",
+        "isu_srt_cd": "341170",
+        "isu_nm": "퓨쳐메디신",
+        "gubun": "매매관여과다종목",
+        "isu_cur_pr": "1,700",
+        "fluc_tp": "1",
+        "prv_dd_cmpr": "17",
+        "act_dd": "2026/03/04",
+        "design_dd": "2026/03/05"
+      }
+    }
+  ],
+  "explanation": "caution+2 / 소수지점/계좌+3 / recent(2026-03-05)+1 / 특정계좌(군) 매매관여 과다+6 / recent(2026-03-05)+1 / multi_reason+2"
+}

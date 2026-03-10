@@ -1,0 +1,21 @@
+{
+  "label": "post_01",
+  "source_url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408302718&page=8",
+  "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/341170/discussion/408302718",
+  "title": "리드코프 40일 연속 상한가",
+  "written_at": "2025-12-09T13:24:30",
+  "author": "Kingkong",
+  "recommend_count": 8,
+  "view_count": 158,
+  "image_urls": [
+    "https://sec-discuss-phinf.pstatic.net/MjAyNTEyMDlfMzEg/MDAxNzY1MjU0MjY3MzAx.p2-hP3qS9ky-LzTkRYztf4Ev3ow-j1AZEhtc-0Va6Lsg.WgiKW8wssEjh56gGu2sF_DCU7NCYpoXeSeOtT7INuOAg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpeg?type=p100_100"
+  ],
+  "saved_images": [
+    {
+      "url": "https://sec-discuss-phinf.pstatic.net/MjAyNTEyMDlfMzEg/MDAxNzY1MjU0MjY3MzAx.p2-hP3qS9ky-LzTkRYztf4Ev3ow-j1AZEhtc-0Va6Lsg.WgiKW8wssEjh56gGu2sF_DCU7NCYpoXeSeOtT7INuOAg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpeg?type=p100_100",
+      "image_file": "post_01_img01.png",
+      "ocr_file": "post_01_img01.ocr.txt"
+    }
+  ],
+  "text_filename": "post_01.content.txt"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "post_02",
+  "source_url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408323939&page=7",
+  "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/341170/discussion/408323939",
+  "title": "쩜상 50방 축하...미국 자본 투자 유치",
+  "written_at": "2025-12-09T18:35:06",
+  "author": "Kingkong",
+  "recommend_count": 17,
+  "view_count": 266,
+  "image_urls": [
+    "https://sec-discuss-phinf.pstatic.net/MjAyNTEyMDlfNTkg/MDAxNzY1MjczOTM4MDI1.YKL0VnABshIDA3pLYnOaVHNB_xH897_i99MbGozYQMog.O9_6tOKZyBWgD4qzbxe2UeDrwkzMtiP6y7g-WaSLJj0g.PNG/1765273873081.png?type=p100_100",
+    "https://sec-discuss-phinf.pstatic.net/MjAyNTEyMDlfMTI3/MDAxNzY1MjcyODg1OTU1.yp611uy1s4VfYSn_C4dxKBKU-JZOKN2ziajrf6qXvhMg.ktV8C2JjqMaoBSPMRiFg0C27a-nlMKMEi2sr4TJAPeAg.JPEG/Screenshot_20251209_182857_Chrome.jpg?type=p100_100"
+  ],
+  "saved_images": [
+    {
+      "url": "https://sec-discuss-phinf.pstatic.net/MjAyNTEyMDlfNTkg/MDAxNzY1MjczOTM4MDI1.YKL0VnABshIDA3pLYnOaVHNB_xH897_i99MbGozYQMog.O9_6tOKZyBWgD4qzbxe2UeDrwkzMtiP6y7g-WaSLJj0g.PNG/1765273873081.png?type=p100_100",
+      "image_file": "post_02_img01.png",
+      "ocr_file": "post_02_img01.ocr.txt"
+    },
+    {
+      "url": "https://sec-discuss-phinf.pstatic.net/MjAyNTEyMDlfMTI3/MDAxNzY1MjcyODg1OTU1.yp611uy1s4VfYSn_C4dxKBKU-JZOKN2ziajrf6qXvhMg.ktV8C2JjqMaoBSPMRiFg0C27a-nlMKMEi2sr4TJAPeAg.JPEG/Screenshot_20251209_182857_Chrome.jpg?type=p100_100",
+      "image_file": "post_02_img02.png",
+      "ocr_file": "post_02_img02.ocr.txt"
+    }
+  ],
+  "text_filename": "post_02.content.txt"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "label": "퓨쳐메디신_naver_board_main",
+    "url": "https://finance.naver.com/item/board.naver?code=341170",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260310T021737Z",
+    "bytes": 146517,
+    "sha256": "212bee715b35e0a97c1baf6de83253cc357059b0f080e4c1180c824928fefa26",
+    "filename": "20260310T021737Z_naver_board_main.html"
+  },
+  {
+    "label": "퓨쳐메디신_post_01",
+    "url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408302718&page=8",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260310T021737Z",
+    "bytes": 132475,
+    "sha256": "ff23eef2c4dc70c616c9fce8944ffbf4d87fb320604fb6061b36fab81b62c8bb",
+    "filename": "20260310T021737Z_post_01.html"
+  },
+  {
+    "label": "퓨쳐메디신_post_02",
+    "url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408323939&page=7",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260310T021737Z",
+    "bytes": 132489,
+    "sha256": "0b6bb2112583d470d196515c94180c1455b8cb353ab0fb18d57f04942d0525f0",
+    "filename": "20260310T021737Z_post_02.html"
+  },
+  {
+    "label": "퓨쳐메디신_post_03",
+    "url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408156401&page=8",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260310T021737Z",
+    "bytes": 132359,
+    "sha256": "53e3be05326a3fd10188bebcad41b1c3a268fdb21df67cb3567e1b2a29b2c1a9",
+    "filename": "20260310T021737Z_post_03.html"
+  },
+  {
+    "label": "퓨쳐메디신_post_04",
+    "url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408707972&page=6",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260310T021737Z",
+    "bytes": 132049,
+    "sha256": "11387da59eba50ed416a6c0b8fc08bacfca5b82b06dbeb5ee21dc762f5077901",
+    "filename": "20260310T021737Z_post_04.html"
+  },
+  {
+    "label": "퓨쳐메디신_post_05",
+    "url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408418109&page=7",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260310T021737Z",
+    "bytes": 132351,
+    "sha256": "4e821b949824cad74ff188099e19a0c7e7914355ffc4818776ff57c800f2b817",
+    "filename": "20260310T021737Z_post_05.html"
+  }
+]

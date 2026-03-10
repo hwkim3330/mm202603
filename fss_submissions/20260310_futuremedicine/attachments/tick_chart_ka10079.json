@@ -1,0 +1,8083 @@
+{
+  "stk_cd": "341170",
+  "last_tic_cnt": "",
+  "stk_tic_chart_qry": [
+    {
+      "cur_prc": "1682",
+      "trde_qty": "1",
+      "cntr_tm": "20260310110409",
+      "open_pric": "1682",
+      "high_pric": "1682",
+      "low_pric": "1682",
+      "pred_pre": "84",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1505",
+      "trde_qty": "8018",
+      "cntr_tm": "20260310110221",
+      "open_pric": "1505",
+      "high_pric": "1505",
+      "low_pric": "1505",
+      "pred_pre": "93",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1505",
+      "trde_qty": "30",
+      "cntr_tm": "20260310103523",
+      "open_pric": "1505",
+      "high_pric": "1505",
+      "low_pric": "1505",
+      "pred_pre": "93",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1505",
+      "trde_qty": "15",
+      "cntr_tm": "20260310101420",
+      "open_pric": "1505",
+      "high_pric": "1505",
+      "low_pric": "1505",
+      "pred_pre": "93",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1505",
+      "trde_qty": "33",
+      "cntr_tm": "20260310100608",
+      "open_pric": "1505",
+      "high_pric": "1505",
+      "low_pric": "1505",
+      "pred_pre": "93",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1505",
+      "trde_qty": "2000",
+      "cntr_tm": "20260310100301",
+      "open_pric": "1505",
+      "high_pric": "1505",
+      "low_pric": "1505",
+      "pred_pre": "93",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1505",
+      "trde_qty": "1904",
+      "cntr_tm": "20260310100100",
+      "open_pric": "1505",
+      "high_pric": "1505",
+      "low_pric": "1505",
+      "pred_pre": "93",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1690",
+      "trde_qty": "1",
+      "cntr_tm": "20260310093452",
+      "open_pric": "1690",
+      "high_pric": "1690",
+      "low_pric": "1690",
+      "pred_pre": "92",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1505",
+      "trde_qty": "1879",
+      "cntr_tm": "20260310093425",
+      "open_pric": "1505",
+      "high_pric": "1505",
+      "low_pric": "1505",
+      "pred_pre": "93",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1690",
+      "trde_qty": "1",
+      "cntr_tm": "20260310092915",
+      "open_pric": "1690",
+      "high_pric": "1690",
+      "low_pric": "1690",
+      "pred_pre": "92",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1501",
+      "trde_qty": "468",
+      "cntr_tm": "20260310092200",
+      "open_pric": "1501",
+      "high_pric": "1501",
+      "low_pric": "1501",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1502",
+      "trde_qty": "200",
+      "cntr_tm": "20260310092200",
+      "open_pric": "1502",
+      "high_pric": "1502",
+      "low_pric": "1502",
+      "pred_pre": "96",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1698",
+      "trde_qty": "1",
+      "cntr_tm": "20260310090438",
+      "open_pric": "1698",
+      "high_pric": "1698",
+      "low_pric": "1698",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1501",
+      "trde_qty": "749",
+      "cntr_tm": "20260310090341",
+      "open_pric": "1501",
+      "high_pric": "1501",
+      "low_pric": "1501",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1698",
+      "trde_qty": "1",
+      "cntr_tm": "20260310090000",
+      "open_pric": "1698",
+      "high_pric": "1698",
+      "low_pric": "1698",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1598",
+      "trde_qty": "2",
+      "cntr_tm": "20260309151120",
+      "open_pric": "1598",
+      "high_pric": "1598",
+      "low_pric": "1598",
+      "pred_pre": "85",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "2",
+      "cntr_tm": "20260309150527",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "83",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1669",
+      "trde_qty": "1",
+      "cntr_tm": "20260309140036",
+      "open_pric": "1669",
+      "high_pric": "1669",
+      "low_pric": "1669",
+      "pred_pre": "14",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1510",
+      "trde_qty": "13967",
+      "cntr_tm": "20260309135916",
+      "open_pric": "1510",
+      "high_pric": "1510",
+      "low_pric": "1510",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1512",
+      "trde_qty": "10000",
+      "cntr_tm": "20260309135916",
+      "open_pric": "1512",
+      "high_pric": "1512",
+      "low_pric": "1512",
+      "pred_pre": "171",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1513",
+      "trde_qty": "1033",
+      "cntr_tm": "20260309135916",
+      "open_pric": "1513",
+      "high_pric": "1513",
+      "low_pric": "1513",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1669",
+      "trde_qty": "1",
+      "cntr_tm": "20260309131534",
+      "open_pric": "1669",
+      "high_pric": "1669",
+      "low_pric": "1669",
+      "pred_pre": "14",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1531",
+      "trde_qty": "500",
+      "cntr_tm": "20260309131451",
+      "open_pric": "1531",
+      "high_pric": "1531",
+      "low_pric": "1531",
+      "pred_pre": "152",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1531",
+      "trde_qty": "1000",
+      "cntr_tm": "20260309131305",
+      "open_pric": "1531",
+      "high_pric": "1531",
+      "low_pric": "1531",
+      "pred_pre": "152",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1531",
+      "trde_qty": "50",
+      "cntr_tm": "20260309130510",
+      "open_pric": "1531",
+      "high_pric": "1531",
+      "low_pric": "1531",
+      "pred_pre": "152",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "599",
+      "cntr_tm": "20260309125220",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "133",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1669",
+      "trde_qty": "1",
+      "cntr_tm": "20260309125202",
+      "open_pric": "1669",
+      "high_pric": "1669",
+      "low_pric": "1669",
+      "pred_pre": "14",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "1",
+      "cntr_tm": "20260309124739",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "133",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "241",
+      "cntr_tm": "20260309123654",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "133",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "810",
+      "cntr_tm": "20260309123221",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "133",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "2959",
+      "cntr_tm": "20260309123049",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "133",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1699",
+      "trde_qty": "1",
+      "cntr_tm": "20260309112235",
+      "open_pric": "1699",
+      "high_pric": "1699",
+      "low_pric": "1699",
+      "pred_pre": "16",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "1",
+      "cntr_tm": "20260309112215",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "133",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1699",
+      "trde_qty": "1",
+      "cntr_tm": "20260309102355",
+      "open_pric": "1699",
+      "high_pric": "1699",
+      "low_pric": "1699",
+      "pred_pre": "16",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1507",
+      "trde_qty": "1129",
+      "cntr_tm": "20260309102303",
+      "open_pric": "1507",
+      "high_pric": "1507",
+      "low_pric": "1507",
+      "pred_pre": "176",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1650",
+      "trde_qty": "500",
+      "cntr_tm": "20260309102236",
+      "open_pric": "1650",
+      "high_pric": "1650",
+      "low_pric": "1650",
+      "pred_pre": "33",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "1",
+      "cntr_tm": "20260309093547",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "17",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1505",
+      "trde_qty": "2000",
+      "cntr_tm": "20260309092710",
+      "open_pric": "1505",
+      "high_pric": "1505",
+      "low_pric": "1505",
+      "pred_pre": "178",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1505",
+      "trde_qty": "500",
+      "cntr_tm": "20260309092539",
+      "open_pric": "1505",
+      "high_pric": "1505",
+      "low_pric": "1505",
+      "pred_pre": "178",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "1",
+      "cntr_tm": "20260309090000",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "17",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1683",
+      "trde_qty": "10",
+      "cntr_tm": "20260306151327",
+      "open_pric": "1683",
+      "high_pric": "1683",
+      "low_pric": "1683",
+      "pred_pre": "183",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1650",
+      "trde_qty": "500",
+      "cntr_tm": "20260306151157",
+      "open_pric": "1650",
+      "high_pric": "1650",
+      "low_pric": "1650",
+      "pred_pre": "150",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1683",
+      "trde_qty": "2",
+      "cntr_tm": "20260306150151",
+      "open_pric": "1683",
+      "high_pric": "1683",
+      "low_pric": "1683",
+      "pred_pre": "183",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1683",
+      "trde_qty": "1",
+      "cntr_tm": "20260306141533",
+      "open_pric": "1683",
+      "high_pric": "1683",
+      "low_pric": "1683",
+      "pred_pre": "183",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "167",
+      "cntr_tm": "20260306141434",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1684",
+      "trde_qty": "13",
+      "cntr_tm": "20260306135457",
+      "open_pric": "1684",
+      "high_pric": "1684",
+      "low_pric": "1684",
+      "pred_pre": "184",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1684",
+      "trde_qty": "1",
+      "cntr_tm": "20260306133612",
+      "open_pric": "1684",
+      "high_pric": "1684",
+      "low_pric": "1684",
+      "pred_pre": "184",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1511",
+      "trde_qty": "181",
+      "cntr_tm": "20260306133509",
+      "open_pric": "1511",
+      "high_pric": "1511",
+      "low_pric": "1511",
+      "pred_pre": "11",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "1000",
+      "cntr_tm": "20260306133509",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "50",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1610",
+      "trde_qty": "10",
+      "cntr_tm": "20260306133509",
+      "open_pric": "1610",
+      "high_pric": "1610",
+      "low_pric": "1610",
+      "pred_pre": "110",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1685",
+      "trde_qty": "12",
+      "cntr_tm": "20260306132553",
+      "open_pric": "1685",
+      "high_pric": "1685",
+      "low_pric": "1685",
+      "pred_pre": "185",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1685",
+      "trde_qty": "200",
+      "cntr_tm": "20260306132506",
+      "open_pric": "1685",
+      "high_pric": "1685",
+      "low_pric": "1685",
+      "pred_pre": "185",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1685",
+      "trde_qty": "1",
+      "cntr_tm": "20260306130909",
+      "open_pric": "1685",
+      "high_pric": "1685",
+      "low_pric": "1685",
+      "pred_pre": "185",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1685",
+      "trde_qty": "42",
+      "cntr_tm": "20260306130901",
+      "open_pric": "1685",
+      "high_pric": "1685",
+      "low_pric": "1685",
+      "pred_pre": "185",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1685",
+      "trde_qty": "1836",
+      "cntr_tm": "20260306130851",
+      "open_pric": "1685",
+      "high_pric": "1685",
+      "low_pric": "1685",
+      "pred_pre": "185",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1690",
+      "trde_qty": "15",
+      "cntr_tm": "20260306130013",
+      "open_pric": "1690",
+      "high_pric": "1690",
+      "low_pric": "1690",
+      "pred_pre": "190",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1690",
+      "trde_qty": "362",
+      "cntr_tm": "20260306130006",
+      "open_pric": "1690",
+      "high_pric": "1690",
+      "low_pric": "1690",
+      "pred_pre": "190",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1689",
+      "trde_qty": "372",
+      "cntr_tm": "20260306130006",
+      "open_pric": "1689",
+      "high_pric": "1689",
+      "low_pric": "1689",
+      "pred_pre": "189",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1689",
+      "trde_qty": "14",
+      "cntr_tm": "20260306125649",
+      "open_pric": "1689",
+      "high_pric": "1689",
+      "low_pric": "1689",
+      "pred_pre": "189",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1689",
+      "trde_qty": "654",
+      "cntr_tm": "20260306125631",
+      "open_pric": "1689",
+      "high_pric": "1689",
+      "low_pric": "1689",
+      "pred_pre": "189",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1689",
+      "trde_qty": "800",
+      "cntr_tm": "20260306124114",
+      "open_pric": "1689",
+      "high_pric": "1689",
+      "low_pric": "1689",
+      "pred_pre": "189",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1610",
+      "trde_qty": "1000",
+      "cntr_tm": "20260306122729",
+      "open_pric": "1610",
+      "high_pric": "1610",
+      "low_pric": "1610",
+      "pred_pre": "110",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1689",
+      "trde_qty": "1",
+      "cntr_tm": "20260306120717",
+      "open_pric": "1689",
+      "high_pric": "1689",
+      "low_pric": "1689",
+      "pred_pre": "189",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1601",
+      "trde_qty": "2000",
+      "cntr_tm": "20260306120420",
+      "open_pric": "1601",
+      "high_pric": "1601",
+      "low_pric": "1601",
+      "pred_pre": "101",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1689",
+      "trde_qty": "1",
+      "cntr_tm": "20260306115200",
+      "open_pric": "1689",
+      "high_pric": "1689",
+      "low_pric": "1689",
+      "pred_pre": "189",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1000",
+      "cntr_tm": "20260306112100",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1690",
+      "trde_qty": "1",
+      "cntr_tm": "20260306111752",
+      "open_pric": "1690",
+      "high_pric": "1690",
+      "low_pric": "1690",
+      "pred_pre": "190",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1009",
+      "cntr_tm": "20260306111522",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1595",
+      "trde_qty": "8",
+      "cntr_tm": "20260306110716",
+      "open_pric": "1595",
+      "high_pric": "1595",
+      "low_pric": "1595",
+      "pred_pre": "95",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1595",
+      "trde_qty": "280",
+      "cntr_tm": "20260306110553",
+      "open_pric": "1595",
+      "high_pric": "1595",
+      "low_pric": "1595",
+      "pred_pre": "95",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1595",
+      "trde_qty": "20",
+      "cntr_tm": "20260306110516",
+      "open_pric": "1595",
+      "high_pric": "1595",
+      "low_pric": "1595",
+      "pred_pre": "95",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260306100747",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260306093747",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "1",
+      "cntr_tm": "20260306091620",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "200",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "4961",
+      "cntr_tm": "20260306090906",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "39",
+      "cntr_tm": "20260306090720",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260306090000",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "4494",
+      "cntr_tm": "20260305153000",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "6",
+      "cntr_tm": "20260305151540",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "6",
+      "cntr_tm": "20260305141908",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "200",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "6030",
+      "cntr_tm": "20260305141636",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1498",
+      "trde_qty": "280",
+      "cntr_tm": "20260305141636",
+      "open_pric": "1498",
+      "high_pric": "1498",
+      "low_pric": "1498",
+      "pred_pre": "98",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1477",
+      "trde_qty": "2000",
+      "cntr_tm": "20260305141608",
+      "open_pric": "1477",
+      "high_pric": "1477",
+      "low_pric": "1477",
+      "pred_pre": "77",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1479",
+      "trde_qty": "2000",
+      "cntr_tm": "20260305141608",
+      "open_pric": "1479",
+      "high_pric": "1479",
+      "low_pric": "1479",
+      "pred_pre": "79",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1481",
+      "trde_qty": "2000",
+      "cntr_tm": "20260305141608",
+      "open_pric": "1481",
+      "high_pric": "1481",
+      "low_pric": "1481",
+      "pred_pre": "81",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1483",
+      "trde_qty": "2000",
+      "cntr_tm": "20260305141608",
+      "open_pric": "1483",
+      "high_pric": "1483",
+      "low_pric": "1483",
+      "pred_pre": "83",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "2000",
+      "cntr_tm": "20260305141608",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "85",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1487",
+      "trde_qty": "2000",
+      "cntr_tm": "20260305141608",
+      "open_pric": "1487",
+      "high_pric": "1487",
+      "low_pric": "1487",
+      "pred_pre": "87",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1489",
+      "trde_qty": "1000",
+      "cntr_tm": "20260305141608",
+      "open_pric": "1489",
+      "high_pric": "1489",
+      "low_pric": "1489",
+      "pred_pre": "89",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1491",
+      "trde_qty": "1000",
+      "cntr_tm": "20260305141608",
+      "open_pric": "1491",
+      "high_pric": "1491",
+      "low_pric": "1491",
+      "pred_pre": "91",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1493",
+      "trde_qty": "1000",
+      "cntr_tm": "20260305141608",
+      "open_pric": "1493",
+      "high_pric": "1493",
+      "low_pric": "1493",
+      "pred_pre": "93",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1495",
+      "trde_qty": "1000",
+      "cntr_tm": "20260305141608",
+      "open_pric": "1495",
+      "high_pric": "1495",
+      "low_pric": "1495",
+      "pred_pre": "95",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1497",
+      "trde_qty": "1000",
+      "cntr_tm": "20260305133724",
+      "open_pric": "1497",
+      "high_pric": "1497",
+      "low_pric": "1497",
+      "pred_pre": "97",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1498",
+      "trde_qty": "1000",
+      "cntr_tm": "20260305131527",
+      "open_pric": "1498",
+      "high_pric": "1498",
+      "low_pric": "1498",
+      "pred_pre": "98",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1498",
+      "trde_qty": "2000",
+      "cntr_tm": "20260305131250",
+      "open_pric": "1498",
+      "high_pric": "1498",
+      "low_pric": "1498",
+      "pred_pre": "98",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1498",
+      "trde_qty": "1",
+      "cntr_tm": "20260305115940",
+      "open_pric": "1498",
+      "high_pric": "1498",
+      "low_pric": "1498",
+      "pred_pre": "98",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "2",
+      "cntr_tm": "20260305115923",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "207",
+      "cntr_tm": "20260305092658",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "1",
+      "cntr_tm": "20260305092658",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "99",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "131",
+      "cntr_tm": "20260305090607",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1",
+      "cntr_tm": "20260305090000",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "2",
+      "cntr_tm": "20260304153000",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1495",
+      "trde_qty": "2614",
+      "cntr_tm": "20260304144914",
+      "open_pric": "1495",
+      "high_pric": "1495",
+      "low_pric": "1495",
+      "pred_pre": "2",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1494",
+      "trde_qty": "686",
+      "cntr_tm": "20260304144914",
+      "open_pric": "1494",
+      "high_pric": "1494",
+      "low_pric": "1494",
+      "pred_pre": "3",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "200",
+      "cntr_tm": "20260304134906",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "2",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "2",
+      "cntr_tm": "20260304131839",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "3",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "366",
+      "cntr_tm": "20260304131835",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "1",
+      "cntr_tm": "20260304131715",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "1",
+      "cntr_tm": "20260304131659",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1350",
+      "trde_qty": "107",
+      "cntr_tm": "20260304131614",
+      "open_pric": "1350",
+      "high_pric": "1350",
+      "low_pric": "1350",
+      "pred_pre": "147",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1350",
+      "trde_qty": "86",
+      "cntr_tm": "20260304131604",
+      "open_pric": "1350",
+      "high_pric": "1350",
+      "low_pric": "1350",
+      "pred_pre": "147",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1349",
+      "trde_qty": "307",
+      "cntr_tm": "20260304131604",
+      "open_pric": "1349",
+      "high_pric": "1349",
+      "low_pric": "1349",
+      "pred_pre": "148",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1349",
+      "trde_qty": "1",
+      "cntr_tm": "20260304131538",
+      "open_pric": "1349",
+      "high_pric": "1349",
+      "low_pric": "1349",
+      "pred_pre": "148",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1339",
+      "trde_qty": "300",
+      "cntr_tm": "20260304131526",
+      "open_pric": "1339",
+      "high_pric": "1339",
+      "low_pric": "1339",
+      "pred_pre": "158",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1338",
+      "trde_qty": "144",
+      "cntr_tm": "20260304131520",
+      "open_pric": "1338",
+      "high_pric": "1338",
+      "low_pric": "1338",
+      "pred_pre": "159",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1330",
+      "trde_qty": "300",
+      "cntr_tm": "20260304131518",
+      "open_pric": "1330",
+      "high_pric": "1330",
+      "low_pric": "1330",
+      "pred_pre": "167",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1339",
+      "trde_qty": "100",
+      "cntr_tm": "20260304131217",
+      "open_pric": "1339",
+      "high_pric": "1339",
+      "low_pric": "1339",
+      "pred_pre": "158",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1338",
+      "trde_qty": "400",
+      "cntr_tm": "20260304131217",
+      "open_pric": "1338",
+      "high_pric": "1338",
+      "low_pric": "1338",
+      "pred_pre": "159",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1337",
+      "trde_qty": "300",
+      "cntr_tm": "20260304131217",
+      "open_pric": "1337",
+      "high_pric": "1337",
+      "low_pric": "1337",
+      "pred_pre": "160",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1339",
+      "trde_qty": "300",
+      "cntr_tm": "20260304130023",
+      "open_pric": "1339",
+      "high_pric": "1339",
+      "low_pric": "1339",
+      "pred_pre": "158",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1349",
+      "trde_qty": "1",
+      "cntr_tm": "20260304125847",
+      "open_pric": "1349",
+      "high_pric": "1349",
+      "low_pric": "1349",
+      "pred_pre": "148",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1273",
+      "trde_qty": "304",
+      "cntr_tm": "20260304125847",
+      "open_pric": "1273",
+      "high_pric": "1273",
+      "low_pric": "1273",
+      "pred_pre": "224",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1273",
+      "trde_qty": "408",
+      "cntr_tm": "20260304125829",
+      "open_pric": "1273",
+      "high_pric": "1273",
+      "low_pric": "1273",
+      "pred_pre": "224",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1273",
+      "trde_qty": "10",
+      "cntr_tm": "20260304125701",
+      "open_pric": "1273",
+      "high_pric": "1273",
+      "low_pric": "1273",
+      "pred_pre": "224",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1273",
+      "trde_qty": "10",
+      "cntr_tm": "20260304125610",
+      "open_pric": "1273",
+      "high_pric": "1273",
+      "low_pric": "1273",
+      "pred_pre": "224",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1273",
+      "trde_qty": "5",
+      "cntr_tm": "20260304124729",
+      "open_pric": "1273",
+      "high_pric": "1273",
+      "low_pric": "1273",
+      "pred_pre": "224",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1273",
+      "trde_qty": "1000",
+      "cntr_tm": "20260304124254",
+      "open_pric": "1273",
+      "high_pric": "1273",
+      "low_pric": "1273",
+      "pred_pre": "224",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1273",
+      "trde_qty": "1434",
+      "cntr_tm": "20260304123641",
+      "open_pric": "1273",
+      "high_pric": "1273",
+      "low_pric": "1273",
+      "pred_pre": "224",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1274",
+      "trde_qty": "31",
+      "cntr_tm": "20260304123641",
+      "open_pric": "1274",
+      "high_pric": "1274",
+      "low_pric": "1274",
+      "pred_pre": "223",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1275",
+      "trde_qty": "401",
+      "cntr_tm": "20260304123641",
+      "open_pric": "1275",
+      "high_pric": "1275",
+      "low_pric": "1275",
+      "pred_pre": "222",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1276",
+      "trde_qty": "101",
+      "cntr_tm": "20260304123641",
+      "open_pric": "1276",
+      "high_pric": "1276",
+      "low_pric": "1276",
+      "pred_pre": "221",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1278",
+      "trde_qty": "100",
+      "cntr_tm": "20260304123641",
+      "open_pric": "1278",
+      "high_pric": "1278",
+      "low_pric": "1278",
+      "pred_pre": "219",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1280",
+      "trde_qty": "114",
+      "cntr_tm": "20260304123641",
+      "open_pric": "1280",
+      "high_pric": "1280",
+      "low_pric": "1280",
+      "pred_pre": "217",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1280",
+      "trde_qty": "608",
+      "cntr_tm": "20260304123541",
+      "open_pric": "1280",
+      "high_pric": "1280",
+      "low_pric": "1280",
+      "pred_pre": "217",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1281",
+      "trde_qty": "1392",
+      "cntr_tm": "20260304123541",
+      "open_pric": "1281",
+      "high_pric": "1281",
+      "low_pric": "1281",
+      "pred_pre": "216",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1281",
+      "trde_qty": "200",
+      "cntr_tm": "20260304123320",
+      "open_pric": "1281",
+      "high_pric": "1281",
+      "low_pric": "1281",
+      "pred_pre": "216",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1350",
+      "trde_qty": "1",
+      "cntr_tm": "20260304113455",
+      "open_pric": "1350",
+      "high_pric": "1350",
+      "low_pric": "1350",
+      "pred_pre": "147",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1350",
+      "trde_qty": "1",
+      "cntr_tm": "20260304110039",
+      "open_pric": "1350",
+      "high_pric": "1350",
+      "low_pric": "1350",
+      "pred_pre": "147",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1281",
+      "trde_qty": "551",
+      "cntr_tm": "20260304105507",
+      "open_pric": "1281",
+      "high_pric": "1281",
+      "low_pric": "1281",
+      "pred_pre": "216",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1300",
+      "trde_qty": "30",
+      "cntr_tm": "20260304105507",
+      "open_pric": "1300",
+      "high_pric": "1300",
+      "low_pric": "1300",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "1",
+      "cntr_tm": "20260304102059",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1281",
+      "trde_qty": "522",
+      "cntr_tm": "20260304102049",
+      "open_pric": "1281",
+      "high_pric": "1281",
+      "low_pric": "1281",
+      "pred_pre": "216",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1282",
+      "trde_qty": "958",
+      "cntr_tm": "20260304102049",
+      "open_pric": "1282",
+      "high_pric": "1282",
+      "low_pric": "1282",
+      "pred_pre": "215",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "1418",
+      "cntr_tm": "20260304101629",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "329",
+      "cntr_tm": "20260304101613",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "1",
+      "cntr_tm": "20260304101553",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "2",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "8",
+      "cntr_tm": "20260304101553",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "3222",
+      "cntr_tm": "20260304101347",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "1260",
+      "cntr_tm": "20260304101302",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "1",
+      "cntr_tm": "20260304101202",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "25",
+      "cntr_tm": "20260304101154",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "339",
+      "cntr_tm": "20260304101145",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "499",
+      "cntr_tm": "20260304101137",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "186",
+      "cntr_tm": "20260304101130",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "250",
+      "cntr_tm": "20260304101118",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "24",
+      "cntr_tm": "20260304100135",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "1",
+      "cntr_tm": "20260304100006",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "248",
+      "cntr_tm": "20260304100006",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "107",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1399",
+      "trde_qty": "60",
+      "cntr_tm": "20260304095706",
+      "open_pric": "1399",
+      "high_pric": "1399",
+      "low_pric": "1399",
+      "pred_pre": "98",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "1",
+      "cntr_tm": "20260304094711",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1273",
+      "trde_qty": "200",
+      "cntr_tm": "20260304094638",
+      "open_pric": "1273",
+      "high_pric": "1273",
+      "low_pric": "1273",
+      "pred_pre": "224",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1273",
+      "trde_qty": "31",
+      "cntr_tm": "20260304094625",
+      "open_pric": "1273",
+      "high_pric": "1273",
+      "low_pric": "1273",
+      "pred_pre": "224",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1275",
+      "trde_qty": "300",
+      "cntr_tm": "20260304094615",
+      "open_pric": "1275",
+      "high_pric": "1275",
+      "low_pric": "1275",
+      "pred_pre": "222",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1276",
+      "trde_qty": "500",
+      "cntr_tm": "20260304094608",
+      "open_pric": "1276",
+      "high_pric": "1276",
+      "low_pric": "1276",
+      "pred_pre": "221",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1277",
+      "trde_qty": "501",
+      "cntr_tm": "20260304094600",
+      "open_pric": "1277",
+      "high_pric": "1277",
+      "low_pric": "1277",
+      "pred_pre": "220",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1300",
+      "trde_qty": "102",
+      "cntr_tm": "20260304094551",
+      "open_pric": "1300",
+      "high_pric": "1300",
+      "low_pric": "1300",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "10",
+      "cntr_tm": "20260304094541",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260304094533",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "3",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1721",
+      "trde_qty": "1",
+      "cntr_tm": "20260304093634",
+      "open_pric": "1721",
+      "high_pric": "1721",
+      "low_pric": "1721",
+      "pred_pre": "224",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "10",
+      "cntr_tm": "20260304093552",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "103",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1670",
+      "trde_qty": "10",
+      "cntr_tm": "20260304093544",
+      "open_pric": "1670",
+      "high_pric": "1670",
+      "low_pric": "1670",
+      "pred_pre": "173",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1721",
+      "trde_qty": "10",
+      "cntr_tm": "20260304093302",
+      "open_pric": "1721",
+      "high_pric": "1721",
+      "low_pric": "1721",
+      "pred_pre": "224",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1721",
+      "trde_qty": "1",
+      "cntr_tm": "20260304093253",
+      "open_pric": "1721",
+      "high_pric": "1721",
+      "low_pric": "1721",
+      "pred_pre": "224",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "59",
+      "cntr_tm": "20260304093253",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "203",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "440",
+      "cntr_tm": "20260304093253",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "103",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260304093242",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "3",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1497",
+      "trde_qty": "3",
+      "cntr_tm": "20260304093242",
+      "open_pric": "1497",
+      "high_pric": "1497",
+      "low_pric": "1497",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "10",
+      "cntr_tm": "20260304093242",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1275",
+      "trde_qty": "1450",
+      "cntr_tm": "20260304093228",
+      "open_pric": "1275",
+      "high_pric": "1275",
+      "low_pric": "1275",
+      "pred_pre": "222",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1275",
+      "trde_qty": "640",
+      "cntr_tm": "20260304093205",
+      "open_pric": "1275",
+      "high_pric": "1275",
+      "low_pric": "1275",
+      "pred_pre": "222",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1275",
+      "trde_qty": "2031",
+      "cntr_tm": "20260304093057",
+      "open_pric": "1275",
+      "high_pric": "1275",
+      "low_pric": "1275",
+      "pred_pre": "222",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1280",
+      "trde_qty": "359",
+      "cntr_tm": "20260304093057",
+      "open_pric": "1280",
+      "high_pric": "1280",
+      "low_pric": "1280",
+      "pred_pre": "217",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1300",
+      "trde_qty": "510",
+      "cntr_tm": "20260304093057",
+      "open_pric": "1300",
+      "high_pric": "1300",
+      "low_pric": "1300",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1310",
+      "trde_qty": "10",
+      "cntr_tm": "20260304093057",
+      "open_pric": "1310",
+      "high_pric": "1310",
+      "low_pric": "1310",
+      "pred_pre": "187",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1497",
+      "trde_qty": "2",
+      "cntr_tm": "20260304092535",
+      "open_pric": "1497",
+      "high_pric": "1497",
+      "low_pric": "1497",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1497",
+      "trde_qty": "25",
+      "cntr_tm": "20260304092356",
+      "open_pric": "1497",
+      "high_pric": "1497",
+      "low_pric": "1497",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1497",
+      "trde_qty": "1",
+      "cntr_tm": "20260303150926",
+      "open_pric": "1497",
+      "high_pric": "1497",
+      "low_pric": "1497",
+      "pred_pre": "117",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1497",
+      "trde_qty": "1",
+      "cntr_tm": "20260303150926",
+      "open_pric": "1497",
+      "high_pric": "1497",
+      "low_pric": "1497",
+      "pred_pre": "117",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "57",
+      "cntr_tm": "20260303150912",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "70",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "264",
+      "cntr_tm": "20260303150909",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "70",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "545",
+      "cntr_tm": "20260303150903",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "70",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1495",
+      "trde_qty": "1",
+      "cntr_tm": "20260303142654",
+      "open_pric": "1495",
+      "high_pric": "1495",
+      "low_pric": "1495",
+      "pred_pre": "115",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "1284",
+      "cntr_tm": "20260303142430",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "20",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "713",
+      "cntr_tm": "20260303142155",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "20",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "1345",
+      "cntr_tm": "20260303142151",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "20",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "10",
+      "cntr_tm": "20260303141717",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "20",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "25",
+      "cntr_tm": "20260303141653",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "20",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "4655",
+      "cntr_tm": "20260303141633",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "20",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1401",
+      "trde_qty": "545",
+      "cntr_tm": "20260303141633",
+      "open_pric": "1401",
+      "high_pric": "1401",
+      "low_pric": "1401",
+      "pred_pre": "21",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1495",
+      "trde_qty": "1",
+      "cntr_tm": "20260303141629",
+      "open_pric": "1495",
+      "high_pric": "1495",
+      "low_pric": "1495",
+      "pred_pre": "115",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "346",
+      "cntr_tm": "20260303141138",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "20",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1401",
+      "trde_qty": "266",
+      "cntr_tm": "20260303141138",
+      "open_pric": "1401",
+      "high_pric": "1401",
+      "low_pric": "1401",
+      "pred_pre": "21",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1495",
+      "trde_qty": "145",
+      "cntr_tm": "20260303140847",
+      "open_pric": "1495",
+      "high_pric": "1495",
+      "low_pric": "1495",
+      "pred_pre": "115",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1497",
+      "trde_qty": "1",
+      "cntr_tm": "20260303140552",
+      "open_pric": "1497",
+      "high_pric": "1497",
+      "low_pric": "1497",
+      "pred_pre": "117",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1495",
+      "trde_qty": "1000",
+      "cntr_tm": "20260303140244",
+      "open_pric": "1495",
+      "high_pric": "1495",
+      "low_pric": "1495",
+      "pred_pre": "115",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1497",
+      "trde_qty": "100",
+      "cntr_tm": "20260303133503",
+      "open_pric": "1497",
+      "high_pric": "1497",
+      "low_pric": "1497",
+      "pred_pre": "117",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "1",
+      "cntr_tm": "20260303132651",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "119",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "1750",
+      "cntr_tm": "20260303132615",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "20",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "2727",
+      "cntr_tm": "20260303132235",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "20",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1401",
+      "trde_qty": "305",
+      "cntr_tm": "20260303132235",
+      "open_pric": "1401",
+      "high_pric": "1401",
+      "low_pric": "1401",
+      "pred_pre": "21",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1455",
+      "trde_qty": "218",
+      "cntr_tm": "20260303131918",
+      "open_pric": "1455",
+      "high_pric": "1455",
+      "low_pric": "1455",
+      "pred_pre": "75",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1579",
+      "trde_qty": "1",
+      "cntr_tm": "20260303131852",
+      "open_pric": "1579",
+      "high_pric": "1579",
+      "low_pric": "1579",
+      "pred_pre": "199",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1455",
+      "trde_qty": "1819",
+      "cntr_tm": "20260303131713",
+      "open_pric": "1455",
+      "high_pric": "1455",
+      "low_pric": "1455",
+      "pred_pre": "75",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1460",
+      "trde_qty": "2003",
+      "cntr_tm": "20260303131713",
+      "open_pric": "1460",
+      "high_pric": "1460",
+      "low_pric": "1460",
+      "pred_pre": "80",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1465",
+      "trde_qty": "4005",
+      "cntr_tm": "20260303131654",
+      "open_pric": "1465",
+      "high_pric": "1465",
+      "low_pric": "1465",
+      "pred_pre": "85",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1468",
+      "trde_qty": "5",
+      "cntr_tm": "20260303131654",
+      "open_pric": "1468",
+      "high_pric": "1468",
+      "low_pric": "1468",
+      "pred_pre": "88",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1469",
+      "trde_qty": "104",
+      "cntr_tm": "20260303131654",
+      "open_pric": "1469",
+      "high_pric": "1469",
+      "low_pric": "1469",
+      "pred_pre": "89",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "1004",
+      "cntr_tm": "20260303131654",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "90",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1475",
+      "trde_qty": "60",
+      "cntr_tm": "20260303131654",
+      "open_pric": "1475",
+      "high_pric": "1475",
+      "low_pric": "1475",
+      "pred_pre": "95",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "5158",
+      "cntr_tm": "20260303131556",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "432",
+      "cntr_tm": "20260303131156",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "9910",
+      "cntr_tm": "20260303130234",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1586",
+      "trde_qty": "4",
+      "cntr_tm": "20260303125548",
+      "open_pric": "1586",
+      "high_pric": "1586",
+      "low_pric": "1586",
+      "pred_pre": "206",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1587",
+      "trde_qty": "301",
+      "cntr_tm": "20260303124118",
+      "open_pric": "1587",
+      "high_pric": "1587",
+      "low_pric": "1587",
+      "pred_pre": "207",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1587",
+      "trde_qty": "9699",
+      "cntr_tm": "20260303123510",
+      "open_pric": "1587",
+      "high_pric": "1587",
+      "low_pric": "1587",
+      "pred_pre": "207",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1587",
+      "trde_qty": "301",
+      "cntr_tm": "20260303122922",
+      "open_pric": "1587",
+      "high_pric": "1587",
+      "low_pric": "1587",
+      "pred_pre": "207",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1587",
+      "trde_qty": "2391",
+      "cntr_tm": "20260303122130",
+      "open_pric": "1587",
+      "high_pric": "1587",
+      "low_pric": "1587",
+      "pred_pre": "207",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1587",
+      "trde_qty": "32",
+      "cntr_tm": "20260303121331",
+      "open_pric": "1587",
+      "high_pric": "1587",
+      "low_pric": "1587",
+      "pred_pre": "207",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "410",
+      "cntr_tm": "20260303121331",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "180",
+      "cntr_tm": "20260303121331",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "110",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "20",
+      "cntr_tm": "20260303121114",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "110",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1475",
+      "trde_qty": "1996",
+      "cntr_tm": "20260303121006",
+      "open_pric": "1475",
+      "high_pric": "1475",
+      "low_pric": "1475",
+      "pred_pre": "95",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1480",
+      "trde_qty": "4",
+      "cntr_tm": "20260303121006",
+      "open_pric": "1480",
+      "high_pric": "1480",
+      "low_pric": "1480",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1475",
+      "trde_qty": "604",
+      "cntr_tm": "20260303102107",
+      "open_pric": "1475",
+      "high_pric": "1475",
+      "low_pric": "1475",
+      "pred_pre": "95",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1480",
+      "trde_qty": "1000",
+      "cntr_tm": "20260303102107",
+      "open_pric": "1480",
+      "high_pric": "1480",
+      "low_pric": "1480",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "396",
+      "cntr_tm": "20260303102107",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "105",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "2381",
+      "cntr_tm": "20260303101200",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "9",
+      "cntr_tm": "20260303101149",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "105",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260303101048",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "595",
+      "cntr_tm": "20260303100825",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "105",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "95",
+      "cntr_tm": "20260303095757",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "110",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "310",
+      "cntr_tm": "20260303095723",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "110",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "759",
+      "cntr_tm": "20260303095704",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "110",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "1",
+      "cntr_tm": "20260303095220",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "119",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1498",
+      "trde_qty": "1",
+      "cntr_tm": "20260303095217",
+      "open_pric": "1498",
+      "high_pric": "1498",
+      "low_pric": "1498",
+      "pred_pre": "118",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1497",
+      "trde_qty": "1",
+      "cntr_tm": "20260303095214",
+      "open_pric": "1497",
+      "high_pric": "1497",
+      "low_pric": "1497",
+      "pred_pre": "117",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1496",
+      "trde_qty": "1",
+      "cntr_tm": "20260303095211",
+      "open_pric": "1496",
+      "high_pric": "1496",
+      "low_pric": "1496",
+      "pred_pre": "116",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1495",
+      "trde_qty": "1",
+      "cntr_tm": "20260303095208",
+      "open_pric": "1495",
+      "high_pric": "1495",
+      "low_pric": "1495",
+      "pred_pre": "115",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1494",
+      "trde_qty": "1",
+      "cntr_tm": "20260303095205",
+      "open_pric": "1494",
+      "high_pric": "1494",
+      "low_pric": "1494",
+      "pred_pre": "114",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1493",
+      "trde_qty": "1",
+      "cntr_tm": "20260303095202",
+      "open_pric": "1493",
+      "high_pric": "1493",
+      "low_pric": "1493",
+      "pred_pre": "113",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1492",
+      "trde_qty": "1",
+      "cntr_tm": "20260303095159",
+      "open_pric": "1492",
+      "high_pric": "1492",
+      "low_pric": "1492",
+      "pred_pre": "112",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1491",
+      "trde_qty": "1",
+      "cntr_tm": "20260303095154",
+      "open_pric": "1491",
+      "high_pric": "1491",
+      "low_pric": "1491",
+      "pred_pre": "111",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "1",
+      "cntr_tm": "20260303094433",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "110",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "999",
+      "cntr_tm": "20260303094413",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "1",
+      "cntr_tm": "20260303094413",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "110",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "200",
+      "cntr_tm": "20260303093253",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1000",
+      "cntr_tm": "20260303092934",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "51",
+      "cntr_tm": "20260303091207",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "280",
+      "cntr_tm": "20260303091127",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "750",
+      "cntr_tm": "20260303091121",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1",
+      "cntr_tm": "20260303090000",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "120",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "1",
+      "cntr_tm": "20260227153000",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "180",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "19",
+      "cntr_tm": "20260227151906",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "180",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "160",
+      "cntr_tm": "20260227150440",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "180",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "84",
+      "cntr_tm": "20260227150011",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "180",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "100",
+      "cntr_tm": "20260227145133",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "180",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "1",
+      "cntr_tm": "20260227143209",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "180",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "1",
+      "cntr_tm": "20260227143054",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "180",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "1",
+      "cntr_tm": "20260227142437",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "180",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "511",
+      "cntr_tm": "20260227142407",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "180",
+      "pred_pre_sig": "1"
+    },
+    {
+      "cur_prc": "1300",
+      "trde_qty": "17",
+      "cntr_tm": "20260227142359",
+      "open_pric": "1300",
+      "high_pric": "1300",
+      "low_pric": "1300",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1299",
+      "trde_qty": "200",
+      "cntr_tm": "20260227142350",
+      "open_pric": "1299",
+      "high_pric": "1299",
+      "low_pric": "1299",
+      "pred_pre": "99",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1292",
+      "trde_qty": "30",
+      "cntr_tm": "20260227142342",
+      "open_pric": "1292",
+      "high_pric": "1292",
+      "low_pric": "1292",
+      "pred_pre": "92",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1260",
+      "trde_qty": "1000",
+      "cntr_tm": "20260227142328",
+      "open_pric": "1260",
+      "high_pric": "1260",
+      "low_pric": "1260",
+      "pred_pre": "60",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "900",
+      "cntr_tm": "20260227141240",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "1000",
+      "cntr_tm": "20260227141127",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "115",
+      "cntr_tm": "20260227141120",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1260",
+      "trde_qty": "1000",
+      "cntr_tm": "20260227140904",
+      "open_pric": "1260",
+      "high_pric": "1260",
+      "low_pric": "1260",
+      "pred_pre": "60",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "2000",
+      "cntr_tm": "20260227140859",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1258",
+      "trde_qty": "2000",
+      "cntr_tm": "20260227140858",
+      "open_pric": "1258",
+      "high_pric": "1258",
+      "low_pric": "1258",
+      "pred_pre": "58",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "1000",
+      "cntr_tm": "20260227140519",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "1",
+      "cntr_tm": "20260227140039",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "21",
+      "cntr_tm": "20260227135928",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "1000",
+      "cntr_tm": "20260227135828",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "500",
+      "cntr_tm": "20260227135814",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "599",
+      "cntr_tm": "20260227135802",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "423",
+      "cntr_tm": "20260227135752",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "310",
+      "cntr_tm": "20260227133921",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1243",
+      "trde_qty": "52",
+      "cntr_tm": "20260227133717",
+      "open_pric": "1243",
+      "high_pric": "1243",
+      "low_pric": "1243",
+      "pred_pre": "43",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1237",
+      "trde_qty": "70",
+      "cntr_tm": "20260227133717",
+      "open_pric": "1237",
+      "high_pric": "1237",
+      "low_pric": "1237",
+      "pred_pre": "37",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "10",
+      "cntr_tm": "20260227130753",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1247",
+      "trde_qty": "20",
+      "cntr_tm": "20260227130742",
+      "open_pric": "1247",
+      "high_pric": "1247",
+      "low_pric": "1247",
+      "pred_pre": "47",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1260",
+      "trde_qty": "1",
+      "cntr_tm": "20260227122237",
+      "open_pric": "1260",
+      "high_pric": "1260",
+      "low_pric": "1260",
+      "pred_pre": "60",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1200",
+      "trde_qty": "200",
+      "cntr_tm": "20260227121033",
+      "open_pric": "1200",
+      "high_pric": "1200",
+      "low_pric": "1200",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1300",
+      "trde_qty": "1",
+      "cntr_tm": "20260227090000",
+      "open_pric": "1300",
+      "high_pric": "1300",
+      "low_pric": "1300",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1200",
+      "trde_qty": "740",
+      "cntr_tm": "20260226153000",
+      "open_pric": "1200",
+      "high_pric": "1200",
+      "low_pric": "1200",
+      "pred_pre": "193",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1248",
+      "trde_qty": "1",
+      "cntr_tm": "20260226150524",
+      "open_pric": "1248",
+      "high_pric": "1248",
+      "low_pric": "1248",
+      "pred_pre": "145",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1202",
+      "trde_qty": "1",
+      "cntr_tm": "20260226150131",
+      "open_pric": "1202",
+      "high_pric": "1202",
+      "low_pric": "1202",
+      "pred_pre": "191",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1249",
+      "trde_qty": "5",
+      "cntr_tm": "20260226145826",
+      "open_pric": "1249",
+      "high_pric": "1249",
+      "low_pric": "1249",
+      "pred_pre": "144",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1249",
+      "trde_qty": "1",
+      "cntr_tm": "20260226144254",
+      "open_pric": "1249",
+      "high_pric": "1249",
+      "low_pric": "1249",
+      "pred_pre": "144",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1250",
+      "trde_qty": "1",
+      "cntr_tm": "20260226141506",
+      "open_pric": "1250",
+      "high_pric": "1250",
+      "low_pric": "1250",
+      "pred_pre": "143",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1259",
+      "trde_qty": "1",
+      "cntr_tm": "20260226140914",
+      "open_pric": "1259",
+      "high_pric": "1259",
+      "low_pric": "1259",
+      "pred_pre": "134",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1268",
+      "trde_qty": "1",
+      "cntr_tm": "20260226135217",
+      "open_pric": "1268",
+      "high_pric": "1268",
+      "low_pric": "1268",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1200",
+      "trde_qty": "975",
+      "cntr_tm": "20260226135145",
+      "open_pric": "1200",
+      "high_pric": "1200",
+      "low_pric": "1200",
+      "pred_pre": "193",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1201",
+      "trde_qty": "575",
+      "cntr_tm": "20260226135145",
+      "open_pric": "1201",
+      "high_pric": "1201",
+      "low_pric": "1201",
+      "pred_pre": "192",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1202",
+      "trde_qty": "150",
+      "cntr_tm": "20260226135145",
+      "open_pric": "1202",
+      "high_pric": "1202",
+      "low_pric": "1202",
+      "pred_pre": "191",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1203",
+      "trde_qty": "300",
+      "cntr_tm": "20260226135145",
+      "open_pric": "1203",
+      "high_pric": "1203",
+      "low_pric": "1203",
+      "pred_pre": "190",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1268",
+      "trde_qty": "1",
+      "cntr_tm": "20260226134755",
+      "open_pric": "1268",
+      "high_pric": "1268",
+      "low_pric": "1268",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1268",
+      "trde_qty": "1",
+      "cntr_tm": "20260226134730",
+      "open_pric": "1268",
+      "high_pric": "1268",
+      "low_pric": "1268",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1268",
+      "trde_qty": "109",
+      "cntr_tm": "20260226134527",
+      "open_pric": "1268",
+      "high_pric": "1268",
+      "low_pric": "1268",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1268",
+      "trde_qty": "2000",
+      "cntr_tm": "20260226134106",
+      "open_pric": "1268",
+      "high_pric": "1268",
+      "low_pric": "1268",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1268",
+      "trde_qty": "263",
+      "cntr_tm": "20260226133458",
+      "open_pric": "1268",
+      "high_pric": "1268",
+      "low_pric": "1268",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1268",
+      "trde_qty": "79",
+      "cntr_tm": "20260226133226",
+      "open_pric": "1268",
+      "high_pric": "1268",
+      "low_pric": "1268",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1268",
+      "trde_qty": "1",
+      "cntr_tm": "20260226130736",
+      "open_pric": "1268",
+      "high_pric": "1268",
+      "low_pric": "1268",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1220",
+      "trde_qty": "39",
+      "cntr_tm": "20260226130523",
+      "open_pric": "1220",
+      "high_pric": "1220",
+      "low_pric": "1220",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1268",
+      "trde_qty": "1",
+      "cntr_tm": "20260226123949",
+      "open_pric": "1268",
+      "high_pric": "1268",
+      "low_pric": "1268",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1268",
+      "trde_qty": "1",
+      "cntr_tm": "20260226123545",
+      "open_pric": "1268",
+      "high_pric": "1268",
+      "low_pric": "1268",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1269",
+      "trde_qty": "1",
+      "cntr_tm": "20260226123424",
+      "open_pric": "1269",
+      "high_pric": "1269",
+      "low_pric": "1269",
+      "pred_pre": "124",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1270",
+      "trde_qty": "1",
+      "cntr_tm": "20260226123343",
+      "open_pric": "1270",
+      "high_pric": "1270",
+      "low_pric": "1270",
+      "pred_pre": "123",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1289",
+      "trde_qty": "2",
+      "cntr_tm": "20260226103201",
+      "open_pric": "1289",
+      "high_pric": "1289",
+      "low_pric": "1289",
+      "pred_pre": "104",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1289",
+      "trde_qty": "1",
+      "cntr_tm": "20260226102913",
+      "open_pric": "1289",
+      "high_pric": "1289",
+      "low_pric": "1289",
+      "pred_pre": "104",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1220",
+      "trde_qty": "241",
+      "cntr_tm": "20260226102848",
+      "open_pric": "1220",
+      "high_pric": "1220",
+      "low_pric": "1220",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1220",
+      "trde_qty": "40",
+      "cntr_tm": "20260226102844",
+      "open_pric": "1220",
+      "high_pric": "1220",
+      "low_pric": "1220",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1220",
+      "trde_qty": "12",
+      "cntr_tm": "20260226102836",
+      "open_pric": "1220",
+      "high_pric": "1220",
+      "low_pric": "1220",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1220",
+      "trde_qty": "24",
+      "cntr_tm": "20260226102833",
+      "open_pric": "1220",
+      "high_pric": "1220",
+      "low_pric": "1220",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1220",
+      "trde_qty": "264",
+      "cntr_tm": "20260226102830",
+      "open_pric": "1220",
+      "high_pric": "1220",
+      "low_pric": "1220",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1297",
+      "trde_qty": "1",
+      "cntr_tm": "20260226092922",
+      "open_pric": "1297",
+      "high_pric": "1297",
+      "low_pric": "1297",
+      "pred_pre": "96",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1201",
+      "trde_qty": "5",
+      "cntr_tm": "20260226092914",
+      "open_pric": "1201",
+      "high_pric": "1201",
+      "low_pric": "1201",
+      "pred_pre": "192",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "1",
+      "cntr_tm": "20260226090832",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "92",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1200",
+      "trde_qty": "2911",
+      "cntr_tm": "20260226090825",
+      "open_pric": "1200",
+      "high_pric": "1200",
+      "low_pric": "1200",
+      "pred_pre": "193",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1201",
+      "trde_qty": "300",
+      "cntr_tm": "20260226090825",
+      "open_pric": "1201",
+      "high_pric": "1201",
+      "low_pric": "1201",
+      "pred_pre": "192",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1202",
+      "trde_qty": "410",
+      "cntr_tm": "20260226090825",
+      "open_pric": "1202",
+      "high_pric": "1202",
+      "low_pric": "1202",
+      "pred_pre": "191",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1204",
+      "trde_qty": "240",
+      "cntr_tm": "20260226090825",
+      "open_pric": "1204",
+      "high_pric": "1204",
+      "low_pric": "1204",
+      "pred_pre": "189",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1205",
+      "trde_qty": "119",
+      "cntr_tm": "20260226090825",
+      "open_pric": "1205",
+      "high_pric": "1205",
+      "low_pric": "1205",
+      "pred_pre": "188",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1215",
+      "trde_qty": "20",
+      "cntr_tm": "20260226090825",
+      "open_pric": "1215",
+      "high_pric": "1215",
+      "low_pric": "1215",
+      "pred_pre": "178",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1488",
+      "trde_qty": "1",
+      "cntr_tm": "20260226090204",
+      "open_pric": "1488",
+      "high_pric": "1488",
+      "low_pric": "1488",
+      "pred_pre": "95",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1300",
+      "trde_qty": "10",
+      "cntr_tm": "20260226090158",
+      "open_pric": "1300",
+      "high_pric": "1300",
+      "low_pric": "1300",
+      "pred_pre": "93",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1488",
+      "trde_qty": "1",
+      "cntr_tm": "20260226090000",
+      "open_pric": "1488",
+      "high_pric": "1488",
+      "low_pric": "1488",
+      "pred_pre": "95",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1393",
+      "trde_qty": "10",
+      "cntr_tm": "20260225134026",
+      "open_pric": "1393",
+      "high_pric": "1393",
+      "low_pric": "1393",
+      "pred_pre": "32",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1393",
+      "trde_qty": "60",
+      "cntr_tm": "20260225134002",
+      "open_pric": "1393",
+      "high_pric": "1393",
+      "low_pric": "1393",
+      "pred_pre": "32",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1397",
+      "trde_qty": "7",
+      "cntr_tm": "20260225121111",
+      "open_pric": "1397",
+      "high_pric": "1397",
+      "low_pric": "1397",
+      "pred_pre": "28",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1397",
+      "trde_qty": "60",
+      "cntr_tm": "20260225111221",
+      "open_pric": "1397",
+      "high_pric": "1397",
+      "low_pric": "1397",
+      "pred_pre": "28",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1397",
+      "trde_qty": "1",
+      "cntr_tm": "20260225110817",
+      "open_pric": "1397",
+      "high_pric": "1397",
+      "low_pric": "1397",
+      "pred_pre": "28",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "60",
+      "cntr_tm": "20260225103517",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "25",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1398",
+      "trde_qty": "140",
+      "cntr_tm": "20260225103517",
+      "open_pric": "1398",
+      "high_pric": "1398",
+      "low_pric": "1398",
+      "pred_pre": "27",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "11",
+      "cntr_tm": "20260225101551",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "25",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "10",
+      "cntr_tm": "20260225101529",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "25",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "29",
+      "cntr_tm": "20260225101511",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "25",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "1",
+      "cntr_tm": "20260225100536",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "25",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1428",
+      "trde_qty": "5",
+      "cntr_tm": "20260225092238",
+      "open_pric": "1428",
+      "high_pric": "1428",
+      "low_pric": "1428",
+      "pred_pre": "3",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1428",
+      "trde_qty": "1",
+      "cntr_tm": "20260225092230",
+      "open_pric": "1428",
+      "high_pric": "1428",
+      "low_pric": "1428",
+      "pred_pre": "3",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1315",
+      "trde_qty": "20",
+      "cntr_tm": "20260225091814",
+      "open_pric": "1315",
+      "high_pric": "1315",
+      "low_pric": "1315",
+      "pred_pre": "110",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1489",
+      "trde_qty": "67",
+      "cntr_tm": "20260225091000",
+      "open_pric": "1489",
+      "high_pric": "1489",
+      "low_pric": "1489",
+      "pred_pre": "64",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1488",
+      "trde_qty": "79",
+      "cntr_tm": "20260225091000",
+      "open_pric": "1488",
+      "high_pric": "1488",
+      "low_pric": "1488",
+      "pred_pre": "63",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "1",
+      "cntr_tm": "20260225090000",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "65",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1425",
+      "trde_qty": "1",
+      "cntr_tm": "20260224151839",
+      "open_pric": "1425",
+      "high_pric": "1425",
+      "low_pric": "1425",
+      "pred_pre": "51",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1340",
+      "trde_qty": "10",
+      "cntr_tm": "20260224151524",
+      "open_pric": "1340",
+      "high_pric": "1340",
+      "low_pric": "1340",
+      "pred_pre": "136",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1426",
+      "trde_qty": "1",
+      "cntr_tm": "20260224151322",
+      "open_pric": "1426",
+      "high_pric": "1426",
+      "low_pric": "1426",
+      "pred_pre": "50",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1426",
+      "trde_qty": "1",
+      "cntr_tm": "20260224145020",
+      "open_pric": "1426",
+      "high_pric": "1426",
+      "low_pric": "1426",
+      "pred_pre": "50",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1313",
+      "trde_qty": "199",
+      "cntr_tm": "20260224144928",
+      "open_pric": "1313",
+      "high_pric": "1313",
+      "low_pric": "1313",
+      "pred_pre": "163",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1313",
+      "trde_qty": "120",
+      "cntr_tm": "20260224144913",
+      "open_pric": "1313",
+      "high_pric": "1313",
+      "low_pric": "1313",
+      "pred_pre": "163",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1314",
+      "trde_qty": "300",
+      "cntr_tm": "20260224144913",
+      "open_pric": "1314",
+      "high_pric": "1314",
+      "low_pric": "1314",
+      "pred_pre": "162",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1317",
+      "trde_qty": "200",
+      "cntr_tm": "20260224144913",
+      "open_pric": "1317",
+      "high_pric": "1317",
+      "low_pric": "1317",
+      "pred_pre": "159",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1320",
+      "trde_qty": "50",
+      "cntr_tm": "20260224144913",
+      "open_pric": "1320",
+      "high_pric": "1320",
+      "low_pric": "1320",
+      "pred_pre": "156",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1350",
+      "trde_qty": "10",
+      "cntr_tm": "20260224144913",
+      "open_pric": "1350",
+      "high_pric": "1350",
+      "low_pric": "1350",
+      "pred_pre": "126",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1360",
+      "trde_qty": "1",
+      "cntr_tm": "20260224144913",
+      "open_pric": "1360",
+      "high_pric": "1360",
+      "low_pric": "1360",
+      "pred_pre": "116",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1449",
+      "trde_qty": "2",
+      "cntr_tm": "20260224134012",
+      "open_pric": "1449",
+      "high_pric": "1449",
+      "low_pric": "1449",
+      "pred_pre": "27",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "42",
+      "cntr_tm": "20260224133839",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "26",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "1",
+      "cntr_tm": "20260224112721",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "26",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "12",
+      "cntr_tm": "20260224112721",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "96",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1380",
+      "trde_qty": "1",
+      "cntr_tm": "20260224112657",
+      "open_pric": "1380",
+      "high_pric": "1380",
+      "low_pric": "1380",
+      "pred_pre": "96",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1390",
+      "trde_qty": "1",
+      "cntr_tm": "20260224112657",
+      "open_pric": "1390",
+      "high_pric": "1390",
+      "low_pric": "1390",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "10",
+      "cntr_tm": "20260224112657",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "76",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1401",
+      "trde_qty": "91",
+      "cntr_tm": "20260224112657",
+      "open_pric": "1401",
+      "high_pric": "1401",
+      "low_pric": "1401",
+      "pred_pre": "75",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1402",
+      "trde_qty": "1",
+      "cntr_tm": "20260224112657",
+      "open_pric": "1402",
+      "high_pric": "1402",
+      "low_pric": "1402",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1403",
+      "trde_qty": "1",
+      "cntr_tm": "20260224112657",
+      "open_pric": "1403",
+      "high_pric": "1403",
+      "low_pric": "1403",
+      "pred_pre": "73",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1404",
+      "trde_qty": "1",
+      "cntr_tm": "20260224112657",
+      "open_pric": "1404",
+      "high_pric": "1404",
+      "low_pric": "1404",
+      "pred_pre": "72",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1405",
+      "trde_qty": "1",
+      "cntr_tm": "20260224112657",
+      "open_pric": "1405",
+      "high_pric": "1405",
+      "low_pric": "1405",
+      "pred_pre": "71",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1406",
+      "trde_qty": "1",
+      "cntr_tm": "20260224112657",
+      "open_pric": "1406",
+      "high_pric": "1406",
+      "low_pric": "1406",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1410",
+      "trde_qty": "70",
+      "cntr_tm": "20260224112440",
+      "open_pric": "1410",
+      "high_pric": "1410",
+      "low_pric": "1410",
+      "pred_pre": "66",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "1",
+      "cntr_tm": "20260224103153",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "26",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1407",
+      "trde_qty": "1",
+      "cntr_tm": "20260224102823",
+      "open_pric": "1407",
+      "high_pric": "1407",
+      "low_pric": "1407",
+      "pred_pre": "69",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1407",
+      "trde_qty": "40",
+      "cntr_tm": "20260224102822",
+      "open_pric": "1407",
+      "high_pric": "1407",
+      "low_pric": "1407",
+      "pred_pre": "69",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1407",
+      "trde_qty": "500",
+      "cntr_tm": "20260224102816",
+      "open_pric": "1407",
+      "high_pric": "1407",
+      "low_pric": "1407",
+      "pred_pre": "69",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1452",
+      "trde_qty": "1",
+      "cntr_tm": "20260224102717",
+      "open_pric": "1452",
+      "high_pric": "1452",
+      "low_pric": "1452",
+      "pred_pre": "24",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1407",
+      "trde_qty": "100",
+      "cntr_tm": "20260224102703",
+      "open_pric": "1407",
+      "high_pric": "1407",
+      "low_pric": "1407",
+      "pred_pre": "69",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1407",
+      "trde_qty": "360",
+      "cntr_tm": "20260224102641",
+      "open_pric": "1407",
+      "high_pric": "1407",
+      "low_pric": "1407",
+      "pred_pre": "69",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260224090000",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "124",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1476",
+      "trde_qty": "1",
+      "cntr_tm": "20260223150639",
+      "open_pric": "1476",
+      "high_pric": "1476",
+      "low_pric": "1476",
+      "pred_pre": "121",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1476",
+      "trde_qty": "1",
+      "cntr_tm": "20260223145918",
+      "open_pric": "1476",
+      "high_pric": "1476",
+      "low_pric": "1476",
+      "pred_pre": "121",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1476",
+      "trde_qty": "4",
+      "cntr_tm": "20260223145826",
+      "open_pric": "1476",
+      "high_pric": "1476",
+      "low_pric": "1476",
+      "pred_pre": "121",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1476",
+      "trde_qty": "15",
+      "cntr_tm": "20260223145633",
+      "open_pric": "1476",
+      "high_pric": "1476",
+      "low_pric": "1476",
+      "pred_pre": "121",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1476",
+      "trde_qty": "1",
+      "cntr_tm": "20260223145413",
+      "open_pric": "1476",
+      "high_pric": "1476",
+      "low_pric": "1476",
+      "pred_pre": "121",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1476",
+      "trde_qty": "1",
+      "cntr_tm": "20260223145223",
+      "open_pric": "1476",
+      "high_pric": "1476",
+      "low_pric": "1476",
+      "pred_pre": "121",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "2",
+      "cntr_tm": "20260223141108",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "112",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1495",
+      "trde_qty": "1",
+      "cntr_tm": "20260223135509",
+      "open_pric": "1495",
+      "high_pric": "1495",
+      "low_pric": "1495",
+      "pred_pre": "102",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1408",
+      "trde_qty": "120",
+      "cntr_tm": "20260223135454",
+      "open_pric": "1408",
+      "high_pric": "1408",
+      "low_pric": "1408",
+      "pred_pre": "189",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1411",
+      "trde_qty": "199",
+      "cntr_tm": "20260223135445",
+      "open_pric": "1411",
+      "high_pric": "1411",
+      "low_pric": "1411",
+      "pred_pre": "186",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1411",
+      "trde_qty": "1",
+      "cntr_tm": "20260223135442",
+      "open_pric": "1411",
+      "high_pric": "1411",
+      "low_pric": "1411",
+      "pred_pre": "186",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1412",
+      "trde_qty": "285",
+      "cntr_tm": "20260223135311",
+      "open_pric": "1412",
+      "high_pric": "1412",
+      "low_pric": "1412",
+      "pred_pre": "185",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1413",
+      "trde_qty": "300",
+      "cntr_tm": "20260223135254",
+      "open_pric": "1413",
+      "high_pric": "1413",
+      "low_pric": "1413",
+      "pred_pre": "184",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1415",
+      "trde_qty": "1000",
+      "cntr_tm": "20260223135227",
+      "open_pric": "1415",
+      "high_pric": "1415",
+      "low_pric": "1415",
+      "pred_pre": "182",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1416",
+      "trde_qty": "320",
+      "cntr_tm": "20260223135217",
+      "open_pric": "1416",
+      "high_pric": "1416",
+      "low_pric": "1416",
+      "pred_pre": "181",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "2",
+      "cntr_tm": "20260223133254",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "98",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "3",
+      "cntr_tm": "20260223133046",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "98",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "15",
+      "cntr_tm": "20260223133012",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "98",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1",
+      "cntr_tm": "20260223132129",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1415",
+      "trde_qty": "720",
+      "cntr_tm": "20260223132048",
+      "open_pric": "1415",
+      "high_pric": "1415",
+      "low_pric": "1415",
+      "pred_pre": "182",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1416",
+      "trde_qty": "85",
+      "cntr_tm": "20260223131951",
+      "open_pric": "1416",
+      "high_pric": "1416",
+      "low_pric": "1416",
+      "pred_pre": "181",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1417",
+      "trde_qty": "100",
+      "cntr_tm": "20260223131938",
+      "open_pric": "1417",
+      "high_pric": "1417",
+      "low_pric": "1417",
+      "pred_pre": "180",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1416",
+      "trde_qty": "95",
+      "cntr_tm": "20260223131841",
+      "open_pric": "1416",
+      "high_pric": "1416",
+      "low_pric": "1416",
+      "pred_pre": "181",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1430",
+      "trde_qty": "10",
+      "cntr_tm": "20260223131841",
+      "open_pric": "1430",
+      "high_pric": "1430",
+      "low_pric": "1430",
+      "pred_pre": "167",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "83",
+      "cntr_tm": "20260223131841",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1501",
+      "trde_qty": "2",
+      "cntr_tm": "20260223131841",
+      "open_pric": "1501",
+      "high_pric": "1501",
+      "low_pric": "1501",
+      "pred_pre": "96",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260223112939",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "3",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "717",
+      "cntr_tm": "20260223111513",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "300",
+      "cntr_tm": "20260223110534",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260223110100",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1690",
+      "trde_qty": "1",
+      "cntr_tm": "20260223104139",
+      "open_pric": "1690",
+      "high_pric": "1690",
+      "low_pric": "1690",
+      "pred_pre": "93",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1408",
+      "trde_qty": "880",
+      "cntr_tm": "20260223103538",
+      "open_pric": "1408",
+      "high_pric": "1408",
+      "low_pric": "1408",
+      "pred_pre": "189",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1409",
+      "trde_qty": "1110",
+      "cntr_tm": "20260223103538",
+      "open_pric": "1409",
+      "high_pric": "1409",
+      "low_pric": "1409",
+      "pred_pre": "188",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1430",
+      "trde_qty": "10",
+      "cntr_tm": "20260223103538",
+      "open_pric": "1430",
+      "high_pric": "1430",
+      "low_pric": "1430",
+      "pred_pre": "167",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "1",
+      "cntr_tm": "20260223090046",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "103",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "18",
+      "cntr_tm": "20260223090046",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "3",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260223090000",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "3",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1597",
+      "trde_qty": "1",
+      "cntr_tm": "20260220135308",
+      "open_pric": "1597",
+      "high_pric": "1597",
+      "low_pric": "1597",
+      "pred_pre": "98",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1451",
+      "trde_qty": "100",
+      "cntr_tm": "20260220133151",
+      "open_pric": "1451",
+      "high_pric": "1451",
+      "low_pric": "1451",
+      "pred_pre": "48",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260220090000",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "101",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "4",
+      "cntr_tm": "20260219150741",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "171",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1530",
+      "trde_qty": "1",
+      "cntr_tm": "20260219144343",
+      "open_pric": "1530",
+      "high_pric": "1530",
+      "low_pric": "1530",
+      "pred_pre": "140",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1530",
+      "trde_qty": "50",
+      "cntr_tm": "20260219142854",
+      "open_pric": "1530",
+      "high_pric": "1530",
+      "low_pric": "1530",
+      "pred_pre": "140",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1530",
+      "trde_qty": "1",
+      "cntr_tm": "20260219133738",
+      "open_pric": "1530",
+      "high_pric": "1530",
+      "low_pric": "1530",
+      "pred_pre": "140",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "200",
+      "cntr_tm": "20260219132625",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "200",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1530",
+      "trde_qty": "1",
+      "cntr_tm": "20260219131601",
+      "open_pric": "1530",
+      "high_pric": "1530",
+      "low_pric": "1530",
+      "pred_pre": "140",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "200",
+      "cntr_tm": "20260219131319",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1530",
+      "trde_qty": "50",
+      "cntr_tm": "20260219130447",
+      "open_pric": "1530",
+      "high_pric": "1530",
+      "low_pric": "1530",
+      "pred_pre": "140",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1530",
+      "trde_qty": "100",
+      "cntr_tm": "20260219130432",
+      "open_pric": "1530",
+      "high_pric": "1530",
+      "low_pric": "1530",
+      "pred_pre": "140",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "100",
+      "cntr_tm": "20260219130432",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "120",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "132",
+      "cntr_tm": "20260219130421",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "90",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "68",
+      "cntr_tm": "20260219125914",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "90",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1589",
+      "trde_qty": "32",
+      "cntr_tm": "20260219125910",
+      "open_pric": "1589",
+      "high_pric": "1589",
+      "low_pric": "1589",
+      "pred_pre": "81",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1589",
+      "trde_qty": "68",
+      "cntr_tm": "20260219125845",
+      "open_pric": "1589",
+      "high_pric": "1589",
+      "low_pric": "1589",
+      "pred_pre": "81",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "32",
+      "cntr_tm": "20260219125522",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "168",
+      "cntr_tm": "20260219125504",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1426",
+      "trde_qty": "140",
+      "cntr_tm": "20260219125431",
+      "open_pric": "1426",
+      "high_pric": "1426",
+      "low_pric": "1426",
+      "pred_pre": "244",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1425",
+      "trde_qty": "899",
+      "cntr_tm": "20260219125431",
+      "open_pric": "1425",
+      "high_pric": "1425",
+      "low_pric": "1425",
+      "pred_pre": "245",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1424",
+      "trde_qty": "297",
+      "cntr_tm": "20260219125431",
+      "open_pric": "1424",
+      "high_pric": "1424",
+      "low_pric": "1424",
+      "pred_pre": "246",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1424",
+      "trde_qty": "10",
+      "cntr_tm": "20260219123506",
+      "open_pric": "1424",
+      "high_pric": "1424",
+      "low_pric": "1424",
+      "pred_pre": "246",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1424",
+      "trde_qty": "10",
+      "cntr_tm": "20260219122851",
+      "open_pric": "1424",
+      "high_pric": "1424",
+      "low_pric": "1424",
+      "pred_pre": "246",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1424",
+      "trde_qty": "3",
+      "cntr_tm": "20260219121927",
+      "open_pric": "1424",
+      "high_pric": "1424",
+      "low_pric": "1424",
+      "pred_pre": "246",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1424",
+      "trde_qty": "10",
+      "cntr_tm": "20260219121407",
+      "open_pric": "1424",
+      "high_pric": "1424",
+      "low_pric": "1424",
+      "pred_pre": "246",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1425",
+      "trde_qty": "1",
+      "cntr_tm": "20260219115203",
+      "open_pric": "1425",
+      "high_pric": "1425",
+      "low_pric": "1425",
+      "pred_pre": "245",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1420",
+      "trde_qty": "3282",
+      "cntr_tm": "20260219115115",
+      "open_pric": "1420",
+      "high_pric": "1420",
+      "low_pric": "1420",
+      "pred_pre": "250",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1421",
+      "trde_qty": "100",
+      "cntr_tm": "20260219115057",
+      "open_pric": "1421",
+      "high_pric": "1421",
+      "low_pric": "1421",
+      "pred_pre": "249",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1422",
+      "trde_qty": "100",
+      "cntr_tm": "20260219115050",
+      "open_pric": "1422",
+      "high_pric": "1422",
+      "low_pric": "1422",
+      "pred_pre": "248",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1423",
+      "trde_qty": "300",
+      "cntr_tm": "20260219115044",
+      "open_pric": "1423",
+      "high_pric": "1423",
+      "low_pric": "1423",
+      "pred_pre": "247",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1424",
+      "trde_qty": "200",
+      "cntr_tm": "20260219115038",
+      "open_pric": "1424",
+      "high_pric": "1424",
+      "low_pric": "1424",
+      "pred_pre": "246",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1425",
+      "trde_qty": "1",
+      "cntr_tm": "20260219115022",
+      "open_pric": "1425",
+      "high_pric": "1425",
+      "low_pric": "1425",
+      "pred_pre": "245",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1425",
+      "trde_qty": "140",
+      "cntr_tm": "20260219114132",
+      "open_pric": "1425",
+      "high_pric": "1425",
+      "low_pric": "1425",
+      "pred_pre": "245",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1",
+      "cntr_tm": "20260219114019",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1426",
+      "trde_qty": "130",
+      "cntr_tm": "20260219113911",
+      "open_pric": "1426",
+      "high_pric": "1426",
+      "low_pric": "1426",
+      "pred_pre": "244",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1",
+      "cntr_tm": "20260219112641",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1427",
+      "trde_qty": "2000",
+      "cntr_tm": "20260219112426",
+      "open_pric": "1427",
+      "high_pric": "1427",
+      "low_pric": "1427",
+      "pred_pre": "243",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "40",
+      "cntr_tm": "20260219111601",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "3",
+      "cntr_tm": "20260219111126",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260219100612",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260219100528",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1668",
+      "trde_qty": "1",
+      "cntr_tm": "20260219091645",
+      "open_pric": "1668",
+      "high_pric": "1668",
+      "low_pric": "1668",
+      "pred_pre": "2",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1420",
+      "trde_qty": "11443",
+      "cntr_tm": "20260219091449",
+      "open_pric": "1420",
+      "high_pric": "1420",
+      "low_pric": "1420",
+      "pred_pre": "250",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1420",
+      "trde_qty": "100",
+      "cntr_tm": "20260219091218",
+      "open_pric": "1420",
+      "high_pric": "1420",
+      "low_pric": "1420",
+      "pred_pre": "250",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1420",
+      "trde_qty": "11",
+      "cntr_tm": "20260219091105",
+      "open_pric": "1420",
+      "high_pric": "1420",
+      "low_pric": "1420",
+      "pred_pre": "250",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1420",
+      "trde_qty": "6366",
+      "cntr_tm": "20260219090753",
+      "open_pric": "1420",
+      "high_pric": "1420",
+      "low_pric": "1420",
+      "pred_pre": "250",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1420",
+      "trde_qty": "313",
+      "cntr_tm": "20260219090006",
+      "open_pric": "1420",
+      "high_pric": "1420",
+      "low_pric": "1420",
+      "pred_pre": "250",
+      "pred_pre_sig": "4"
+    },
+    {
+      "cur_prc": "1421",
+      "trde_qty": "150",
+      "cntr_tm": "20260219090006",
+      "open_pric": "1421",
+      "high_pric": "1421",
+      "low_pric": "1421",
+      "pred_pre": "249",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1422",
+      "trde_qty": "200",
+      "cntr_tm": "20260219090006",
+      "open_pric": "1422",
+      "high_pric": "1422",
+      "low_pric": "1422",
+      "pred_pre": "248",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1423",
+      "trde_qty": "100",
+      "cntr_tm": "20260219090006",
+      "open_pric": "1423",
+      "high_pric": "1423",
+      "low_pric": "1423",
+      "pred_pre": "247",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260219090006",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1670",
+      "trde_qty": "4",
+      "cntr_tm": "20260213153000",
+      "open_pric": "1670",
+      "high_pric": "1670",
+      "low_pric": "1670",
+      "pred_pre": "71",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1669",
+      "trde_qty": "1",
+      "cntr_tm": "20260213150103",
+      "open_pric": "1669",
+      "high_pric": "1669",
+      "low_pric": "1669",
+      "pred_pre": "70",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1560",
+      "trde_qty": "100",
+      "cntr_tm": "20260213134743",
+      "open_pric": "1560",
+      "high_pric": "1560",
+      "low_pric": "1560",
+      "pred_pre": "39",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "100",
+      "cntr_tm": "20260213134731",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "19",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "100",
+      "cntr_tm": "20260213134707",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "210",
+      "cntr_tm": "20260213134646",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "1",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1597",
+      "trde_qty": "100",
+      "cntr_tm": "20260213134641",
+      "open_pric": "1597",
+      "high_pric": "1597",
+      "low_pric": "1597",
+      "pred_pre": "2",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1489",
+      "trde_qty": "289",
+      "cntr_tm": "20260213133545",
+      "open_pric": "1489",
+      "high_pric": "1489",
+      "low_pric": "1489",
+      "pred_pre": "110",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1479",
+      "trde_qty": "300",
+      "cntr_tm": "20260213133540",
+      "open_pric": "1479",
+      "high_pric": "1479",
+      "low_pric": "1479",
+      "pred_pre": "120",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1477",
+      "trde_qty": "200",
+      "cntr_tm": "20260213133537",
+      "open_pric": "1477",
+      "high_pric": "1477",
+      "low_pric": "1477",
+      "pred_pre": "122",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1476",
+      "trde_qty": "200",
+      "cntr_tm": "20260213133533",
+      "open_pric": "1476",
+      "high_pric": "1476",
+      "low_pric": "1476",
+      "pred_pre": "123",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1469",
+      "trde_qty": "198",
+      "cntr_tm": "20260213133530",
+      "open_pric": "1469",
+      "high_pric": "1469",
+      "low_pric": "1469",
+      "pred_pre": "130",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1467",
+      "trde_qty": "130",
+      "cntr_tm": "20260213133520",
+      "open_pric": "1467",
+      "high_pric": "1467",
+      "low_pric": "1467",
+      "pred_pre": "132",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "400",
+      "cntr_tm": "20260213133516",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "149",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1449",
+      "trde_qty": "160",
+      "cntr_tm": "20260213133512",
+      "open_pric": "1449",
+      "high_pric": "1449",
+      "low_pric": "1449",
+      "pred_pre": "150",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1440",
+      "trde_qty": "100",
+      "cntr_tm": "20260213133508",
+      "open_pric": "1440",
+      "high_pric": "1440",
+      "low_pric": "1440",
+      "pred_pre": "159",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1439",
+      "trde_qty": "98",
+      "cntr_tm": "20260213133503",
+      "open_pric": "1439",
+      "high_pric": "1439",
+      "low_pric": "1439",
+      "pred_pre": "160",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1439",
+      "trde_qty": "1",
+      "cntr_tm": "20260213133217",
+      "open_pric": "1439",
+      "high_pric": "1439",
+      "low_pric": "1439",
+      "pred_pre": "160",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1498",
+      "trde_qty": "1",
+      "cntr_tm": "20260213131625",
+      "open_pric": "1498",
+      "high_pric": "1498",
+      "low_pric": "1498",
+      "pred_pre": "101",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1402",
+      "trde_qty": "318",
+      "cntr_tm": "20260213131309",
+      "open_pric": "1402",
+      "high_pric": "1402",
+      "low_pric": "1402",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1402",
+      "trde_qty": "681",
+      "cntr_tm": "20260213131239",
+      "open_pric": "1402",
+      "high_pric": "1402",
+      "low_pric": "1402",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1402",
+      "trde_qty": "1",
+      "cntr_tm": "20260213131039",
+      "open_pric": "1402",
+      "high_pric": "1402",
+      "low_pric": "1402",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1402",
+      "trde_qty": "1",
+      "cntr_tm": "20260213130812",
+      "open_pric": "1402",
+      "high_pric": "1402",
+      "low_pric": "1402",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1402",
+      "trde_qty": "600",
+      "cntr_tm": "20260213130807",
+      "open_pric": "1402",
+      "high_pric": "1402",
+      "low_pric": "1402",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1402",
+      "trde_qty": "500",
+      "cntr_tm": "20260213130749",
+      "open_pric": "1402",
+      "high_pric": "1402",
+      "low_pric": "1402",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1402",
+      "trde_qty": "1100",
+      "cntr_tm": "20260213130716",
+      "open_pric": "1402",
+      "high_pric": "1402",
+      "low_pric": "1402",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1403",
+      "trde_qty": "1499",
+      "cntr_tm": "20260213130716",
+      "open_pric": "1403",
+      "high_pric": "1403",
+      "low_pric": "1403",
+      "pred_pre": "196",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1405",
+      "trde_qty": "500",
+      "cntr_tm": "20260213130716",
+      "open_pric": "1405",
+      "high_pric": "1405",
+      "low_pric": "1405",
+      "pred_pre": "194",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1406",
+      "trde_qty": "380",
+      "cntr_tm": "20260213130716",
+      "open_pric": "1406",
+      "high_pric": "1406",
+      "low_pric": "1406",
+      "pred_pre": "193",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1408",
+      "trde_qty": "430",
+      "cntr_tm": "20260213130716",
+      "open_pric": "1408",
+      "high_pric": "1408",
+      "low_pric": "1408",
+      "pred_pre": "191",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1410",
+      "trde_qty": "300",
+      "cntr_tm": "20260213130716",
+      "open_pric": "1410",
+      "high_pric": "1410",
+      "low_pric": "1410",
+      "pred_pre": "189",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1413",
+      "trde_qty": "270",
+      "cntr_tm": "20260213130716",
+      "open_pric": "1413",
+      "high_pric": "1413",
+      "low_pric": "1413",
+      "pred_pre": "186",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1414",
+      "trde_qty": "100",
+      "cntr_tm": "20260213130716",
+      "open_pric": "1414",
+      "high_pric": "1414",
+      "low_pric": "1414",
+      "pred_pre": "185",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1415",
+      "trde_qty": "300",
+      "cntr_tm": "20260213130716",
+      "open_pric": "1415",
+      "high_pric": "1415",
+      "low_pric": "1415",
+      "pred_pre": "184",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260213130716",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "99",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1999",
+      "cntr_tm": "20260213115638",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "1",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "300",
+      "cntr_tm": "20260213115633",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1501",
+      "trde_qty": "233",
+      "cntr_tm": "20260213115629",
+      "open_pric": "1501",
+      "high_pric": "1501",
+      "low_pric": "1501",
+      "pred_pre": "98",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1501",
+      "trde_qty": "667",
+      "cntr_tm": "20260213113211",
+      "open_pric": "1501",
+      "high_pric": "1501",
+      "low_pric": "1501",
+      "pred_pre": "98",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1502",
+      "trde_qty": "100",
+      "cntr_tm": "20260213113211",
+      "open_pric": "1502",
+      "high_pric": "1502",
+      "low_pric": "1502",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260213113106",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "1",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1502",
+      "trde_qty": "400",
+      "cntr_tm": "20260213112828",
+      "open_pric": "1502",
+      "high_pric": "1502",
+      "low_pric": "1502",
+      "pred_pre": "97",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1690",
+      "trde_qty": "1",
+      "cntr_tm": "20260213103211",
+      "open_pric": "1690",
+      "high_pric": "1690",
+      "low_pric": "1690",
+      "pred_pre": "91",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "1",
+      "cntr_tm": "20260213090205",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "101",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "1",
+      "cntr_tm": "20260212145808",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "1",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1543",
+      "cntr_tm": "20260212144356",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "123",
+      "cntr_tm": "20260212144310",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1698",
+      "trde_qty": "1",
+      "cntr_tm": "20260212143506",
+      "open_pric": "1698",
+      "high_pric": "1698",
+      "low_pric": "1698",
+      "pred_pre": "98",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "10",
+      "cntr_tm": "20260212142221",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1590",
+      "trde_qty": "500",
+      "cntr_tm": "20260212142218",
+      "open_pric": "1590",
+      "high_pric": "1590",
+      "low_pric": "1590",
+      "pred_pre": "10",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1570",
+      "trde_qty": "500",
+      "cntr_tm": "20260212142213",
+      "open_pric": "1570",
+      "high_pric": "1570",
+      "low_pric": "1570",
+      "pred_pre": "30",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "480",
+      "cntr_tm": "20260212142208",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "50",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "2010",
+      "cntr_tm": "20260212142203",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "1",
+      "cntr_tm": "20260212133857",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "115",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "377",
+      "cntr_tm": "20260212124643",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1510",
+      "trde_qty": "1510",
+      "cntr_tm": "20260212124639",
+      "open_pric": "1510",
+      "high_pric": "1510",
+      "low_pric": "1510",
+      "pred_pre": "90",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1509",
+      "trde_qty": "300",
+      "cntr_tm": "20260212124633",
+      "open_pric": "1509",
+      "high_pric": "1509",
+      "low_pric": "1509",
+      "pred_pre": "91",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1509",
+      "trde_qty": "906",
+      "cntr_tm": "20260212124624",
+      "open_pric": "1509",
+      "high_pric": "1509",
+      "low_pric": "1509",
+      "pred_pre": "91",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "526",
+      "cntr_tm": "20260212124619",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "101",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "500",
+      "cntr_tm": "20260212124614",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "110",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1488",
+      "trde_qty": "100",
+      "cntr_tm": "20260212124608",
+      "open_pric": "1488",
+      "high_pric": "1488",
+      "low_pric": "1488",
+      "pred_pre": "112",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1509",
+      "trde_qty": "1",
+      "cntr_tm": "20260212124137",
+      "open_pric": "1509",
+      "high_pric": "1509",
+      "low_pric": "1509",
+      "pred_pre": "91",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "496",
+      "cntr_tm": "20260212124052",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "200",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1401",
+      "trde_qty": "300",
+      "cntr_tm": "20260212124052",
+      "open_pric": "1401",
+      "high_pric": "1401",
+      "low_pric": "1401",
+      "pred_pre": "199",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1402",
+      "trde_qty": "1008",
+      "cntr_tm": "20260212124052",
+      "open_pric": "1402",
+      "high_pric": "1402",
+      "low_pric": "1402",
+      "pred_pre": "198",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1403",
+      "trde_qty": "726",
+      "cntr_tm": "20260212124052",
+      "open_pric": "1403",
+      "high_pric": "1403",
+      "low_pric": "1403",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1404",
+      "trde_qty": "189",
+      "cntr_tm": "20260212124052",
+      "open_pric": "1404",
+      "high_pric": "1404",
+      "low_pric": "1404",
+      "pred_pre": "196",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1405",
+      "trde_qty": "300",
+      "cntr_tm": "20260212124052",
+      "open_pric": "1405",
+      "high_pric": "1405",
+      "low_pric": "1405",
+      "pred_pre": "195",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1411",
+      "trde_qty": "100",
+      "cntr_tm": "20260212124052",
+      "open_pric": "1411",
+      "high_pric": "1411",
+      "low_pric": "1411",
+      "pred_pre": "189",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1412",
+      "trde_qty": "200",
+      "cntr_tm": "20260212124052",
+      "open_pric": "1412",
+      "high_pric": "1412",
+      "low_pric": "1412",
+      "pred_pre": "188",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "3",
+      "cntr_tm": "20260212120431",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "20",
+      "cntr_tm": "20260212120338",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "158",
+      "cntr_tm": "20260212114106",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "42",
+      "cntr_tm": "20260212112741",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "1",
+      "cntr_tm": "20260212112026",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "1105",
+      "cntr_tm": "20260212110933",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1519",
+      "trde_qty": "97",
+      "cntr_tm": "20260212110916",
+      "open_pric": "1519",
+      "high_pric": "1519",
+      "low_pric": "1519",
+      "pred_pre": "81",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1518",
+      "trde_qty": "200",
+      "cntr_tm": "20260212110910",
+      "open_pric": "1518",
+      "high_pric": "1518",
+      "low_pric": "1518",
+      "pred_pre": "82",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1517",
+      "trde_qty": "354",
+      "cntr_tm": "20260212110903",
+      "open_pric": "1517",
+      "high_pric": "1517",
+      "low_pric": "1517",
+      "pred_pre": "83",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1517",
+      "trde_qty": "200",
+      "cntr_tm": "20260212110856",
+      "open_pric": "1517",
+      "high_pric": "1517",
+      "low_pric": "1517",
+      "pred_pre": "83",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1517",
+      "trde_qty": "483",
+      "cntr_tm": "20260212110849",
+      "open_pric": "1517",
+      "high_pric": "1517",
+      "low_pric": "1517",
+      "pred_pre": "83",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "2610",
+      "cntr_tm": "20260212110842",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "616",
+      "cntr_tm": "20260212110833",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "101",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1590",
+      "trde_qty": "1",
+      "cntr_tm": "20260212102245",
+      "open_pric": "1590",
+      "high_pric": "1590",
+      "low_pric": "1590",
+      "pred_pre": "10",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "1487",
+      "cntr_tm": "20260212102004",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "200",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1420",
+      "trde_qty": "100",
+      "cntr_tm": "20260212102004",
+      "open_pric": "1420",
+      "high_pric": "1420",
+      "low_pric": "1420",
+      "pred_pre": "180",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1440",
+      "trde_qty": "100",
+      "cntr_tm": "20260212102004",
+      "open_pric": "1440",
+      "high_pric": "1440",
+      "low_pric": "1440",
+      "pred_pre": "160",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1460",
+      "trde_qty": "100",
+      "cntr_tm": "20260212102004",
+      "open_pric": "1460",
+      "high_pric": "1460",
+      "low_pric": "1460",
+      "pred_pre": "140",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1480",
+      "trde_qty": "100",
+      "cntr_tm": "20260212102004",
+      "open_pric": "1480",
+      "high_pric": "1480",
+      "low_pric": "1480",
+      "pred_pre": "120",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "110",
+      "cntr_tm": "20260212102004",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "3",
+      "cntr_tm": "20260212102004",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "97",
+      "cntr_tm": "20260212101809",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1540",
+      "trde_qty": "100",
+      "cntr_tm": "20260212101759",
+      "open_pric": "1540",
+      "high_pric": "1540",
+      "low_pric": "1540",
+      "pred_pre": "60",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1560",
+      "trde_qty": "100",
+      "cntr_tm": "20260212101759",
+      "open_pric": "1560",
+      "high_pric": "1560",
+      "low_pric": "1560",
+      "pred_pre": "40",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "100",
+      "cntr_tm": "20260212101753",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "20",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "100",
+      "cntr_tm": "20260212101738",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "2",
+      "cntr_tm": "20260212101721",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "431",
+      "cntr_tm": "20260212101712",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260212101712",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260212101256",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "30",
+      "cntr_tm": "20260212101201",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "200",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "392",
+      "cntr_tm": "20260212101156",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "200",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1400",
+      "trde_qty": "375",
+      "cntr_tm": "20260212101146",
+      "open_pric": "1400",
+      "high_pric": "1400",
+      "low_pric": "1400",
+      "pred_pre": "200",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1401",
+      "trde_qty": "1",
+      "cntr_tm": "20260212101146",
+      "open_pric": "1401",
+      "high_pric": "1401",
+      "low_pric": "1401",
+      "pred_pre": "199",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1402",
+      "trde_qty": "32",
+      "cntr_tm": "20260212101146",
+      "open_pric": "1402",
+      "high_pric": "1402",
+      "low_pric": "1402",
+      "pred_pre": "198",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1403",
+      "trde_qty": "1",
+      "cntr_tm": "20260212101146",
+      "open_pric": "1403",
+      "high_pric": "1403",
+      "low_pric": "1403",
+      "pred_pre": "197",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1404",
+      "trde_qty": "169",
+      "cntr_tm": "20260212101146",
+      "open_pric": "1404",
+      "high_pric": "1404",
+      "low_pric": "1404",
+      "pred_pre": "196",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1698",
+      "trde_qty": "1",
+      "cntr_tm": "20260212101126",
+      "open_pric": "1698",
+      "high_pric": "1698",
+      "low_pric": "1698",
+      "pred_pre": "98",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1404",
+      "trde_qty": "31",
+      "cntr_tm": "20260212101108",
+      "open_pric": "1404",
+      "high_pric": "1404",
+      "low_pric": "1404",
+      "pred_pre": "196",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1405",
+      "trde_qty": "1",
+      "cntr_tm": "20260212101108",
+      "open_pric": "1405",
+      "high_pric": "1405",
+      "low_pric": "1405",
+      "pred_pre": "195",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1407",
+      "trde_qty": "200",
+      "cntr_tm": "20260212101108",
+      "open_pric": "1407",
+      "high_pric": "1407",
+      "low_pric": "1407",
+      "pred_pre": "193",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1410",
+      "trde_qty": "1",
+      "cntr_tm": "20260212101108",
+      "open_pric": "1410",
+      "high_pric": "1410",
+      "low_pric": "1410",
+      "pred_pre": "190",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1420",
+      "trde_qty": "51",
+      "cntr_tm": "20260212101108",
+      "open_pric": "1420",
+      "high_pric": "1420",
+      "low_pric": "1420",
+      "pred_pre": "180",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1423",
+      "trde_qty": "100",
+      "cntr_tm": "20260212101108",
+      "open_pric": "1423",
+      "high_pric": "1423",
+      "low_pric": "1423",
+      "pred_pre": "177",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1425",
+      "trde_qty": "500",
+      "cntr_tm": "20260212101108",
+      "open_pric": "1425",
+      "high_pric": "1425",
+      "low_pric": "1425",
+      "pred_pre": "175",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1430",
+      "trde_qty": "106",
+      "cntr_tm": "20260212101108",
+      "open_pric": "1430",
+      "high_pric": "1430",
+      "low_pric": "1430",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260212101038",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "100",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "1",
+      "cntr_tm": "20260212090000",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "100",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1011",
+      "cntr_tm": "20260211153000",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "26",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1689",
+      "trde_qty": "1",
+      "cntr_tm": "20260211144012",
+      "open_pric": "1689",
+      "high_pric": "1689",
+      "low_pric": "1689",
+      "pred_pre": "115",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1660",
+      "trde_qty": "2500",
+      "cntr_tm": "20260211142959",
+      "open_pric": "1660",
+      "high_pric": "1660",
+      "low_pric": "1660",
+      "pred_pre": "86",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1689",
+      "trde_qty": "1",
+      "cntr_tm": "20260211142034",
+      "open_pric": "1689",
+      "high_pric": "1689",
+      "low_pric": "1689",
+      "pred_pre": "115",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1263",
+      "cntr_tm": "20260211141649",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "26",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1585",
+      "trde_qty": "2950",
+      "cntr_tm": "20260211140914",
+      "open_pric": "1585",
+      "high_pric": "1585",
+      "low_pric": "1585",
+      "pred_pre": "11",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260211135119",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "26",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "2800",
+      "cntr_tm": "20260211134830",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "24",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1549",
+      "trde_qty": "1000",
+      "cntr_tm": "20260211134826",
+      "open_pric": "1549",
+      "high_pric": "1549",
+      "low_pric": "1549",
+      "pred_pre": "25",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1565",
+      "trde_qty": "1",
+      "cntr_tm": "20260211133731",
+      "open_pric": "1565",
+      "high_pric": "1565",
+      "low_pric": "1565",
+      "pred_pre": "9",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "3000",
+      "cntr_tm": "20260211133612",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "1420",
+      "cntr_tm": "20260211133602",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "89",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1484",
+      "trde_qty": "420",
+      "cntr_tm": "20260211133557",
+      "open_pric": "1484",
+      "high_pric": "1484",
+      "low_pric": "1484",
+      "pred_pre": "90",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1484",
+      "trde_qty": "107",
+      "cntr_tm": "20260211132952",
+      "open_pric": "1484",
+      "high_pric": "1484",
+      "low_pric": "1484",
+      "pred_pre": "90",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "80",
+      "cntr_tm": "20260211124932",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "89",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "1000",
+      "cntr_tm": "20260211124920",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "89",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1703",
+      "cntr_tm": "20260211123527",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "2999",
+      "cntr_tm": "20260211123213",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1",
+      "cntr_tm": "20260211120055",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "3000",
+      "cntr_tm": "20260211115331",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1565",
+      "trde_qty": "1",
+      "cntr_tm": "20260211114556",
+      "open_pric": "1565",
+      "high_pric": "1565",
+      "low_pric": "1565",
+      "pred_pre": "9",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1494",
+      "trde_qty": "298",
+      "cntr_tm": "20260211114501",
+      "open_pric": "1494",
+      "high_pric": "1494",
+      "low_pric": "1494",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "600",
+      "cntr_tm": "20260211114455",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "84",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1488",
+      "trde_qty": "500",
+      "cntr_tm": "20260211114451",
+      "open_pric": "1488",
+      "high_pric": "1488",
+      "low_pric": "1488",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1486",
+      "trde_qty": "50",
+      "cntr_tm": "20260211114445",
+      "open_pric": "1486",
+      "high_pric": "1486",
+      "low_pric": "1486",
+      "pred_pre": "88",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "1413",
+      "cntr_tm": "20260211114439",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "89",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1483",
+      "trde_qty": "228",
+      "cntr_tm": "20260211114427",
+      "open_pric": "1483",
+      "high_pric": "1483",
+      "low_pric": "1483",
+      "pred_pre": "91",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "1000",
+      "cntr_tm": "20260211114422",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "124",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1485",
+      "trde_qty": "1",
+      "cntr_tm": "20260211111658",
+      "open_pric": "1485",
+      "high_pric": "1485",
+      "low_pric": "1485",
+      "pred_pre": "89",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1405",
+      "trde_qty": "3500",
+      "cntr_tm": "20260211110757",
+      "open_pric": "1405",
+      "high_pric": "1405",
+      "low_pric": "1405",
+      "pred_pre": "169",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1486",
+      "trde_qty": "1",
+      "cntr_tm": "20260211103940",
+      "open_pric": "1486",
+      "high_pric": "1486",
+      "low_pric": "1486",
+      "pred_pre": "88",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1486",
+      "trde_qty": "1",
+      "cntr_tm": "20260211103739",
+      "open_pric": "1486",
+      "high_pric": "1486",
+      "low_pric": "1486",
+      "pred_pre": "88",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1569",
+      "trde_qty": "1",
+      "cntr_tm": "20260211090000",
+      "open_pric": "1569",
+      "high_pric": "1569",
+      "low_pric": "1569",
+      "pred_pre": "5",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1574",
+      "trde_qty": "1",
+      "cntr_tm": "20260210131020",
+      "open_pric": "1574",
+      "high_pric": "1574",
+      "low_pric": "1574",
+      "pred_pre": "105",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1462",
+      "trde_qty": "69",
+      "cntr_tm": "20260210130004",
+      "open_pric": "1462",
+      "high_pric": "1462",
+      "low_pric": "1462",
+      "pred_pre": "217",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1462",
+      "trde_qty": "1759",
+      "cntr_tm": "20260210125552",
+      "open_pric": "1462",
+      "high_pric": "1462",
+      "low_pric": "1462",
+      "pred_pre": "217",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1463",
+      "trde_qty": "230",
+      "cntr_tm": "20260210125535",
+      "open_pric": "1463",
+      "high_pric": "1463",
+      "low_pric": "1463",
+      "pred_pre": "216",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1465",
+      "trde_qty": "11",
+      "cntr_tm": "20260210125535",
+      "open_pric": "1465",
+      "high_pric": "1465",
+      "low_pric": "1465",
+      "pred_pre": "214",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1590",
+      "trde_qty": "1",
+      "cntr_tm": "20260210094709",
+      "open_pric": "1590",
+      "high_pric": "1590",
+      "low_pric": "1590",
+      "pred_pre": "89",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "1",
+      "cntr_tm": "20260210093512",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1650",
+      "trde_qty": "1",
+      "cntr_tm": "20260210091940",
+      "open_pric": "1650",
+      "high_pric": "1650",
+      "low_pric": "1650",
+      "pred_pre": "29",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "79",
+      "cntr_tm": "20260210091924",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "229",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1460",
+      "trde_qty": "501",
+      "cntr_tm": "20260210091832",
+      "open_pric": "1460",
+      "high_pric": "1460",
+      "low_pric": "1460",
+      "pred_pre": "219",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1461",
+      "trde_qty": "399",
+      "cntr_tm": "20260210091832",
+      "open_pric": "1461",
+      "high_pric": "1461",
+      "low_pric": "1461",
+      "pred_pre": "218",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "11",
+      "cntr_tm": "20260210091832",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "179",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1501",
+      "trde_qty": "10",
+      "cntr_tm": "20260210091832",
+      "open_pric": "1501",
+      "high_pric": "1501",
+      "low_pric": "1501",
+      "pred_pre": "178",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1679",
+      "trde_qty": "101",
+      "cntr_tm": "20260209151929",
+      "open_pric": "1679",
+      "high_pric": "1679",
+      "low_pric": "1679",
+      "pred_pre": "9",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "910",
+      "cntr_tm": "20260209140555",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1597",
+      "trde_qty": "511",
+      "cntr_tm": "20260209140550",
+      "open_pric": "1597",
+      "high_pric": "1597",
+      "low_pric": "1597",
+      "pred_pre": "73",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1597",
+      "trde_qty": "1",
+      "cntr_tm": "20260209135050",
+      "open_pric": "1597",
+      "high_pric": "1597",
+      "low_pric": "1597",
+      "pred_pre": "73",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1020",
+      "cntr_tm": "20260209134947",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1499",
+      "trde_qty": "230",
+      "cntr_tm": "20260209134942",
+      "open_pric": "1499",
+      "high_pric": "1499",
+      "low_pric": "1499",
+      "pred_pre": "171",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1497",
+      "trde_qty": "400",
+      "cntr_tm": "20260209134936",
+      "open_pric": "1497",
+      "high_pric": "1497",
+      "low_pric": "1497",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1496",
+      "trde_qty": "270",
+      "cntr_tm": "20260209134931",
+      "open_pric": "1496",
+      "high_pric": "1496",
+      "low_pric": "1496",
+      "pred_pre": "174",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "267",
+      "cntr_tm": "20260209134924",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "220",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "500",
+      "cntr_tm": "20260209134757",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "220",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "500",
+      "cntr_tm": "20260209134619",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "220",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "400",
+      "cntr_tm": "20260209134406",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "220",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "500",
+      "cntr_tm": "20260209134104",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "220",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1450",
+      "trde_qty": "1331",
+      "cntr_tm": "20260209133758",
+      "open_pric": "1450",
+      "high_pric": "1450",
+      "low_pric": "1450",
+      "pred_pre": "220",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1460",
+      "trde_qty": "1100",
+      "cntr_tm": "20260209133758",
+      "open_pric": "1460",
+      "high_pric": "1460",
+      "low_pric": "1460",
+      "pred_pre": "210",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1465",
+      "trde_qty": "150",
+      "cntr_tm": "20260209133758",
+      "open_pric": "1465",
+      "high_pric": "1465",
+      "low_pric": "1465",
+      "pred_pre": "205",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "1",
+      "cntr_tm": "20260209133758",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "200",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1471",
+      "trde_qty": "1",
+      "cntr_tm": "20260209133758",
+      "open_pric": "1471",
+      "high_pric": "1471",
+      "low_pric": "1471",
+      "pred_pre": "199",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1480",
+      "trde_qty": "250",
+      "cntr_tm": "20260209133758",
+      "open_pric": "1480",
+      "high_pric": "1480",
+      "low_pric": "1480",
+      "pred_pre": "190",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "377",
+      "cntr_tm": "20260209133237",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "2595",
+      "cntr_tm": "20260209132922",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "170",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1502",
+      "trde_qty": "3400",
+      "cntr_tm": "20260209132922",
+      "open_pric": "1502",
+      "high_pric": "1502",
+      "low_pric": "1502",
+      "pred_pre": "168",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1511",
+      "trde_qty": "1100",
+      "cntr_tm": "20260209132922",
+      "open_pric": "1511",
+      "high_pric": "1511",
+      "low_pric": "1511",
+      "pred_pre": "159",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "284",
+      "cntr_tm": "20260209132922",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "150",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1521",
+      "trde_qty": "300",
+      "cntr_tm": "20260209132922",
+      "open_pric": "1521",
+      "high_pric": "1521",
+      "low_pric": "1521",
+      "pred_pre": "149",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1540",
+      "trde_qty": "100",
+      "cntr_tm": "20260209132922",
+      "open_pric": "1540",
+      "high_pric": "1540",
+      "low_pric": "1540",
+      "pred_pre": "130",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1560",
+      "trde_qty": "100",
+      "cntr_tm": "20260209132922",
+      "open_pric": "1560",
+      "high_pric": "1560",
+      "low_pric": "1560",
+      "pred_pre": "110",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "100",
+      "cntr_tm": "20260209132922",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "90",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "21",
+      "cntr_tm": "20260209132922",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1699",
+      "trde_qty": "1",
+      "cntr_tm": "20260209104532",
+      "open_pric": "1699",
+      "high_pric": "1699",
+      "low_pric": "1699",
+      "pred_pre": "29",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "105",
+      "cntr_tm": "20260209104144",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "10",
+      "cntr_tm": "20260209090505",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "30",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "8950",
+      "cntr_tm": "20260209090446",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "9",
+      "cntr_tm": "20260209090440",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "71",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "1678",
+      "cntr_tm": "20260209090435",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "71",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "50",
+      "cntr_tm": "20260209090022",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1670",
+      "trde_qty": "2",
+      "cntr_tm": "20260206153000",
+      "open_pric": "1670",
+      "high_pric": "1670",
+      "low_pric": "1670",
+      "pred_pre": "16",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1679",
+      "trde_qty": "1",
+      "cntr_tm": "20260206143934",
+      "open_pric": "1679",
+      "high_pric": "1679",
+      "low_pric": "1679",
+      "pred_pre": "7",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "1",
+      "cntr_tm": "20260206130908",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "87",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1",
+      "cntr_tm": "20260206130444",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "186",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1690",
+      "trde_qty": "1",
+      "cntr_tm": "20260206124205",
+      "open_pric": "1690",
+      "high_pric": "1690",
+      "low_pric": "1690",
+      "pred_pre": "4",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "10",
+      "cntr_tm": "20260206124205",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "314",
+      "cntr_tm": "20260206124205",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "87",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "30",
+      "cntr_tm": "20260206121559",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "87",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "1",
+      "cntr_tm": "20260206102754",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "87",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "10",
+      "cntr_tm": "20260206101945",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "186",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260206100857",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100854",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "186",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100854",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "166",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1540",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100854",
+      "open_pric": "1540",
+      "high_pric": "1540",
+      "low_pric": "1540",
+      "pred_pre": "146",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1560",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100854",
+      "open_pric": "1560",
+      "high_pric": "1560",
+      "low_pric": "1560",
+      "pred_pre": "126",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100847",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "106",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100813",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "306",
+      "cntr_tm": "20260206100807",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260206100737",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100642",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "186",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100637",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "166",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1540",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100633",
+      "open_pric": "1540",
+      "high_pric": "1540",
+      "low_pric": "1540",
+      "pred_pre": "146",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1560",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100633",
+      "open_pric": "1560",
+      "high_pric": "1560",
+      "low_pric": "1560",
+      "pred_pre": "126",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "100",
+      "cntr_tm": "20260206100633",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "106",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260206100623",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "50",
+      "cntr_tm": "20260206100619",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "50",
+      "cntr_tm": "20260206100614",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "503",
+      "cntr_tm": "20260206100603",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "120",
+      "cntr_tm": "20260206100603",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "87",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "1",
+      "cntr_tm": "20260206100541",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "155",
+      "cntr_tm": "20260206100532",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "91",
+      "cntr_tm": "20260206100522",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "86",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1599",
+      "trde_qty": "296",
+      "cntr_tm": "20260206100522",
+      "open_pric": "1599",
+      "high_pric": "1599",
+      "low_pric": "1599",
+      "pred_pre": "87",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "1",
+      "cntr_tm": "20260206095324",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "14",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "100",
+      "cntr_tm": "20260206095322",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "216",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1471",
+      "trde_qty": "200",
+      "cntr_tm": "20260206095322",
+      "open_pric": "1471",
+      "high_pric": "1471",
+      "low_pric": "1471",
+      "pred_pre": "215",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "40",
+      "cntr_tm": "20260206095253",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "186",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "1",
+      "cntr_tm": "20260206095238",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "186",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "1",
+      "cntr_tm": "20260206090000",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "14",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1686",
+      "trde_qty": "23",
+      "cntr_tm": "20260205153251",
+      "open_pric": "1686",
+      "high_pric": "1686",
+      "low_pric": "1686",
+      "pred_pre": "12",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1595",
+      "trde_qty": "1",
+      "cntr_tm": "20260205151847",
+      "open_pric": "1595",
+      "high_pric": "1595",
+      "low_pric": "1595",
+      "pred_pre": "79",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "2",
+      "cntr_tm": "20260205151517",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "124",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1595",
+      "trde_qty": "18",
+      "cntr_tm": "20260205134614",
+      "open_pric": "1595",
+      "high_pric": "1595",
+      "low_pric": "1595",
+      "pred_pre": "79",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1595",
+      "trde_qty": "1",
+      "cntr_tm": "20260205134334",
+      "open_pric": "1595",
+      "high_pric": "1595",
+      "low_pric": "1595",
+      "pred_pre": "79",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1595",
+      "trde_qty": "1",
+      "cntr_tm": "20260205134116",
+      "open_pric": "1595",
+      "high_pric": "1595",
+      "low_pric": "1595",
+      "pred_pre": "79",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "41",
+      "cntr_tm": "20260205134113",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "184",
+      "cntr_tm": "20260205134109",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "259",
+      "cntr_tm": "20260205134100",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "293",
+      "cntr_tm": "20260205134049",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "310",
+      "cntr_tm": "20260205134037",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "283",
+      "cntr_tm": "20260205134030",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "1",
+      "cntr_tm": "20260205134012",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "30",
+      "cntr_tm": "20260205133959",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "397",
+      "cntr_tm": "20260205133956",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "205",
+      "cntr_tm": "20260205133951",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "370",
+      "cntr_tm": "20260205133920",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "3",
+      "cntr_tm": "20260205133920",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "412",
+      "cntr_tm": "20260205133902",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "200",
+      "cntr_tm": "20260205133851",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "200",
+      "cntr_tm": "20260205133848",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "439",
+      "cntr_tm": "20260205133843",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "672",
+      "cntr_tm": "20260205133756",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1480",
+      "trde_qty": "467",
+      "cntr_tm": "20260205133756",
+      "open_pric": "1480",
+      "high_pric": "1480",
+      "low_pric": "1480",
+      "pred_pre": "194",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "100",
+      "cntr_tm": "20260205133756",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "174",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1501",
+      "trde_qty": "134",
+      "cntr_tm": "20260205133756",
+      "open_pric": "1501",
+      "high_pric": "1501",
+      "low_pric": "1501",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1687",
+      "trde_qty": "1",
+      "cntr_tm": "20260205133054",
+      "open_pric": "1687",
+      "high_pric": "1687",
+      "low_pric": "1687",
+      "pred_pre": "13",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "4476",
+      "cntr_tm": "20260205133044",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "124",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1549",
+      "trde_qty": "100",
+      "cntr_tm": "20260205133034",
+      "open_pric": "1549",
+      "high_pric": "1549",
+      "low_pric": "1549",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1549",
+      "trde_qty": "466",
+      "cntr_tm": "20260205133026",
+      "open_pric": "1549",
+      "high_pric": "1549",
+      "low_pric": "1549",
+      "pred_pre": "125",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1538",
+      "trde_qty": "278",
+      "cntr_tm": "20260205133018",
+      "open_pric": "1538",
+      "high_pric": "1538",
+      "low_pric": "1538",
+      "pred_pre": "136",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1538",
+      "trde_qty": "1",
+      "cntr_tm": "20260205132851",
+      "open_pric": "1538",
+      "high_pric": "1538",
+      "low_pric": "1538",
+      "pred_pre": "136",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1535",
+      "trde_qty": "99",
+      "cntr_tm": "20260205132851",
+      "open_pric": "1535",
+      "high_pric": "1535",
+      "low_pric": "1535",
+      "pred_pre": "139",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1540",
+      "trde_qty": "1",
+      "cntr_tm": "20260205131637",
+      "open_pric": "1540",
+      "high_pric": "1540",
+      "low_pric": "1540",
+      "pred_pre": "134",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1470",
+      "trde_qty": "1001",
+      "cntr_tm": "20260205125336",
+      "open_pric": "1470",
+      "high_pric": "1470",
+      "low_pric": "1470",
+      "pred_pre": "204",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1480",
+      "trde_qty": "1101",
+      "cntr_tm": "20260205125336",
+      "open_pric": "1480",
+      "high_pric": "1480",
+      "low_pric": "1480",
+      "pred_pre": "194",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1490",
+      "trde_qty": "1001",
+      "cntr_tm": "20260205125336",
+      "open_pric": "1490",
+      "high_pric": "1490",
+      "low_pric": "1490",
+      "pred_pre": "184",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "565",
+      "cntr_tm": "20260205125336",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "174",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1501",
+      "trde_qty": "130",
+      "cntr_tm": "20260205125336",
+      "open_pric": "1501",
+      "high_pric": "1501",
+      "low_pric": "1501",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1510",
+      "trde_qty": "100",
+      "cntr_tm": "20260205125336",
+      "open_pric": "1510",
+      "high_pric": "1510",
+      "low_pric": "1510",
+      "pred_pre": "164",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1511",
+      "trde_qty": "217",
+      "cntr_tm": "20260205125336",
+      "open_pric": "1511",
+      "high_pric": "1511",
+      "low_pric": "1511",
+      "pred_pre": "163",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1512",
+      "trde_qty": "300",
+      "cntr_tm": "20260205125336",
+      "open_pric": "1512",
+      "high_pric": "1512",
+      "low_pric": "1512",
+      "pred_pre": "162",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1687",
+      "trde_qty": "1",
+      "cntr_tm": "20260205113926",
+      "open_pric": "1687",
+      "high_pric": "1687",
+      "low_pric": "1687",
+      "pred_pre": "13",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "201",
+      "cntr_tm": "20260205113846",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1688",
+      "trde_qty": "1",
+      "cntr_tm": "20260205113836",
+      "open_pric": "1688",
+      "high_pric": "1688",
+      "low_pric": "1688",
+      "pred_pre": "14",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "122",
+      "cntr_tm": "20260205113836",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "120",
+      "cntr_tm": "20260205113830",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "57",
+      "cntr_tm": "20260205113819",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1697",
+      "trde_qty": "1",
+      "cntr_tm": "20260205105601",
+      "open_pric": "1697",
+      "high_pric": "1697",
+      "low_pric": "1697",
+      "pred_pre": "23",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "27",
+      "cntr_tm": "20260205105552",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "174",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1500",
+      "trde_qty": "542",
+      "cntr_tm": "20260205105537",
+      "open_pric": "1500",
+      "high_pric": "1500",
+      "low_pric": "1500",
+      "pred_pre": "174",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1697",
+      "trde_qty": "1",
+      "cntr_tm": "20260205105530",
+      "open_pric": "1697",
+      "high_pric": "1697",
+      "low_pric": "1697",
+      "pred_pre": "23",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1501",
+      "trde_qty": "100",
+      "cntr_tm": "20260205105527",
+      "open_pric": "1501",
+      "high_pric": "1501",
+      "low_pric": "1501",
+      "pred_pre": "173",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1520",
+      "trde_qty": "100",
+      "cntr_tm": "20260205105508",
+      "open_pric": "1520",
+      "high_pric": "1520",
+      "low_pric": "1520",
+      "pred_pre": "154",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1540",
+      "trde_qty": "100",
+      "cntr_tm": "20260205105454",
+      "open_pric": "1540",
+      "high_pric": "1540",
+      "low_pric": "1540",
+      "pred_pre": "134",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1560",
+      "trde_qty": "131",
+      "cntr_tm": "20260205105438",
+      "open_pric": "1560",
+      "high_pric": "1560",
+      "low_pric": "1560",
+      "pred_pre": "114",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1699",
+      "trde_qty": "1",
+      "cntr_tm": "20260205090758",
+      "open_pric": "1699",
+      "high_pric": "1699",
+      "low_pric": "1699",
+      "pred_pre": "25",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "25",
+      "cntr_tm": "20260205090747",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "94",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "75",
+      "cntr_tm": "20260205090737",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "94",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "100",
+      "cntr_tm": "20260205090727",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "74",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1620",
+      "trde_qty": "100",
+      "cntr_tm": "20260205090727",
+      "open_pric": "1620",
+      "high_pric": "1620",
+      "low_pric": "1620",
+      "pred_pre": "54",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1640",
+      "trde_qty": "100",
+      "cntr_tm": "20260205090727",
+      "open_pric": "1640",
+      "high_pric": "1640",
+      "low_pric": "1640",
+      "pred_pre": "34",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1660",
+      "trde_qty": "2",
+      "cntr_tm": "20260205090727",
+      "open_pric": "1660",
+      "high_pric": "1660",
+      "low_pric": "1660",
+      "pred_pre": "14",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1660",
+      "trde_qty": "98",
+      "cntr_tm": "20260205090719",
+      "open_pric": "1660",
+      "high_pric": "1660",
+      "low_pric": "1660",
+      "pred_pre": "14",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "2",
+      "cntr_tm": "20260205090000",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "26",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1674",
+      "trde_qty": "1",
+      "cntr_tm": "20260204153000",
+      "open_pric": "1674",
+      "high_pric": "1674",
+      "low_pric": "1674",
+      "pred_pre": "54",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1674",
+      "trde_qty": "1",
+      "cntr_tm": "20260204151141",
+      "open_pric": "1674",
+      "high_pric": "1674",
+      "low_pric": "1674",
+      "pred_pre": "54",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "174",
+      "cntr_tm": "20260204151132",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "267",
+      "cntr_tm": "20260204151122",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "20",
+      "cntr_tm": "20260204151121",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "540",
+      "cntr_tm": "20260204151112",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "426",
+      "cntr_tm": "20260204151040",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1551",
+      "trde_qty": "1097",
+      "cntr_tm": "20260204151040",
+      "open_pric": "1551",
+      "high_pric": "1551",
+      "low_pric": "1551",
+      "pred_pre": "69",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1552",
+      "trde_qty": "401",
+      "cntr_tm": "20260204151040",
+      "open_pric": "1552",
+      "high_pric": "1552",
+      "low_pric": "1552",
+      "pred_pre": "68",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1553",
+      "trde_qty": "64",
+      "cntr_tm": "20260204151040",
+      "open_pric": "1553",
+      "high_pric": "1553",
+      "low_pric": "1553",
+      "pred_pre": "67",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1560",
+      "trde_qty": "1000",
+      "cntr_tm": "20260204151040",
+      "open_pric": "1560",
+      "high_pric": "1560",
+      "low_pric": "1560",
+      "pred_pre": "60",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "11",
+      "cntr_tm": "20260204151040",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "20",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1690",
+      "trde_qty": "1",
+      "cntr_tm": "20260204111610",
+      "open_pric": "1690",
+      "high_pric": "1690",
+      "low_pric": "1690",
+      "pred_pre": "70",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1550",
+      "trde_qty": "74",
+      "cntr_tm": "20260204111605",
+      "open_pric": "1550",
+      "high_pric": "1550",
+      "low_pric": "1550",
+      "pred_pre": "70",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1551",
+      "trde_qty": "200",
+      "cntr_tm": "20260204111552",
+      "open_pric": "1551",
+      "high_pric": "1551",
+      "low_pric": "1551",
+      "pred_pre": "69",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1700",
+      "trde_qty": "1",
+      "cntr_tm": "20260204101358",
+      "open_pric": "1700",
+      "high_pric": "1700",
+      "low_pric": "1700",
+      "pred_pre": "80",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1799",
+      "trde_qty": "1",
+      "cntr_tm": "20260204091523",
+      "open_pric": "1799",
+      "high_pric": "1799",
+      "low_pric": "1799",
+      "pred_pre": "179",
+      "pred_pre_sig": "2"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "100",
+      "cntr_tm": "20260204090655",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "40",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1540",
+      "trde_qty": "100",
+      "cntr_tm": "20260204090648",
+      "open_pric": "1540",
+      "high_pric": "1540",
+      "low_pric": "1540",
+      "pred_pre": "80",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1560",
+      "trde_qty": "100",
+      "cntr_tm": "20260204090648",
+      "open_pric": "1560",
+      "high_pric": "1560",
+      "low_pric": "1560",
+      "pred_pre": "60",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1580",
+      "trde_qty": "100",
+      "cntr_tm": "20260204090635",
+      "open_pric": "1580",
+      "high_pric": "1580",
+      "low_pric": "1580",
+      "pred_pre": "40",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "105",
+      "cntr_tm": "20260204090633",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "20",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "95",
+      "cntr_tm": "20260204090620",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "20",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1600",
+      "trde_qty": "15",
+      "cntr_tm": "20260204090505",
+      "open_pric": "1600",
+      "high_pric": "1600",
+      "low_pric": "1600",
+      "pred_pre": "20",
+      "pred_pre_sig": "5"
+    },
+    {
+      "cur_prc": "1620",
+      "trde_qty": "100",
+      "cntr_tm": "20260204090353",
+      "open_pric": "1620",
+      "high_pric": "1620",
+      "low_pric": "1620",
+      "pred_pre": "0",
+      "pred_pre_sig": "3"
+    },
+    {
+      "cur_prc": "1799",
+      "trde_qty": "1",
+      "cntr_tm": "20260204090000",
+      "open_pric": "1799",
+      "high_pric": "1799",
+      "low_pric": "1799",
+      "pred_pre": "179",
+      "pred_pre_sig": "2"
+    }
+  ],
+  "return_code": 0,
+  "return_msg": "정상적으로 처리되었습니다",
+  "api-id": "ka10079",
+  "cont-yn": "N",
+  "next-key": "",
+  "resp-cnt": "807",
+  "user-data": ""
+}

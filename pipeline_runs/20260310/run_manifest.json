@@ -1,0 +1,54 @@
+{
+  "generated_at_utc": "2026-03-10T02:17:40Z",
+  "screen_json": "/home/kim/mm202603/manipulation_screening/output/20260309/ranked_candidates.json",
+  "run_root": "/home/kim/mm202603/pipeline_runs/20260310",
+  "selected_codes": [
+    "341170"
+  ],
+  "results": [
+    {
+      "code": "341170",
+      "name": "퓨쳐메디신",
+      "score": 15,
+      "output_dir": "/home/kim/mm202603/pipeline_runs/20260310/341170_퓨쳐메디신",
+      "steps": [
+        {
+          "name": "candidate_json",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260310/341170_퓨쳐메디신/candidate.json",
+          "note": "ranked candidate snapshot saved"
+        },
+        {
+          "name": "naver_board_collect",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260310/341170_퓨쳐메디신/community_titles",
+          "note": "rows=240, representative_posts=2"
+        },
+        {
+          "name": "post_targets",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260310/341170_퓨쳐메디신/naver_post_targets.json",
+          "note": "5 posts selected"
+        },
+        {
+          "name": "naver_board_evidence",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260310/341170_퓨쳐메디신/naver_post_evidence",
+          "note": "count=5"
+        },
+        {
+          "name": "public_archive",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260310/341170_퓨쳐메디신/archive",
+          "note": "count=6"
+        },
+        {
+          "name": "kiwoom_evidence",
+          "ok": true,
+          "output": "/home/kim/mm202603/pipeline_runs/20260310/341170_퓨쳐메디신/kiwoom_evidence",
+          "note": "{\"output_dir\": \"/home/kim/mm202603/pipeline_runs/20260310/341170_퓨쳐메디신/kiwoom_evidence\", \"artifact_count\": 12, \"error_count\": 0}"
+        }
+      ]
+    }
+  ]
+}

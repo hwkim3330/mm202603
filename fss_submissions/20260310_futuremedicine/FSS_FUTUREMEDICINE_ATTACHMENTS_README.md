@@ -1,0 +1,15 @@
+# FSS Attachments Readme Futuremedicine 20260310
+
+제출 순서:
+1. 제목 입력: `FSS_FUTUREMEDICINE_TITLE_20260310.txt`
+2. 신고경위 입력: `FSS_FUTUREMEDICINE_REPORT_PATH_20260310.txt`
+3. 신고내용 입력: `FSS_FUTUREMEDICINE_ONLINE_PASTE_20260310.txt`
+4. 체크 항목 참고: `FSS_FUTUREMEDICINE_FORM_GUIDE.md`
+5. 첨부 압축본: `fss_futuremedicine_bundle_20260310.zip`
+
+첨부 압축본 구성:
+- 패키지 본문 파일 일체
+- KRX 경보 스냅샷
+- 네이버 게시판 제목/본문 보존 자료
+- 공개 URL 아카이브 매니페스트
+- 키움 원시데이터 요약 및 일부 raw json

@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "code": "341170",
+    "pages_fetched": 12,
+    "row_count": 240,
+    "source": "https://finance.naver.com/item/board.naver?code=341170",
+    "keywords": [
+      "유가",
+      "상한가",
+      "상장폐지",
+      "청산",
+      "호르무즈",
+      "전쟁",
+      "쩜상",
+      "주포",
+      "매집",
+      "작전",
+      "세력",
+      "급등"
+    ]
+  },
+  "representative_posts": [
+    {
+      "keyword": "상한가",
+      "date": "2025.12.09 13:24",
+      "title": "리드코프 40일 연속 상한가 [ 2 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408302718&page=8",
+      "author": "Kingkong",
+      "view": 157,
+      "up": 8,
+      "down": 6,
+      "page": 8
+    },
+    {
+      "keyword": "쩜상",
+      "date": "2025.12.09 18:35",
+      "title": "쩜상 50방 축하...미국 자본 투자 유치 [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408323939&page=7",
+      "author": "Kingkong",
+      "view": 265,
+      "up": 17,
+      "down": 4,
+      "page": 7
+    }
+  ]
+}

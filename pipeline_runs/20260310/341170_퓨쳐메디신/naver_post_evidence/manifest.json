@@ -1,0 +1,72 @@
+[
+  {
+    "label": "post_01",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408302718&page=8",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/341170/discussion/408302718",
+    "title": "리드코프 40일 연속 상한가",
+    "written_at": "2025-12-09T13:24:30",
+    "author": "Kingkong",
+    "recommend_count": 8,
+    "view_count": 158,
+    "image_count": 1,
+    "ocr_chars": 73,
+    "text_filename": "post_01.content.txt",
+    "meta_filename": "post_01.meta.json"
+  },
+  {
+    "label": "post_02",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408323939&page=7",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/341170/discussion/408323939",
+    "title": "쩜상 50방 축하...미국 자본 투자 유치",
+    "written_at": "2025-12-09T18:35:06",
+    "author": "Kingkong",
+    "recommend_count": 17,
+    "view_count": 266,
+    "image_count": 2,
+    "ocr_chars": 230,
+    "text_filename": "post_02.content.txt",
+    "meta_filename": "post_02.meta.json"
+  },
+  {
+    "label": "post_03",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408156401&page=8",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/341170/discussion/408156401",
+    "title": "[공지] 허위사실 유포 및 명예훼손 관련 안내",
+    "written_at": "2025-12-05T15:41:05",
+    "author": "FutureMedicine",
+    "recommend_count": 34,
+    "view_count": 486,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "post_03.content.txt",
+    "meta_filename": "post_03.meta.json"
+  },
+  {
+    "label": "post_04",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408707972&page=6",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/341170/discussion/408707972",
+    "title": "또 초대박 이네요. ",
+    "written_at": "2025-12-16T13:33:32",
+    "author": "번뜩이다",
+    "recommend_count": 19,
+    "view_count": 350,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "post_04.content.txt",
+    "meta_filename": "post_04.meta.json"
+  },
+  {
+    "label": "post_05",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408418109&page=7",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/341170/discussion/408418109",
+    "title": "나스닥으로 갑시다.",
+    "written_at": "2025-12-11T09:16:38",
+    "author": "Kingkong",
+    "recommend_count": 18,
+    "view_count": 287,
+    "image_count": 1,
+    "ocr_chars": 28,
+    "text_filename": "post_05.content.txt",
+    "meta_filename": "post_05.meta.json"
+  }
+]

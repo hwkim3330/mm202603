@@ -1,0 +1,21 @@
+{
+  "label": "post_05",
+  "source_url": "https://finance.naver.com/item/board_read.naver?code=341170&nid=408418109&page=7",
+  "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/341170/discussion/408418109",
+  "title": "나스닥으로 갑시다.",
+  "written_at": "2025-12-11T09:16:38",
+  "author": "Kingkong",
+  "recommend_count": 18,
+  "view_count": 287,
+  "image_urls": [
+    "https://sec-discuss-phinf.pstatic.net/MjAyNTEyMTFfMzkg/MDAxNzY1NDEyMTkxNjAw.oNNUTDp2XJcxxuyoVRN-rxGBfWJRZAq_xuTQUlQtf70g.UHV39KbHz7JAp1M2Yms-hNkfkNBthIExnanNjS3jLpEg.PNG/1765273806646.png?type=p100_100"
+  ],
+  "saved_images": [
+    {
+      "url": "https://sec-discuss-phinf.pstatic.net/MjAyNTEyMTFfMzkg/MDAxNzY1NDEyMTkxNjAw.oNNUTDp2XJcxxuyoVRN-rxGBfWJRZAq_xuTQUlQtf70g.UHV39KbHz7JAp1M2Yms-hNkfkNBthIExnanNjS3jLpEg.PNG/1765273806646.png?type=p100_100",
+      "image_file": "post_05_img01.png",
+      "ocr_file": "post_05_img01.ocr.txt"
+    }
+  ],
+  "text_filename": "post_05.content.txt"
+}

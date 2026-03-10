@@ -1,0 +1,78 @@
+{
+  "orgn_prsm_avg_pric": "36128",
+  "for_prsm_avg_pric": "37431",
+  "stk_orgn_trde_trnsn": [
+    {
+      "dt": "20260310",
+      "close_pric": "+43700",
+      "pre_sig": "2",
+      "pred_pre": "+4850",
+      "flu_rt": "+12.48",
+      "trde_qty": "336440",
+      "orgn_dt_acc": "-158912.000000",
+      "orgn_daly_nettrde_qty": "-8748",
+      "for_dt_acc": "100836.000000",
+      "for_daly_nettrde_qty": "0",
+      "limit_exh_rt": "+15.38"
+    },
+    {
+      "dt": "20260309",
+      "close_pric": "-38850",
+      "pre_sig": "5",
+      "pred_pre": "-1100",
+      "flu_rt": "-2.75",
+      "trde_qty": "205430",
+      "orgn_dt_acc": "-150164.000000",
+      "orgn_daly_nettrde_qty": "-27184",
+      "for_dt_acc": "100836.000000",
+      "for_daly_nettrde_qty": "4554",
+      "limit_exh_rt": "+15.38"
+    },
+    {
+      "dt": "20260306",
+      "close_pric": "+39950",
+      "pre_sig": "2",
+      "pred_pre": "+2850",
+      "flu_rt": "+7.68",
+      "trde_qty": "317115",
+      "orgn_dt_acc": "-122980.000000",
+      "orgn_daly_nettrde_qty": "-57434",
+      "for_dt_acc": "96282.000000",
+      "for_daly_nettrde_qty": "17728",
+      "limit_exh_rt": "+15.36"
+    },
+    {
+      "dt": "20260305",
+      "close_pric": "+37100",
+      "pre_sig": "2",
+      "pred_pre": "+6100",
+      "flu_rt": "+19.68",
+      "trde_qty": "382934",
+      "orgn_dt_acc": "-65546.000000",
+      "orgn_daly_nettrde_qty": "-52563",
+      "for_dt_acc": "78554.000000",
+      "for_daly_nettrde_qty": "76414",
+      "limit_exh_rt": "+15.28"
+    },
+    {
+      "dt": "20260304",
+      "close_pric": "-31000",
+      "pre_sig": "5",
+      "pred_pre": "-10600",
+      "flu_rt": "-25.48",
+      "trde_qty": "935398",
+      "orgn_dt_acc": "-12983.000000",
+      "orgn_daly_nettrde_qty": "-12983",
+      "for_dt_acc": "2140.000000",
+      "for_daly_nettrde_qty": "2140",
+      "limit_exh_rt": "+14.93"
+    }
+  ],
+  "return_code": 0,
+  "return_msg": "정상적으로 처리되었습니다",
+  "api-id": "ka10045",
+  "cont-yn": "N",
+  "next-key": "",
+  "resp-cnt": "5",
+  "user-data": ""
+}

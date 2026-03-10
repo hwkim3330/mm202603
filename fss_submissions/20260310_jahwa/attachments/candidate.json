@@ -1,0 +1,75 @@
+{
+  "code": "033240",
+  "name": "자화전자",
+  "score": 28,
+  "categories": "caution, warning",
+  "reasons": "투자경고 | 투자경고 지정해제 | 특정계좌(군) 매매관여 과다",
+  "latest_date": "2026-03-10",
+  "event_count": 3,
+  "events": [
+    {
+      "code": "033240",
+      "name": "자화전자",
+      "category": "caution",
+      "reason": "특정계좌(군) 매매관여 과다",
+      "act_date": "2026-03-09",
+      "design_date": "2026-03-10",
+      "price": "43,700",
+      "delta": "4,850",
+      "raw": {
+        "rn": "11",
+        "isu_srt_cd": "033240",
+        "isu_nm": "자화전자",
+        "gubun": "매매관여과다종목",
+        "isu_cur_pr": "43,700",
+        "fluc_tp": "1",
+        "prv_dd_cmpr": "4,850",
+        "act_dd": "2026/03/09",
+        "design_dd": "2026/03/10"
+      }
+    },
+    {
+      "code": "033240",
+      "name": "자화전자",
+      "category": "caution",
+      "reason": "투자경고 지정해제",
+      "act_date": "2026-03-06",
+      "design_date": "2026-03-09",
+      "price": "43,700",
+      "delta": "4,850",
+      "raw": {
+        "rn": "35",
+        "isu_srt_cd": "033240",
+        "isu_nm": "자화전자",
+        "gubun": "투자경고 지정해제",
+        "isu_cur_pr": "43,700",
+        "fluc_tp": "1",
+        "prv_dd_cmpr": "4,850",
+        "act_dd": "2026/03/06",
+        "design_dd": "2026/03/09"
+      }
+    },
+    {
+      "code": "033240",
+      "name": "자화전자",
+      "category": "warning",
+      "reason": "투자경고",
+      "act_date": "2026-02-19",
+      "design_date": "2026-02-20",
+      "price": "43,700",
+      "delta": "4,850",
+      "raw": {
+        "rn": "6",
+        "isu_cd": "033240",
+        "kor_isu_nm": "자화전자",
+        "isu_std_pr": "43,700",
+        "fluc_tp": "1",
+        "prv_dd_cmpr": "4,850",
+        "act_dd": "2026/02/19",
+        "design_dd": "2026/02/20",
+        "free_dt": "2026/03/09"
+      }
+    }
+  ],
+  "explanation": "caution+2 / warning+8 / 특정계좌(군) 매매관여 과다+6 / recent(2026-03-10)+3 / recent(2026-03-09)+3 / multi_category+4 / multi_reason+2"
+}

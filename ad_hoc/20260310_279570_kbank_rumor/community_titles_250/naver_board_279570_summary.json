@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "code": "279570",
+    "pages_fetched": 100,
+    "row_count": 1983,
+    "source": "https://finance.naver.com/item/board.naver?code=279570",
+    "keywords": [
+      "보호예수",
+      "의무보유",
+      "해제",
+      "해지",
+      "풀린다",
+      "풀려",
+      "풀리는",
+      "락업",
+      "오버행",
+      "3개월",
+      "6개월",
+      "1년",
+      "90일",
+      "180일",
+      "확약",
+      "기관확약",
+      "3월18일",
+      "3/18",
+      "0318",
+      "18일"
+    ]
+  },
+  "keyword_counts_by_date": {
+    "2026.03.06": {
+      "락업": 1,
+      "보호예수": 1,
+      "6개월": 1,
+      "3개월": 1,
+      "의무보유": 1,
+      "확약": 1
+    },
+    "2026.03.07": {
+      "보호예수": 2,
+      "6개월": 1
+    },
+    "2026.03.08": {
+      "보호예수": 1,
+      "6개월": 1,
+      "오버행": 1,
+      "1년": 1
+    },
+    "2026.03.09": {
+      "6개월": 1,
+      "보호예수": 1,
+      "오버행": 1,
+      "확약": 1
+    },
+    "2026.03.10": {
+      "6개월": 3,
+      "보호예수": 1,
+      "풀려": 1
+    }
+  },
+  "representative_posts": [
+    {
+      "keyword": "보호예수",
+      "date": "2026.03.07 01:01",
+      "title": "걱정하지마. 보호예수 8300원에 묶여있어. [ 7 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414375666&page=72",
+      "author": "실속있는대응선구자",
+      "view": 1053,
+      "up": 14,
+      "down": 13,
+      "page": 72
+    },
+    {
+      "keyword": "의무보유",
+      "date": "2026.03.06 13:47",
+      "title": "의무보유 확약한",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414329216&page=98",
+      "author": "ROKehf",
+      "view": 80,
+      "up": 2,
+      "down": 0,
+      "page": 98
+    },
+    {
+      "keyword": "풀려",
+      "date": "2026.03.10 09:29",
+      "title": "보호예수 풀려고 시가가 공모가보다 낮으면??",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414567864&page=8",
+      "author": "반전적인투자판단킹",
+      "view": 35,
+      "up": 1,
+      "down": 0,
+      "page": 8
+    },
+    {
+      "keyword": "락업",
+      "date": "2026.03.06 17:17",
+      "title": "업비트 계약이랑 락업 물량 다 악재 투성이",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414354108&page=79",
+      "author": "데이비드배꼽",
+      "view": 156,
+      "up": 2,
+      "down": 1,
+      "page": 79
+    },
+    {
+      "keyword": "오버행",
+      "date": "2026.03.09 13:49",
+      "title": "제미나이가 말하길...오버행 조심",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414495657&page=33",
+      "author": "사장고창석",
+      "view": 126,
+      "up": 3,
+      "down": 0,
+      "page": 33
+    },
+    {
+      "keyword": "3개월",
+      "date": "2026.03.06 14:22",
+      "title": "계단식하락이다 기본이 1-3개월이후 보자~",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414334535&page=92",
+      "author": "멍청한코다리",
+      "view": 45,
+      "up": 0,
+      "down": 1,
+      "page": 92
+    },
+    {
+      "keyword": "6개월",
+      "date": "2026.03.09 17:33",
+      "title": "빗썸 6개월 영업정지 [ 7 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414521358&page=21",
+      "author": "양봉업",
+      "view": 1653,
+      "up": 21,
+      "down": 4,
+      "page": 21
+    },
+    {
+      "keyword": "1년",
+      "date": "2026.03.08 08:51",
+      "title": "21년 유증당시 받은 fi물량  엄청... [ 2 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414402406&page=67",
+      "author": "텐백",
+      "view": 401,
+      "up": 7,
+      "down": 7,
+      "page": 67
+    },
+    {
+      "keyword": "확약",
+      "date": "2026.03.09 13:08",
+      "title": "4월6일에 첫 확약 물량 350만주",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414489690&page=36",
+      "author": "포인에올인",
+      "view": 75,
+      "up": 3,
+      "down": 3,
+      "page": 36
+    }
+  ]
+}

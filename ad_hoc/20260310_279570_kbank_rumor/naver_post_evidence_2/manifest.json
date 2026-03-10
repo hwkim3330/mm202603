@@ -1,0 +1,72 @@
+[
+  {
+    "label": "kbank_first_unlock_350m_20260309",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414489690&page=31",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/279570/discussion/414489690",
+    "title": "4월6일에 첫 확약 물량 350만주",
+    "written_at": "2026-03-09T13:08:26",
+    "author": "포인에올인",
+    "recommend_count": 3,
+    "view_count": 75,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "kbank_first_unlock_350m_20260309.content.txt",
+    "meta_filename": "kbank_first_unlock_350m_20260309.meta.json"
+  },
+  {
+    "label": "kbank_six_month_lockup_20260307",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414377679&page=67",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/279570/discussion/414377679",
+    "title": "보호예수 6개월이네",
+    "written_at": "2026-03-07T03:32:14",
+    "author": "에휴a",
+    "recommend_count": 5,
+    "view_count": 205,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "kbank_six_month_lockup_20260307.content.txt",
+    "meta_filename": "kbank_six_month_lockup_20260307.meta.json"
+  },
+  {
+    "label": "kbank_lockup_15d_1m_20260306",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414349276&page=76",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/279570/discussion/414349276",
+    "title": "야 이거 보호예수 15일, 1달 물량 장난아닌데???",
+    "written_at": "2026-03-06T16:15:55",
+    "author": "초챙이",
+    "recommend_count": 5,
+    "view_count": 213,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "kbank_lockup_15d_1m_20260306.content.txt",
+    "meta_filename": "kbank_lockup_15d_1m_20260306.meta.json"
+  },
+  {
+    "label": "kbank_locked_at_8300_20260307",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414375666&page=67",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/279570/discussion/414375666",
+    "title": "걱정하지마. 보호예수 8300원에 묶여있어.",
+    "written_at": "2026-03-07T01:01:17",
+    "author": "실속있는대응선구자",
+    "recommend_count": 14,
+    "view_count": 1053,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "kbank_locked_at_8300_20260307.content.txt",
+    "meta_filename": "kbank_locked_at_8300_20260307.meta.json"
+  },
+  {
+    "label": "kbank_no_lockup_20260306",
+    "source_url": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414324941&page=98",
+    "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/279570/discussion/414324941",
+    "title": "이건 보호예수도없냐?",
+    "written_at": "2026-03-06T13:18:15",
+    "author": "해킹스톱",
+    "recommend_count": 2,
+    "view_count": 47,
+    "image_count": 0,
+    "ocr_chars": 0,
+    "text_filename": "kbank_no_lockup_20260306.content.txt",
+    "meta_filename": "kbank_no_lockup_20260306.meta.json"
+  }
+]

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "code": "279570",
+    "pages_fetched": 50,
+    "row_count": 992,
+    "source": "https://finance.naver.com/item/board.naver?code=279570",
+    "keywords": [
+      "보호예수",
+      "의무보유",
+      "보호",
+      "풀린다",
+      "해제",
+      "락업",
+      "오버행",
+      "공모가",
+      "FI",
+      "구주매출",
+      "업비트",
+      "스테이블"
+    ]
+  },
+  "keyword_counts_by_date": {
+    "2026.03.09": {
+      "스테이블": 6,
+      "업비트": 5,
+      "보호예수": 1,
+      "보호": 1,
+      "오버행": 1,
+      "공모가": 4,
+      "FI": 4,
+      "구주매출": 1
+    },
+    "2026.03.10": {
+      "보호예수": 1,
+      "보호": 1,
+      "공모가": 4,
+      "업비트": 3,
+      "스테이블": 1
+    }
+  },
+  "representative_posts": [
+    {
+      "keyword": "보호예수",
+      "date": "2026.03.09 15:06",
+      "title": "이번주 보호예수 터지나요?",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414507297&page=22",
+      "author": "플라이너",
+      "view": 51,
+      "up": 1,
+      "down": 1,
+      "page": 22
+    },
+    {
+      "keyword": "보호",
+      "date": "2026.03.09 15:06",
+      "title": "이번주 보호예수 터지나요?",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414507297&page=22",
+      "author": "플라이너",
+      "view": 51,
+      "up": 1,
+      "down": 1,
+      "page": 22
+    },
+    {
+      "keyword": "오버행",
+      "date": "2026.03.09 13:49",
+      "title": "제미나이가 말하길...오버행 조심",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414495657&page=27",
+      "author": "사장고창석",
+      "view": 126,
+      "up": 3,
+      "down": 0,
+      "page": 27
+    },
+    {
+      "keyword": "공모가",
+      "date": "2026.03.09 12:18",
+      "title": "FI 투자금과 공모가의 관계 [ 4 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414482950&page=33",
+      "author": "호랑나방",
+      "view": 260,
+      "up": 4,
+      "down": 4,
+      "page": 33
+    },
+    {
+      "keyword": "FI",
+      "date": "2026.03.09 12:18",
+      "title": "FI 투자금과 공모가의 관계 [ 4 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414482950&page=33",
+      "author": "호랑나방",
+      "view": 260,
+      "up": 4,
+      "down": 4,
+      "page": 33
+    },
+    {
+      "keyword": "구주매출",
+      "date": "2026.03.09 13:26",
+      "title": "내가 지난주에 구주매출 50%라 절대 사지 말... [ 3 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414492200&page=29",
+      "author": "진취적인복리하이랭커",
+      "view": 125,
+      "up": 1,
+      "down": 1,
+      "page": 29
+    },
+    {
+      "keyword": "업비트",
+      "date": "2026.03.09 14:13",
+      "title": "업비트와 비씨카드-스테이블코인",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414499306&page=25",
+      "author": "코이너",
+      "view": 107,
+      "up": 4,
+      "down": 1,
+      "page": 25
+    },
+    {
+      "keyword": "스테이블",
+      "date": "2026.03.09 13:11",
+      "title": "목표가 3만원 (스테이블 코인 최대수혜주) [ 2 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414490026&page=29",
+      "author": "EIGENVALUE",
+      "view": 259,
+      "up": 9,
+      "down": 2,
+      "page": 29
+    }
+  ]
+}

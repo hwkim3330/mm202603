@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "code": "279570",
+    "pages_fetched": 15,
+    "row_count": 299,
+    "source": "https://finance.naver.com/item/board.naver?code=279570",
+    "keywords": [
+      "보호예수",
+      "의무보유",
+      "보호",
+      "풀린다",
+      "해제",
+      "락업",
+      "오버행",
+      "공모가",
+      "FI",
+      "구주매출",
+      "업비트",
+      "스테이블"
+    ]
+  },
+  "keyword_counts_by_date": {
+    "2026.03.09": {
+      "스테이블": 2,
+      "업비트": 1
+    },
+    "2026.03.10": {
+      "보호예수": 1,
+      "보호": 1,
+      "공모가": 4,
+      "업비트": 4,
+      "스테이블": 1
+    }
+  },
+  "representative_posts": [
+    {
+      "keyword": "보호예수",
+      "date": "2026.03.10 09:29",
+      "title": "보호예수 풀려고 시가가 공모가보다 낮으면??",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414567864&page=1",
+      "author": "반전적인투자판단킹",
+      "view": 24,
+      "up": 0,
+      "down": 0,
+      "page": 1
+    },
+    {
+      "keyword": "보호",
+      "date": "2026.03.10 09:29",
+      "title": "보호예수 풀려고 시가가 공모가보다 낮으면??",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414567864&page=1",
+      "author": "반전적인투자판단킹",
+      "view": 24,
+      "up": 0,
+      "down": 0,
+      "page": 1
+    },
+    {
+      "keyword": "공모가",
+      "date": "2026.03.10 09:12",
+      "title": "공모가 8300원 3대 인터넷뱅킹인데",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414563574&page=4",
+      "author": "1a43c21n7",
+      "view": 55,
+      "up": 3,
+      "down": 0,
+      "page": 4
+    },
+    {
+      "keyword": "업비트",
+      "date": "2026.03.09 18:08",
+      "title": "업비트 하나은행과 손잡는다 - 뉴스 [ 5 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414523396&page=14",
+      "author": "실속형상승종목왕",
+      "view": 674,
+      "up": 3,
+      "down": 4,
+      "page": 14
+    },
+    {
+      "keyword": "스테이블",
+      "date": "2026.03.09 20:21",
+      "title": "스테이블 코인 사업의 이해 (쿠팡, 스테이블 ... [ 1 ]",
+      "href": "https://finance.naver.com/item/board_read.naver?code=279570&nid=414530345&page=12",
+      "author": "EIGENVALUE",
+      "view": 249,
+      "up": 8,
+      "down": 1,
+      "page": 12
+    }
+  ]
+}

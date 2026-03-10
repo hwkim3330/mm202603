@@ -125,18 +125,27 @@ def main() -> int:
     items = json.loads(Path(args.input_json).read_text(encoding='utf-8'))
     s = session()
     manifest: list[PostArtifact] = []
+    failures: list[dict] = []
 
     for item in items:
         label = item['label']
         source_url = item['url']
-        source_html = fetch_html(s, source_url)
-        mobile_url = resolve_mobile_url(source_url, source_html)
-        mobile_html = fetch_html(s, mobile_url)
-        result = extract_post_data(mobile_html)
-        content_html = result.get('contentHtml', '')
-        text = html_to_text(content_html)
-        image_urls = extract_image_urls(content_html)
-        extracted_links = extract_links(content_html)
+        try:
+            source_html = fetch_html(s, source_url)
+            mobile_url = resolve_mobile_url(source_url, source_html)
+            mobile_html = fetch_html(s, mobile_url)
+            result = extract_post_data(mobile_html)
+            content_html = result.get('contentHtml', '')
+            text = html_to_text(content_html)
+            image_urls = extract_image_urls(content_html)
+            extracted_links = extract_links(content_html)
+        except Exception as e:
+            failures.append({
+                'label': label,
+                'source_url': source_url,
+                'error': str(e),
+            })
+            continue
 
         text_filename = f'{label}.content.txt'
         html_filename = f'{label}.content.html'
@@ -190,11 +199,16 @@ def main() -> int:
         ))
 
     (output_dir / 'manifest.json').write_text(json.dumps([asdict(x) for x in manifest], ensure_ascii=False, indent=2), encoding='utf-8')
+    (output_dir / 'failures.json').write_text(json.dumps(failures, ensure_ascii=False, indent=2), encoding='utf-8')
     lines = ['# Naver Board Evidence Manifest', '', '| label | title | time | 추천 | 조회 | 이미지수 | 링크수 | OCR chars | text | html | meta |', '| --- | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | --- | --- |']
     for x in manifest:
         lines.append(f"| {x.label} | {x.title} | {x.written_at} | {x.recommend_count} | {x.view_count} | {x.image_count} | {x.link_count} | {x.ocr_chars} | `{x.text_filename}` | `{x.html_filename}` | `{x.meta_filename}` |")
+    if failures:
+        lines.extend(['', '## Failures', '', '| label | url | error |', '| --- | --- | --- |'])
+        for x in failures:
+            lines.append(f"| {x['label']} | {x['source_url']} | {x['error']} |")
     (output_dir / 'manifest.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
-    print(json.dumps({'count': len(manifest), 'output_dir': str(output_dir)}, ensure_ascii=False))
+    print(json.dumps({'count': len(manifest), 'failures': len(failures), 'output_dir': str(output_dir)}, ensure_ascii=False))
     return 0
 
 

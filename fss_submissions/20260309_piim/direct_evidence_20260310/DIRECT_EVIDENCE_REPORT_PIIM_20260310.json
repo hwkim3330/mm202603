@@ -1,0 +1,716 @@
+{
+  "stock_name": "한국피아이엠",
+  "stock_code": "448900",
+  "post_count": 29,
+  "repeated_authors": [
+    [
+      "dwbh",
+      3
+    ],
+    [
+      "왕짱",
+      3
+    ],
+    [
+      "ㅂ2yond",
+      3
+    ],
+    [
+      "hellorich",
+      2
+    ],
+    [
+      "HANA7846",
+      2
+    ],
+    [
+      "latwc",
+      2
+    ],
+    [
+      "주가조작은금요일",
+      2
+    ],
+    [
+      "장구니",
+      2
+    ],
+    [
+      "족같구만",
+      2
+    ],
+    [
+      "신중한삽살이",
+      1
+    ],
+    [
+      "도라또라에몽",
+      1
+    ],
+    [
+      "충실한리밸런싱메기",
+      1
+    ],
+    [
+      "쒯끼랍",
+      1
+    ],
+    [
+      "belltiger",
+      1
+    ],
+    [
+      "d63",
+      1
+    ],
+    [
+      "고고씽",
+      1
+    ],
+    [
+      "arcatraz",
+      1
+    ]
+  ],
+  "title_keyword_counts": {
+    "상한가": 3,
+    "세력": 4,
+    "시총": 1,
+    "주포": 2,
+    "리딩방": 1,
+    "리딩": 1
+  },
+  "body_keyword_counts": {
+    "시총": 4,
+    "호재": 3,
+    "세력": 2,
+    "목표": 1,
+    "주포": 1,
+    "상한가": 1
+  },
+  "external_links": [
+    [
+      "#",
+      3
+    ]
+  ],
+  "posts": [
+    {
+      "label": "post_32",
+      "date": "2026-02-25T15:08:04",
+      "author": "충실한리밸런싱메기",
+      "title": "이제 시총 6천억 ",
+      "title_hits": [
+        "시총"
+      ],
+      "body_hits": [
+        "주포",
+        "시총"
+      ],
+      "recommend": 6,
+      "view": 246,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-25 15:05:00",
+        "price": 103200,
+        "qty": 4225,
+        "acc_qty": 275792,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "단순계산 시총 1조간다 잡아도",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413432410&page=18"
+    },
+    {
+      "label": "post_01",
+      "date": "2026-03-06T15:58:22",
+      "author": "latwc",
+      "title": "李, 주가 조작 세력 겨냥 \"이익 얻는 것 불가능하게 할 것… 빈 말 않는다\"",
+      "title_hits": [
+        "세력"
+      ],
+      "body_hits": [
+        "세력",
+        "목표"
+      ],
+      "recommend": 4,
+      "view": 230,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 15:35:00",
+        "price": 150000,
+        "qty": 115,
+        "acc_qty": 344306,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "이재명 대통령은 5일 주가 조작 세력을 향해 \"과거와는 다르다. 국민주권정부는 빈 말 하지 않는다\"고 말했다.",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=414347843&page=2"
+    },
+    {
+      "label": "post_02",
+      "date": "2026-03-06T15:57:41",
+      "author": "hellorich",
+      "title": "한피엠을 보고 작전주라니 ㅋㅋㅋ",
+      "title_hits": [],
+      "body_hits": [
+        "시총",
+        "호재"
+      ],
+      "recommend": 26,
+      "view": 469,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 15:35:00",
+        "price": 150000,
+        "qty": 115,
+        "acc_qty": 344306,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "개별호재로 오르는건",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=414347796&page=2"
+    },
+    {
+      "label": "post_29",
+      "date": "2026-02-25T16:54:08",
+      "author": "신중한삽살이",
+      "title": "# ㅡ.ㅡ; 로봇 매출 빼고도 매출 많이 나옵니다.",
+      "title_hits": [],
+      "body_hits": [
+        "세력",
+        "시총"
+      ],
+      "recommend": 11,
+      "view": 208,
+      "link_count": 1,
+      "minute_ref": {
+        "ts": "2026-02-25 15:35:00",
+        "price": 106000,
+        "qty": 41,
+        "acc_qty": 299247,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "이제 시총 6천억대 박스권 다지고 이제 8천억대로올라갈 준비를 하는데 뭐가 무서워서 8만원~9만원구간을 샀다 팔았다를 반복합니까?",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413444041&page=17"
+    },
+    {
+      "label": "post_23",
+      "date": "2026-02-26T13:02:48",
+      "author": "belltiger",
+      "title": "상한가에 매도를 왜 걸어논냐? 낼도 상한간데.....",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [
+        "상한가"
+      ],
+      "recommend": 4,
+      "view": 202,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-26 13:00:00",
+        "price": 132100,
+        "qty": 5346,
+        "acc_qty": 328679,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "상한가에 매도를 왜 걸어논냐? 낼도 상한간데.....",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413536498&page=14"
+    },
+    {
+      "label": "post_20",
+      "date": "2026-02-26T17:04:13",
+      "author": "ㅂ2yond",
+      "title": "리딩방",
+      "title_hits": [
+        "리딩방",
+        "리딩"
+      ],
+      "body_hits": [],
+      "recommend": 0,
+      "view": 62,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-26 15:35:00",
+        "price": 125000,
+        "qty": 292,
+        "acc_qty": 470327,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "매도싸인  나왔다",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413578800&page=13"
+    },
+    {
+      "label": "post_18",
+      "date": "2026-02-28T04:46:17",
+      "author": "도라또라에몽",
+      "title": "미국 로봇",
+      "title_hits": [],
+      "body_hits": [
+        "호재"
+      ],
+      "recommend": 9,
+      "view": 298,
+      "link_count": 0,
+      "minute_ref": null,
+      "snippet": "피아이엠도 호재가 가시권에",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413738245&page=10"
+    },
+    {
+      "label": "post_10",
+      "date": "2026-03-06T09:19:54",
+      "author": "HANA7846",
+      "title": "상한가 감축드립니다. ",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [],
+      "recommend": 9,
+      "view": 199,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 09:15:00",
+        "price": 156100,
+        "qty": 16918,
+        "acc_qty": 71925,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "10시에 문 닫을듯.  저는 에스피지 주주입니다.",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=414283915&page=4"
+    },
+    {
+      "label": "post_24",
+      "date": "2026-02-26T12:39:19",
+      "author": "쒯끼랍",
+      "title": "상한가에 매도 걸어놔따..",
+      "title_hits": [
+        "상한가"
+      ],
+      "body_hits": [],
+      "recommend": 8,
+      "view": 79,
+      "link_count": 1,
+      "minute_ref": {
+        "ts": "2026-02-26 12:35:00",
+        "price": 135100,
+        "qty": 3349,
+        "acc_qty": 307938,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "누가 내꺼 사면 된다 ​",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413532413&page=14"
+    },
+    {
+      "label": "post_14",
+      "date": "2026-03-03T10:11:01",
+      "author": "dwbh",
+      "title": "로봇+방산+우주항공",
+      "title_hits": [],
+      "body_hits": [
+        "호재"
+      ],
+      "recommend": 7,
+      "view": 65,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-03 10:10:00",
+        "price": 131600,
+        "qty": 1767,
+        "acc_qty": 53084,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "트리플 호재 폭발 5분전",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413861733&page=9"
+    },
+    {
+      "label": "post_13",
+      "date": "2026-03-04T08:45:13",
+      "author": "ㅂ2yond",
+      "title": "세력들  이기회에",
+      "title_hits": [
+        "세력"
+      ],
+      "body_hits": [],
+      "recommend": 6,
+      "view": 28,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-04 09:00:00",
+        "price": 112000,
+        "qty": 7651,
+        "acc_qty": 7651,
+        "match_type": "next_open"
+      },
+      "snippet": "신용작살내고간다",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413993538&page=7"
+    },
+    {
+      "label": "post_28",
+      "date": "2026-02-25T17:54:50",
+      "author": "hellorich",
+      "title": "왜 로봇손인가 ~  기사공유함",
+      "title_hits": [],
+      "body_hits": [
+        "시총"
+      ],
+      "recommend": 5,
+      "view": 199,
+      "link_count": 1,
+      "minute_ref": {
+        "ts": "2026-02-25 15:35:00",
+        "price": 106000,
+        "qty": 41,
+        "acc_qty": 299247,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "로보티즈 시총4조2200억",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413448493&page=17"
+    },
+    {
+      "label": "post_34",
+      "date": "2026-02-25T14:20:45",
+      "author": "주가조작은금요일",
+      "title": "★  어이.. 주포야... 동시 호가  10만  ★",
+      "title_hits": [
+        "주포"
+      ],
+      "body_hits": [],
+      "recommend": 3,
+      "view": 75,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-25 14:20:00",
+        "price": 98500,
+        "qty": 1604,
+        "acc_qty": 209406,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "​ .. ​ ​ 함 대도 ... ​ ​ 함대주믄   고맙지 ...",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413424530&page=18"
+    },
+    {
+      "label": "post_40",
+      "date": "2026-02-24T11:32:47",
+      "author": "왕짱",
+      "title": "세력님",
+      "title_hits": [
+        "세력"
+      ],
+      "body_hits": [],
+      "recommend": 2,
+      "view": 140,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-24 11:30:00",
+        "price": 90600,
+        "qty": 1960,
+        "acc_qty": 237730,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "크게 한번 돌파해 주세요 제발ㅜㅠ 힘내라 힘!",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413289888&page=21"
+    },
+    {
+      "label": "post_19",
+      "date": "2026-02-27T08:14:05",
+      "author": "ㅂ2yond",
+      "title": "세력들",
+      "title_hits": [
+        "세력"
+      ],
+      "body_hits": [],
+      "recommend": 2,
+      "view": 55,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-27 09:00:00",
+        "price": 124100,
+        "qty": 6560,
+        "acc_qty": 6560,
+        "match_type": "next_open"
+      },
+      "snippet": "슬슬 매도할때됬지 물량이작아서 매도도  힘들겄다",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413619403&page=12"
+    },
+    {
+      "label": "post_38",
+      "date": "2026-02-24T13:46:06",
+      "author": "족같구만",
+      "title": "주포 옵하야~",
+      "title_hits": [
+        "주포"
+      ],
+      "body_hits": [],
+      "recommend": 1,
+      "view": 42,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-24 13:45:00",
+        "price": 89400,
+        "qty": 1684,
+        "acc_qty": 290569,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "더 떨궈줘봐 더사게",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413309840&page=21"
+    },
+    {
+      "label": "post_06",
+      "date": "2026-03-06T10:45:29",
+      "author": "HANA7846",
+      "title": "방금 14만에 700주 입성이요~",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 7,
+      "view": 201,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 10:45:00",
+        "price": 145700,
+        "qty": 2031,
+        "acc_qty": 226850,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "135700원 이하 손절!",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=414303887&page=3"
+    },
+    {
+      "label": "post_35",
+      "date": "2026-02-25T11:37:18",
+      "author": "왕짱",
+      "title": "방금",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 7,
+      "view": 146,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-25 11:35:00",
+        "price": 98500,
+        "qty": 1861,
+        "acc_qty": 153380,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "5000주 한방에 담는거 보고 느꼈다. 절대 팔면 안된다는걸~~~ 느리지만 힘이 틀리다.",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413399238&page=19"
+    },
+    {
+      "label": "post_07",
+      "date": "2026-03-06T09:27:14",
+      "author": "고고씽",
+      "title": "클로봇",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 6,
+      "view": 57,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 09:25:00",
+        "price": 157700,
+        "qty": 11299,
+        "acc_qty": 109089,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "로봇주 상승장",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=414285715&page=4"
+    },
+    {
+      "label": "post_36",
+      "date": "2026-02-24T15:32:47",
+      "author": "arcatraz",
+      "title": "@로봇계 콘드로이친 ㅋ@",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 5,
+      "view": 118,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-24 15:30:00",
+        "price": 93000,
+        "qty": 4262,
+        "acc_qty": 397996,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "​ 맞나.. ㅎㅎ ​",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413324793&page=20"
+    },
+    {
+      "label": "post_15",
+      "date": "2026-03-03T09:55:01",
+      "author": "dwbh",
+      "title": "로봇에 방산 양수겹장이로쎄",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 5,
+      "view": 32,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-03 09:55:00",
+        "price": 132500,
+        "qty": 3968,
+        "acc_qty": 43499,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "mim합금 기술품질 세계최고라니",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413858247&page=9"
+    },
+    {
+      "label": "post_33",
+      "date": "2026-02-25T14:39:37",
+      "author": "주가조작은금요일",
+      "title": "★  할배  방금  오리가슴  느낐다...★",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 3,
+      "view": 139,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-25 14:35:00",
+        "price": 101000,
+        "qty": 13191,
+        "acc_qty": 228249,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "​ . ​ ​ 느거들은    아이가? ​ ​ ​ 물론.. ​ ​ 어제 ​ ​ 계획을  잡은게 ​ ​ 아침  NXT 에서  14%   예상하고 ​ ​ 포위했거등",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413427648&page=18"
+    },
+    {
+      "label": "post_03",
+      "date": "2026-03-06T15:11:42",
+      "author": "장구니",
+      "title": "여기 꼭 작전주 매동",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 2,
+      "view": 65,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 15:10:00",
+        "price": 151300,
+        "qty": 4992,
+        "acc_qty": 338580,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "개미탕 제조중",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=414342105&page=2"
+    },
+    {
+      "label": "post_41",
+      "date": "2026-02-24T10:30:26",
+      "author": "족같구만",
+      "title": "신고가",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 2,
+      "view": 52,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-24 10:30:00",
+        "price": 89600,
+        "qty": 9328,
+        "acc_qty": 184712,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "가즈아~~~~~~",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413277946&page=21"
+    },
+    {
+      "label": "post_04",
+      "date": "2026-03-06T14:12:55",
+      "author": "장구니",
+      "title": "로봇주는 사상누각",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 1,
+      "view": 135,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 14:10:00",
+        "price": 142600,
+        "qty": 4194,
+        "acc_qty": 304500,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "실적이 없으니 어느날 물거품",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=414332915&page=3"
+    },
+    {
+      "label": "post_05",
+      "date": "2026-03-06T13:02:56",
+      "author": "latwc",
+      "title": "작전주",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 1,
+      "view": 85,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-06 13:00:00",
+        "price": 151100,
+        "qty": 2387,
+        "acc_qty": 276800,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "대통령인스타나 신문고에 신고해서....불나방들 한강 막도록 하겠습니다.",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=414323021&page=3"
+    },
+    {
+      "label": "post_25",
+      "date": "2026-02-26T11:39:10",
+      "author": "dwbh",
+      "title": "세계최강 가볍고 강하며 유연한 로봇 만드는 회사",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 1,
+      "view": 69,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-26 11:35:00",
+        "price": 128100,
+        "qty": 4782,
+        "acc_qty": 232615,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "때를 만났다",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413522139&page=15"
+    },
+    {
+      "label": "post_37",
+      "date": "2026-02-24T14:28:47",
+      "author": "d63",
+      "title": "로봇 대중화 시대는 필연적 !!!",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 0,
+      "view": 87,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-24 14:25:00",
+        "price": 94000,
+        "qty": 17462,
+        "acc_qty": 341387,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "​ 일일이 사람 손으로 로봇을 조작한다.... ​ ㅡ 리모컨의 최고권위 업체 : 경인전자",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413315817&page=20"
+    },
+    {
+      "label": "post_39",
+      "date": "2026-02-24T13:29:25",
+      "author": "왕짱",
+      "title": "여기 종토방에..",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 0,
+      "view": 63,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-02-24 13:25:00",
+        "price": 90800,
+        "qty": 1797,
+        "acc_qty": 283444,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "어리베이들 많네.. 남글 적는데 너거들이 무슨 상관이고, 그럴시간에 추가매수나 걸어놓고 온나.. 할짓 드럽게 업네.. 보니까.ㅎ 빵한것들..",
+      "url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413307394&page=21"
+    }
+  ]
+}

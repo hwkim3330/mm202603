@@ -1,0 +1,25 @@
+{
+  "label": "post_24",
+  "source_url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413532413&page=14",
+  "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/448900/discussion/413532413",
+  "title": "상한가에 매도 걸어놔따..",
+  "written_at": "2026-02-26T12:39:19",
+  "author": "쒯끼랍",
+  "recommend_count": 8,
+  "view_count": 79,
+  "image_urls": [
+    "https://storep-phinf.pstatic.net/paypet_01/original_5.gif?type=pa100_100"
+  ],
+  "extracted_links": [
+    "#"
+  ],
+  "saved_images": [
+    {
+      "url": "https://storep-phinf.pstatic.net/paypet_01/original_5.gif?type=pa100_100",
+      "image_file": "post_24_img01.png",
+      "ocr_file": "post_24_img01.ocr.txt"
+    }
+  ],
+  "text_filename": "post_24.content.txt",
+  "html_filename": "post_24.content.html"
+}

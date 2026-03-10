@@ -1,0 +1,61 @@
+{
+  "label": "post_28",
+  "source_url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413448493&page=17",
+  "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/448900/discussion/413448493",
+  "title": "왜 로봇손인가 ~  기사공유함",
+  "written_at": "2026-02-25T17:54:50",
+  "author": "hellorich",
+  "recommend_count": 5,
+  "view_count": 199,
+  "image_urls": [
+    "https://mimgnews.pstatic.net/image/upload/office_logo/055/2025/03/26/logo_055_101_20250326142317.png",
+    "https://mimgnews.pstatic.net/image/upload/spubs/8gG0000055/profile/2023/01/04/profile_150122956.png?type=nf112_112",
+    "https://imgnews.pstatic.net/image/055/2026/02/05/0001330590_002_20260205134008218.jpg?type=w860",
+    "https://imgnews.pstatic.net/image/055/2026/02/05/0001330590_003_20260205134008927.jpg?type=w860",
+    "https://imgnews.pstatic.net/image/055/2026/02/05/0001330590_004_20260205134009860.jpg?type=w860",
+    "https://imgnews.pstatic.net/image/055/2026/02/05/0001330590_005_20260205134010593.jpg?type=w860",
+    "https://imgnews.pstatic.net/image/055/2026/02/05/0001330590_006_20260205134011519.jpg?type=w860"
+  ],
+  "extracted_links": [
+    "#"
+  ],
+  "saved_images": [
+    {
+      "url": "https://mimgnews.pstatic.net/image/upload/office_logo/055/2025/03/26/logo_055_101_20250326142317.png",
+      "image_file": "post_28_img01.png",
+      "ocr_file": "post_28_img01.ocr.txt"
+    },
+    {
+      "url": "https://mimgnews.pstatic.net/image/upload/spubs/8gG0000055/profile/2023/01/04/profile_150122956.png?type=nf112_112",
+      "image_file": "post_28_img02.png",
+      "ocr_file": "post_28_img02.ocr.txt"
+    },
+    {
+      "url": "https://imgnews.pstatic.net/image/055/2026/02/05/0001330590_002_20260205134008218.jpg?type=w860",
+      "image_file": "post_28_img03.png",
+      "ocr_file": "post_28_img03.ocr.txt"
+    },
+    {
+      "url": "https://imgnews.pstatic.net/image/055/2026/02/05/0001330590_003_20260205134008927.jpg?type=w860",
+      "image_file": "post_28_img04.png",
+      "ocr_file": "post_28_img04.ocr.txt"
+    },
+    {
+      "url": "https://imgnews.pstatic.net/image/055/2026/02/05/0001330590_004_20260205134009860.jpg?type=w860",
+      "image_file": "post_28_img05.png",
+      "ocr_file": "post_28_img05.ocr.txt"
+    },
+    {
+      "url": "https://imgnews.pstatic.net/image/055/2026/02/05/0001330590_005_20260205134010593.jpg?type=w860",
+      "image_file": "post_28_img06.png",
+      "ocr_file": "post_28_img06.ocr.txt"
+    },
+    {
+      "url": "https://imgnews.pstatic.net/image/055/2026/02/05/0001330590_006_20260205134011519.jpg?type=w860",
+      "image_file": "post_28_img07.png",
+      "ocr_file": "post_28_img07.ocr.txt"
+    }
+  ],
+  "text_filename": "post_28.content.txt",
+  "html_filename": "post_28.content.html"
+}

@@ -1,0 +1,6 @@
+Indirectly driven
+distal joints (no actuators)
+
+Coaxial drive
+at proximal joints
+(with actuators)

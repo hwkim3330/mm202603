@@ -1,0 +1,25 @@
+{
+  "label": "post_29",
+  "source_url": "https://finance.naver.com/item/board_read.naver?code=448900&nid=413444041&page=17",
+  "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/448900/discussion/413444041",
+  "title": "# ㅡ.ㅡ; 로봇 매출 빼고도 매출 많이 나옵니다.",
+  "written_at": "2026-02-25T16:54:08",
+  "author": "신중한삽살이",
+  "recommend_count": 11,
+  "view_count": 208,
+  "image_urls": [
+    "https://sec-discuss-phinf.pstatic.net/MjAyNjAyMjVfMTc4/MDAxNzcyMDA2MDQ1MzIz.WnweE35fM_-Ym7Rqhnck9Al2qCEzioWqd6LgmYm2DyUg.dmrysr4J6qnqDA4-XDodCPx47cVtbEehCgzX6AXUzJIg.JPEG/Screenshot_20250730_144755_Samsung_Internet.jpg?type=p100_100"
+  ],
+  "extracted_links": [
+    "#"
+  ],
+  "saved_images": [
+    {
+      "url": "https://sec-discuss-phinf.pstatic.net/MjAyNjAyMjVfMTc4/MDAxNzcyMDA2MDQ1MzIz.WnweE35fM_-Ym7Rqhnck9Al2qCEzioWqd6LgmYm2DyUg.dmrysr4J6qnqDA4-XDodCPx47cVtbEehCgzX6AXUzJIg.JPEG/Screenshot_20250730_144755_Samsung_Internet.jpg?type=p100_100",
+      "image_file": "post_29_img01.png",
+      "ocr_file": "post_29_img01.ocr.txt"
+    }
+  ],
+  "text_filename": "post_29.content.txt",
+  "html_filename": "post_29.content.html"
+}

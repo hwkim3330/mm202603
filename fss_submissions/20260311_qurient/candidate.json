@@ -1,0 +1,33 @@
+{
+  "code": "115180",
+  "name": "큐리언트",
+  "score": 11,
+  "categories": "caution",
+  "reasons": "특정계좌(군) 매매관여 과다",
+  "latest_date": "2026-03-10",
+  "event_count": 1,
+  "events": [
+    {
+      "code": "115180",
+      "name": "큐리언트",
+      "category": "caution",
+      "reason": "특정계좌(군) 매매관여 과다",
+      "act_date": "2026-03-09",
+      "design_date": "2026-03-10",
+      "price": "50,900",
+      "delta": "10,300",
+      "raw": {
+        "rn": "9",
+        "isu_srt_cd": "115180",
+        "isu_nm": "큐리언트",
+        "gubun": "매매관여과다종목",
+        "isu_cur_pr": "50,900",
+        "fluc_tp": "1",
+        "prv_dd_cmpr": "10,300",
+        "act_dd": "2026/03/09",
+        "design_dd": "2026/03/10"
+      }
+    }
+  ],
+  "explanation": "caution+2 / 특정계좌(군) 매매관여 과다+6 / recent(2026-03-10)+3"
+}

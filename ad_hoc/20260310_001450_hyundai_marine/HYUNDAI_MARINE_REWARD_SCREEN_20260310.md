@@ -22,3 +22,8 @@
 - 현대해상은 지금 당장 신규 신고 패키지를 만드는 대상이 아니다.
 - 포상금 기대값 관점에서는 이미 제출한 강한 종목의 보강이 우선이다.
 - 특히 한국피아이엠과 인트론바이오의 직접증거 보강이 현대해상 신규 착수보다 효율적이다.
+
+
+## Related Note
+
+- Detailed fact-check: `HYUNDAI_MARINE_DISCLOSURE_FACTCHECK_20260311.md`

@@ -32,6 +32,7 @@
 - 경위: `fss_submissions/20260311_qurient/FSS_QURIENT_SUPPLEMENT_REPORT_PATH_20260311.txt`
 - 본문: `fss_submissions/20260311_qurient/FSS_QURIENT_SUPPLEMENT_ONLINE_PASTE_20260311.txt`
 - 첨부: `fss_submissions/20260311_qurient/fss_qurient_supplement_bundle_20260311.zip`
+- 최종 패킷: `fss_submissions/20260311_qurient/qurient_max_contribution_bundle_20260311.zip`
 
 ## Excluded / Fact-check Only
 

@@ -1,0 +1,31 @@
+{
+  "label": "post_13",
+  "source_url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414671954&page=5",
+  "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/115180/discussion/414671954",
+  "title": "10년 존버 결과",
+  "written_at": "2026-03-11T09:52:39",
+  "author": "단단한지갑우등생",
+  "recommend_count": 8,
+  "view_count": 569,
+  "image_urls": [
+    "https://sec-discuss-phinf.pstatic.net/MjAyNjAzMTFfNzYg/MDAxNzczMTkwMjg4MDY5.NE0aOT96M2yJul_cvl7ecveRrlKLO0fvV0EOmp8MCnsg.pIkMuoW8Bv8FhWTMEPdR-aOAAlApo1JVEhBR1yrDca4g.JPEG/Screenshot_20260311_094822_S.jpg?type=p100_100",
+    "https://sec-discuss-phinf.pstatic.net/MjAyNjAzMTFfMjUw/MDAxNzczMTkwMjk1ODk2.vhl70NlK21rHMJee9YfZx1IdA1_uRwodZaDN-bogkI4g.8Ahc3wB_TBfzk_MyIVCcuh9DjBD96RYfrbqp-DvnL-cg.JPEG/Screenshot_20260311_094847_S.jpg?type=p100_100"
+  ],
+  "extracted_links": [
+    "#"
+  ],
+  "saved_images": [
+    {
+      "url": "https://sec-discuss-phinf.pstatic.net/MjAyNjAzMTFfNzYg/MDAxNzczMTkwMjg4MDY5.NE0aOT96M2yJul_cvl7ecveRrlKLO0fvV0EOmp8MCnsg.pIkMuoW8Bv8FhWTMEPdR-aOAAlApo1JVEhBR1yrDca4g.JPEG/Screenshot_20260311_094822_S.jpg?type=p100_100",
+      "image_file": "post_13_img01.png",
+      "ocr_file": "post_13_img01.ocr.txt"
+    },
+    {
+      "url": "https://sec-discuss-phinf.pstatic.net/MjAyNjAzMTFfMjUw/MDAxNzczMTkwMjk1ODk2.vhl70NlK21rHMJee9YfZx1IdA1_uRwodZaDN-bogkI4g.8Ahc3wB_TBfzk_MyIVCcuh9DjBD96RYfrbqp-DvnL-cg.JPEG/Screenshot_20260311_094847_S.jpg?type=p100_100",
+      "image_file": "post_13_img02.png",
+      "ocr_file": "post_13_img02.ocr.txt"
+    }
+  ],
+  "text_filename": "post_13.content.txt",
+  "html_filename": "post_13.content.html"
+}

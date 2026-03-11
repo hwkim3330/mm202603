@@ -1,0 +1,503 @@
+{
+  "stock_name": "큐리언트",
+  "stock_code": "115180",
+  "post_count": 20,
+  "repeated_authors": [
+    [
+      "종목이슈장인",
+      4
+    ],
+    [
+      "익살스런지갑검객",
+      2
+    ],
+    [
+      "주식배우는중",
+      1
+    ],
+    [
+      "배려깊은데이터분석가",
+      1
+    ],
+    [
+      "짱가",
+      1
+    ],
+    [
+      "메사끼도사",
+      1
+    ],
+    [
+      "배려깊은흐름다람쥐",
+      1
+    ],
+    [
+      "모란데스",
+      1
+    ],
+    [
+      "단타단타단타",
+      1
+    ],
+    [
+      "코코팜먹고파",
+      1
+    ],
+    [
+      "단단한지갑우등생",
+      1
+    ],
+    [
+      "갈처사",
+      1
+    ],
+    [
+      "NB777",
+      1
+    ],
+    [
+      "현대중공업존버",
+      1
+    ],
+    [
+      "50에현금20억",
+      1
+    ],
+    [
+      "qpgv0121",
+      1
+    ]
+  ],
+  "title_keyword_counts": {
+    "세력": 1,
+    "시총": 2,
+    "목표": 1
+  },
+  "body_keyword_counts": {
+    "세력": 1,
+    "시총": 1,
+    "매집": 1
+  },
+  "external_links": [
+    [
+      "#",
+      2
+    ]
+  ],
+  "posts": [
+    {
+      "label": "post_09",
+      "date": "2026-03-10T12:01:26",
+      "author": "종목이슈장인",
+      "title": "시총10조인데 관절염 테마 1개 코오롱티슈진 ",
+      "title_hits": [
+        "시총"
+      ],
+      "body_hits": [
+        "시총"
+      ],
+      "recommend": 6,
+      "view": 241,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 12:00:00",
+        "price": 50900,
+        "qty": 22195,
+        "acc_qty": 1759900,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "여러 프로젝트 시총 500조 머크랑 협력하는 큐리언트",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414593689&page=8"
+    },
+    {
+      "label": "post_03",
+      "date": "2026-03-10T09:48:07",
+      "author": "짱가",
+      "title": "Etf 물량이 들어오니 이때 세력들은 ",
+      "title_hits": [
+        "세력"
+      ],
+      "body_hits": [
+        "세력"
+      ],
+      "recommend": 4,
+      "view": 236,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 09:45:00",
+        "price": 48000,
+        "qty": 61509,
+        "acc_qty": 1130706,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "지금까지 끌어올린 세력 나가고 펀드가 이제 세력이 되어 주가를 끌어 올리겠지",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414571948&page=9"
+    },
+    {
+      "label": "post_14",
+      "date": "2026-03-10T21:43:05",
+      "author": "갈처사",
+      "title": "4년연속 적자기업에 보석이 박혀있는듯",
+      "title_hits": [],
+      "body_hits": [
+        "매집"
+      ],
+      "recommend": 14,
+      "view": 886,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 15:35:00",
+        "price": 50900,
+        "qty": 434,
+        "acc_qty": 2493091,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "바이오 한방 노리고 매집 들어간듯",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414640493&page=7"
+    },
+    {
+      "label": "post_16",
+      "date": "2026-03-10T15:37:10",
+      "author": "현대중공업존버",
+      "title": "목표가 설정해놓으신분 계신가요?",
+      "title_hits": [
+        "목표"
+      ],
+      "body_hits": [],
+      "recommend": 10,
+      "view": 1360,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 15:35:00",
+        "price": 50900,
+        "qty": 434,
+        "acc_qty": 2493091,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "얼마까지갈까요? 바이오주는 잘안하는데. 홀딩?",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414620350&page=7"
+    },
+    {
+      "label": "post_20",
+      "date": "2026-03-10T08:26:25",
+      "author": "종목이슈장인",
+      "title": "시총 10조",
+      "title_hits": [
+        "시총"
+      ],
+      "body_hits": [],
+      "recommend": 6,
+      "view": 92,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 09:00:00",
+        "price": 48350,
+        "qty": 179546,
+        "acc_qty": 179546,
+        "match_type": "next_open"
+      },
+      "snippet": "갑니다. 이유는 너무 많아서 패스",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414554955&page=10"
+    },
+    {
+      "label": "post_02",
+      "date": "2026-03-10T06:22:40",
+      "author": "배려깊은데이터분석가",
+      "title": "코액트코스닥액티브ETF에 편입비율(7%) 1위의 의미",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 27,
+      "view": 1549,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 09:00:00",
+        "price": 48350,
+        "qty": 179546,
+        "acc_qty": 179546,
+        "match_type": "next_open"
+      },
+      "snippet": "코액트코스닥액티브ETF에 큐리언트가 편입비율(7%) 1위의 의미 ​ 1. 국장에서 세간의 화제가 될 코스닥액티브ETF에 편입 대상이 되었다는 것만으로도 대단함. ​ 2. 그것도 편입비율 7% 1위로 편입됨.(아직도 믿기지가 않음) ​ 3. 그동안 타임과 코액트는 둘다 액티브 펀드의 대명사로 인정. 코액트는 K바이오ETF에 있어서 대표적인 자산운용사임에 큐리언트를 편입했다는 것은 상당한 의미를",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414547316&page=11"
+    },
+    {
+      "label": "post_04",
+      "date": "2026-03-09T18:48:57",
+      "author": "메사끼도사",
+      "title": "KoAct 코스닥 ETF 비중 가장 높네요...",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 25,
+      "view": 1967,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-09 15:35:00",
+        "price": 40600,
+        "qty": 10,
+        "acc_qty": 511205,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "내일 상장하는 코액트 코스닥 ETF에 큐리를 가장 많이 담았네요.. 얼마전까지 키움에서 공개한 포트에는 없었는데... ㅎ 타임 포트도 궁금하네요...",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414525867&page=11"
+    },
+    {
+      "label": "post_15",
+      "date": "2026-03-10T17:51:41",
+      "author": "NB777",
+      "title": "■ 축하드립니다~~",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 22,
+      "view": 1023,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 15:35:00",
+        "price": 50900,
+        "qty": 434,
+        "acc_qty": 2493091,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "큐리언트의 핵심 파이프라인 텔라세벡이 글로벌 제약사들과의 연쇄 파트너십을 통해 상업화 궤도에 올랐다.",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414630236&page=7"
+    },
+    {
+      "label": "post_06",
+      "date": "2026-03-10T23:31:56",
+      "author": "모란데스",
+      "title": "ETF 편입리스트 만들때 기업 면담 했겠죠?",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 13,
+      "view": 422,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 15:35:00",
+        "price": 50900,
+        "qty": 434,
+        "acc_qty": 2493091,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "액티브 ETF 구성할 때 가장 엣지 있는 구성으로 만드려면 바로 성과로 증명 가능하고 많은 이익을 줄 주식이었겠죠 그리고 큐리언트에서는 객관적인 자료를 분명히 제시 했을 겁니다. 그러지 않고서야 큐리언트를 선택하고 가장 많은 포션으로 구성할 이유가 없었겠죠.",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414645301&page=6"
+    },
+    {
+      "label": "post_11",
+      "date": "2026-03-10T13:44:11",
+      "author": "종목이슈장인",
+      "title": "코스닥  etf 자금 유입도 6월에 들어올듯",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 11,
+      "view": 267,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 13:40:00",
+        "price": 51900,
+        "qty": 16823,
+        "acc_qty": 2070926,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "코스닥 액티브 비중도 1위인 이유가 있고 계약 이나 임상에 대한 자신감을 증권가에서 포착했겠지",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414607167&page=8"
+    },
+    {
+      "label": "post_13",
+      "date": "2026-03-11T09:52:39",
+      "author": "단단한지갑우등생",
+      "title": "10년 존버 결과",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 8,
+      "view": 569,
+      "link_count": 1,
+      "minute_ref": {
+        "ts": "2026-03-11 09:50:00",
+        "price": 60400,
+        "qty": 66955,
+        "acc_qty": 797423,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "잊고 살았더니 이런 날이...",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414671954&page=5"
+    },
+    {
+      "label": "post_05",
+      "date": "2026-03-11T01:15:02",
+      "author": "배려깊은흐름다람쥐",
+      "title": "“삼성 ETF가 가장 많이 담은 종목, 왜 큐리언트일까?”",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 8,
+      "view": 454,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-11 09:00:00",
+        "price": 54300,
+        "qty": 103308,
+        "acc_qty": 103308,
+        "match_type": "next_open"
+      },
+      "snippet": "https://blog.ai-fortunate.com/2026/03/etf_11.html?utm_source=external&utm_medium=referral&utm_campaign=2026_post 코스닥 시장에서 조금 의외의 일이 벌어졌습니다. 시가총액 상위 종목이 아닌 한 바이오 기업이 ETF 포트폴리오에서 가장 큰 비중을 차지한 것입니다.",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414648440&page=6"
+    },
+    {
+      "label": "post_12",
+      "date": "2026-03-09T18:43:54",
+      "author": "코코팜먹고파",
+      "title": "낼 상장되는 코스닥 etf",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 8,
+      "view": 290,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-09 15:35:00",
+        "price": 40600,
+        "qty": 10,
+        "acc_qty": 511205,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "포트폴리오 비중중에 큐리언트가 7퍼네요",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414525574&page=12"
+    },
+    {
+      "label": "post_19",
+      "date": "2026-03-10T10:28:34",
+      "author": "종목이슈장인",
+      "title": "코스닥 150 etf 자금 아직 안들어왔다",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 7,
+      "view": 137,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 10:25:00",
+        "price": 49350,
+        "qty": 37066,
+        "acc_qty": 1395712,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "수많은 유입이 아직 이루어지지 않았음",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414579357&page=9"
+    },
+    {
+      "label": "post_01",
+      "date": "2026-03-10T14:58:45",
+      "author": "주식배우는중",
+      "title": "작전주를 액티브에 편입시키다니",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 6,
+      "view": 421,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 14:55:00",
+        "price": 51500,
+        "qty": 36172,
+        "acc_qty": 2343782,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414615874&page=8"
+    },
+    {
+      "label": "post_07",
+      "date": "2026-03-10T23:30:55",
+      "author": "익살스런지갑검객",
+      "title": "삼성 코스닥액티브 ETF 비중 1위의 위엄",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 6,
+      "view": 164,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 15:35:00",
+        "price": 50900,
+        "qty": 434,
+        "acc_qty": 2493091,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "https://blog.naver.com/hopefire123/224211873805",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414645261&page=6"
+    },
+    {
+      "label": "post_18",
+      "date": "2026-03-10T10:55:47",
+      "author": "qpgv0121",
+      "title": "■■■ETF펀드편입■■■",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 6,
+      "view": 141,
+      "link_count": 1,
+      "minute_ref": {
+        "ts": "2026-03-10 10:55:00",
+        "price": 49700,
+        "qty": 26614,
+        "acc_qty": 1569947,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "정부의 50조원 지원종목편입 ​ 삼성ETF펀입 ​ ​",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414584087&page=9"
+    },
+    {
+      "label": "post_08",
+      "date": "2026-03-10T22:14:11",
+      "author": "익살스런지갑검객",
+      "title": "코스닥액티브ETF가 선정한 1위 편입종목",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 5,
+      "view": 172,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 15:35:00",
+        "price": 50900,
+        "qty": 434,
+        "acc_qty": 2493091,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "https://blog.naver.com/hopefire123/224211813272",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414641444&page=7"
+    },
+    {
+      "label": "post_17",
+      "date": "2026-03-10T13:33:33",
+      "author": "50에현금20억",
+      "title": "액티브 출시기념으로 오른주식 조심해라",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 4,
+      "view": 477,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 13:30:00",
+        "price": 51800,
+        "qty": 18393,
+        "acc_qty": 2041921,
+        "match_type": "prior_or_same"
+      },
+      "snippet": ".........",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414605952&page=8"
+    },
+    {
+      "label": "post_10",
+      "date": "2026-03-10T14:00:00",
+      "author": "단타단타단타",
+      "title": "이런 부실 만년적자 업체를 ETF에?",
+      "title_hits": [],
+      "body_hits": [],
+      "recommend": 3,
+      "view": 407,
+      "link_count": 0,
+      "minute_ref": {
+        "ts": "2026-03-10 14:00:00",
+        "price": 51900,
+        "qty": 8222,
+        "acc_qty": 2131125,
+        "match_type": "prior_or_same"
+      },
+      "snippet": "개판이구만!  국민세금으로 적자기업 주가 띄워주다니 ​ 어처구니가 없다.",
+      "url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414608983&page=8"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "post_18",
+  "source_url": "https://finance.naver.com/item/board_read.naver?code=115180&nid=414584087&page=9",
+  "mobile_url": "https://m.stock.naver.com/pc/domestic/stock/115180/discussion/414584087",
+  "title": "■■■ETF펀드편입■■■",
+  "written_at": "2026-03-10T10:55:47",
+  "author": "qpgv0121",
+  "recommend_count": 6,
+  "view_count": 141,
+  "image_urls": [
+    "https://storep-phinf.pstatic.net/paypet_01/original_5.gif?type=pa100_100"
+  ],
+  "extracted_links": [
+    "#"
+  ],
+  "saved_images": [
+    {
+      "url": "https://storep-phinf.pstatic.net/paypet_01/original_5.gif?type=pa100_100",
+      "image_file": "post_18_img01.png",
+      "ocr_file": "post_18_img01.ocr.txt"
+    }
+  ],
+  "text_filename": "post_18.content.txt",
+  "html_filename": "post_18.content.html"
+}

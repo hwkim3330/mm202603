@@ -26,6 +26,13 @@
 - 본문: `fss_submissions/20260310_futuremedicine/FSS_FUTUREMEDICINE_SUPPLEMENT_ONLINE_PASTE_20260311.txt`
 - 첨부: `fss_submissions/20260310_futuremedicine/fss_futuremedicine_supplement_bundle_20260311.zip`
 
+
+4. 큐리언트
+- 제목: `fss_submissions/20260311_qurient/FSS_QURIENT_SUPPLEMENT_TITLE_20260311.txt`
+- 경위: `fss_submissions/20260311_qurient/FSS_QURIENT_SUPPLEMENT_REPORT_PATH_20260311.txt`
+- 본문: `fss_submissions/20260311_qurient/FSS_QURIENT_SUPPLEMENT_ONLINE_PASTE_20260311.txt`
+- 첨부: `fss_submissions/20260311_qurient/fss_qurient_supplement_bundle_20260311.zip`
+
 ## Excluded / Fact-check Only
 
 - 현대해상: `ad_hoc/20260310_001450_hyundai_marine/HYUNDAI_MARINE_DISCLOSURE_FACTCHECK_20260311.md`

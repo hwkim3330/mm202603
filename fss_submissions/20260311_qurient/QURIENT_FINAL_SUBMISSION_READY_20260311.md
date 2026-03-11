@@ -44,3 +44,7 @@ Use the complaint as:
 2. Keep the exact uploaded zip unchanged.
 3. Keep this repository state unchanged for chain-of-custody.
 4. If the regulator asks for more, send the direct-evidence pack next.
+
+## Single-file Upload Alternative
+- `qurient_max_submit_bundle_20260311.zip`
+Use this only if you want one stronger upload bundle without internal-only notes.

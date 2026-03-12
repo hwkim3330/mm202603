@@ -1,0 +1,75 @@
+{
+  "code": "031860",
+  "name": "디에이치엑스컴퍼니",
+  "score": 30,
+  "categories": "caution, warning",
+  "reasons": "소수지점/계좌 | 투자경고 | 투자경고 지정예고",
+  "latest_date": "2026-03-12",
+  "event_count": 3,
+  "events": [
+    {
+      "code": "031860",
+      "name": "디에이치엑스컴퍼니",
+      "category": "caution",
+      "reason": "투자경고 지정예고",
+      "act_date": "2026-03-10",
+      "design_date": "2026-03-11",
+      "price": "622",
+      "delta": "180",
+      "raw": {
+        "rn": "47",
+        "isu_srt_cd": "031860",
+        "isu_nm": "디에이치엑스컴퍼니",
+        "gubun": "투자경고 지정예고",
+        "isu_cur_pr": "622",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "180",
+        "act_dd": "2026/03/10",
+        "design_dd": "2026/03/11"
+      }
+    },
+    {
+      "code": "031860",
+      "name": "디에이치엑스컴퍼니",
+      "category": "caution",
+      "reason": "소수지점/계좌",
+      "act_date": "2026-03-04",
+      "design_date": "2026-03-05",
+      "price": "622",
+      "delta": "180",
+      "raw": {
+        "rn": "151",
+        "isu_srt_cd": "031860",
+        "isu_nm": "디에이치엑스컴퍼니",
+        "gubun": "소수지점/계좌",
+        "isu_cur_pr": "622",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "180",
+        "act_dd": "2026/03/04",
+        "design_dd": "2026/03/05"
+      }
+    },
+    {
+      "code": "031860",
+      "name": "디에이치엑스컴퍼니",
+      "category": "warning",
+      "reason": "투자경고",
+      "act_date": "2026-03-11",
+      "design_date": "2026-03-12",
+      "price": "622",
+      "delta": "180",
+      "raw": {
+        "rn": "28",
+        "isu_cd": "031860",
+        "kor_isu_nm": "디에이치엑스컴퍼니",
+        "isu_std_pr": "622",
+        "fluc_tp": "2",
+        "prv_dd_cmpr": "180",
+        "act_dd": "2026/03/11",
+        "design_dd": "2026/03/12",
+        "free_dt": "-"
+      }
+    }
+  ],
+  "explanation": "caution+2 / warning+8 / 투자경고 지정예고+4 / recent(2026-03-11)+3 / 소수지점/계좌+3 / recent(2026-03-05)+1 / recent(2026-03-12)+3 / multi_category+4 / multi_reason+2"
+}

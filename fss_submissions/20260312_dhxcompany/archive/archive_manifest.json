@@ -1,0 +1,92 @@
+[
+  {
+    "label": "디에이치엑스컴퍼니_naver_board_main",
+    "url": "https://finance.naver.com/item/board.naver?code=031860",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260312T052755Z",
+    "bytes": 152566,
+    "sha256": "fc3d1c303a0b22334a9a647b467369e20e6d47b4177274911365be34936bc53d",
+    "filename": "20260312T052755Z_naver_board_main.html"
+  },
+  {
+    "label": "디에이치엑스컴퍼니_post_01",
+    "url": "https://finance.naver.com/item/board_read.naver?code=031860&nid=414444547&page=5",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260312T052756Z",
+    "bytes": 140998,
+    "sha256": "34d9e1640c0fe7966f5d3ed98ab275bb98b9f0a3e08d16061f7d88158eb1c4b2",
+    "filename": "20260312T052756Z_post_01.html"
+  },
+  {
+    "label": "디에이치엑스컴퍼니_post_02",
+    "url": "https://finance.naver.com/item/board_read.naver?code=031860&nid=414708437&page=3",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260312T052756Z",
+    "bytes": 140850,
+    "sha256": "33228f63065bc9fd0e59dd8084ac73c6cd003890aeec8c2f1ecb1854360d540a",
+    "filename": "20260312T052756Z_post_02.html"
+  },
+  {
+    "label": "디에이치엑스컴퍼니_post_03",
+    "url": "https://finance.naver.com/item/board_read.naver?code=031860&nid=274945403&page=44",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260312T052756Z",
+    "bytes": 140440,
+    "sha256": "8c824554430ecdeaf1e30ecf8b08f5b54941b4e30e93a670acc5344918a7507f",
+    "filename": "20260312T052756Z_post_03.html"
+  },
+  {
+    "label": "디에이치엑스컴퍼니_post_04",
+    "url": "https://finance.naver.com/item/board_read.naver?code=031860&nid=412854169&page=9",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260312T052756Z",
+    "bytes": 141313,
+    "sha256": "1f2803790b9b3ec33f01440f04d907a58107d5549790fae5b556f08140ec69d2",
+    "filename": "20260312T052756Z_post_04.html"
+  },
+  {
+    "label": "디에이치엑스컴퍼니_post_06",
+    "url": "https://finance.naver.com/item/board_read.naver?code=031860&nid=414749206&page=3",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260312T052756Z",
+    "bytes": 141139,
+    "sha256": "360d259afd019c09560460a88be369e41fb88ab440170c8559b56772da77241c",
+    "filename": "20260312T052756Z_post_06.html"
+  },
+  {
+    "label": "디에이치엑스컴퍼니_post_07",
+    "url": "https://finance.naver.com/item/board_read.naver?code=031860&nid=279762631&page=32",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260312T052756Z",
+    "bytes": 140412,
+    "sha256": "7c36f93332038177df663f043869ff6548e7b75d54495495a3e21cf0c0397f24",
+    "filename": "20260312T052756Z_post_07.html"
+  },
+  {
+    "label": "디에이치엑스컴퍼니_post_08",
+    "url": "https://finance.naver.com/item/board_read.naver?code=031860&nid=270808864&page=77",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260312T052756Z",
+    "bytes": 140446,
+    "sha256": "9824c223d74d54f9e0609e9961406317f690f786a1d209f9408d9c4c718b97bc",
+    "filename": "20260312T052756Z_post_08.html"
+  },
+  {
+    "label": "디에이치엑스컴퍼니_post_09",
+    "url": "https://finance.naver.com/item/board_read.naver?code=031860&nid=279031318&page=34",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "fetched_at_utc": "20260312T052756Z",
+    "bytes": 140336,
+    "sha256": "59e8af25acdf09fc50144c43bf1909ea1b2a1f57973f811fc96f62b410b17775",
+    "filename": "20260312T052756Z_post_09.html"
+  }
+]

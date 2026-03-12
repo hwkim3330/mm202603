@@ -1,0 +1,91 @@
+{
+  "orgn_prsm_avg_pric": "0",
+  "for_prsm_avg_pric": "384",
+  "stk_orgn_trde_trnsn": [
+    {
+      "dt": "20260312",
+      "close_pric": "-629",
+      "pre_sig": "5",
+      "pred_pre": "-173",
+      "flu_rt": "-21.57",
+      "trde_qty": "13628558",
+      "orgn_dt_acc": "-472.000000",
+      "orgn_daly_nettrde_qty": "0",
+      "for_dt_acc": "-15766.000000",
+      "for_daly_nettrde_qty": "0",
+      "limit_exh_rt": "+6.61"
+    },
+    {
+      "dt": "20260311",
+      "close_pric": "+802",
+      "pre_sig": "1",
+      "pred_pre": "+185",
+      "flu_rt": "+29.98",
+      "trde_qty": "1949321",
+      "orgn_dt_acc": "-472.000000",
+      "orgn_daly_nettrde_qty": "0",
+      "for_dt_acc": "-15766.000000",
+      "for_daly_nettrde_qty": "-102401",
+      "limit_exh_rt": "+6.61"
+    },
+    {
+      "dt": "20260310",
+      "close_pric": "+617",
+      "pre_sig": "1",
+      "pred_pre": "+142",
+      "flu_rt": "+29.89",
+      "trde_qty": "1291012",
+      "orgn_dt_acc": "-472.000000",
+      "orgn_daly_nettrde_qty": "-472",
+      "for_dt_acc": "86635.000000",
+      "for_daly_nettrde_qty": "-60522",
+      "limit_exh_rt": "+7.15"
+    },
+    {
+      "dt": "20260309",
+      "close_pric": "+475",
+      "pre_sig": "1",
+      "pred_pre": "+109",
+      "flu_rt": "+29.78",
+      "trde_qty": "1707834",
+      "orgn_dt_acc": "0.000000",
+      "orgn_daly_nettrde_qty": "0",
+      "for_dt_acc": "147157.000000",
+      "for_daly_nettrde_qty": "49437",
+      "limit_exh_rt": "+7.47"
+    },
+    {
+      "dt": "20260306",
+      "close_pric": "+366",
+      "pre_sig": "1",
+      "pred_pre": "+84",
+      "flu_rt": "+29.79",
+      "trde_qty": "1449403",
+      "orgn_dt_acc": "0.000000",
+      "orgn_daly_nettrde_qty": "0",
+      "for_dt_acc": "97720.000000",
+      "for_daly_nettrde_qty": "34796",
+      "limit_exh_rt": "+7.21"
+    },
+    {
+      "dt": "20260305",
+      "close_pric": "+282",
+      "pre_sig": "2",
+      "pred_pre": "+17",
+      "flu_rt": "+6.42",
+      "trde_qty": "335936",
+      "orgn_dt_acc": "0.000000",
+      "orgn_daly_nettrde_qty": "0",
+      "for_dt_acc": "62924.000000",
+      "for_daly_nettrde_qty": "62924",
+      "limit_exh_rt": "+7.03"
+    }
+  ],
+  "return_code": 0,
+  "return_msg": "정상적으로 처리되었습니다",
+  "api-id": "ka10045",
+  "cont-yn": "N",
+  "next-key": "",
+  "resp-cnt": "6",
+  "user-data": ""
+}
